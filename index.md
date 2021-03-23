@@ -33,3 +33,5 @@ Signed,
 [Tredkip](https://github.com/Tredkip)
 
 [dmt](https://github.com/dazage)
+
+[VincentPrevost](https://github.com/VincentPrevost)
