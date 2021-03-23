@@ -31,3 +31,5 @@ Signed,
 [averne](https://github.com/averne)
 
 [Tredkip](https://github.com/Tredkip)
+
+[dmt](https://github.com/dazage)
