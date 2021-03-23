@@ -45,3 +45,7 @@ Signed,
 [boozerboozeman](https://github.com/boozerboozeman)
 
 [Joseph Brandenburg](https://github.com/josephbburg)
+
+[Maximilian Power](https://github.com/maxp779)
+
+
