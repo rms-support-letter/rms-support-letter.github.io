@@ -39,3 +39,5 @@ Signed,
 [stalker0912, GNU supporter](https://github.com/stalker0912/)
 
 [boozerboozeman](https://github.com/boozerboozeman)
+
+[Phate6660](https://github.com/Phate6660)
