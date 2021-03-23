@@ -37,3 +37,5 @@ Signed,
 [VincentPrevost](https://github.com/VincentPrevost)
 
 [stalker0912, GNU supporter](https://github.com/stalker0912/)
+
+[Phate6660](https://github.com/Phate6660)
