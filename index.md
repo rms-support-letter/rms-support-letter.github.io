@@ -39,3 +39,5 @@ Signed,
 [stalker0912, GNU supporter](https://github.com/stalker0912/)
 
 [Phate6660](https://github.com/Phate6660)
+
+[Bronzu](https://github.com/Bronzu)
