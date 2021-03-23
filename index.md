@@ -8,6 +8,8 @@ FSF is an autonomous body that is capable of treating its members in a fair, unb
 
 Historically, RMS has been expressing his views in ways that upset many people. He is usually more focused on the philosophical underpinnings, and pursuing the objective truth and linguistic purism, while underemphasising people's feelings on matters he's commenting on. This makes his arguments vulnerable to misunderstanding and misrepresentation, something which we feel is happening in the open letter calling for his removal. His words need to be interpreted in this context and taking into account that more often than not, he is not looking to put things diplomatically.
 
+Regardless, Stallman's opinions on the matters he is being persecuted over are not relevant to his ability to lead a community such as the FSF. Furthermore, he is entitled to his opinions just as much as anyone else. Members and supporters do not have to agree with his opinions, but should respect his right to freedom of thought and speech.
+
 **To the FSF:**
 
 Removing RMS will hurt FSF's image and will deal a significant blow to the momentum of the free software movement. We urge you to consider your actions carefully, as what you will decide will have a serious impact on the future of the software industry.
@@ -51,4 +53,6 @@ Signed,
 [Maximilian Power](https://github.com/maxp779)
 
 [XGQT](https://github.com/xgqt)
+
+[Cardboard Turtle](https://github.com/CardboardTurtle)
 
