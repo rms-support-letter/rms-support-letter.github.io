@@ -37,3 +37,5 @@ Signed,
 [VincentPrevost](https://github.com/VincentPrevost)
 
 [stalker0912, GNU supporter](https://github.com/stalker0912/)
+
+[boozerboozeman](https://github.com/boozerboozeman)
