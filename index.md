@@ -28,6 +28,8 @@ Signed,
 
 [NO_ob](https://github.com/NO-ob/)
 
+[John SViN24](https://github.com/SViN24)
+
 [averne](https://github.com/averne)
 
 [Tredkip](https://github.com/Tredkip)
