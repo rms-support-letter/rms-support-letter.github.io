@@ -18,4 +18,4 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 Signed,
 
 [nukeop](https://github.com/nukeop)
-ivanka2012
+[ivanka2012](https://github.com/ivanka2012)
