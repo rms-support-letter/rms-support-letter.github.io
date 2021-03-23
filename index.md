@@ -1,6 +1,6 @@
 *2021-03-23*
 
-Richard M. Stallman, frequently known as RMS, has been a driving force in the fress fotware movement for decades, with contributions including the GNU operating system and Emacs.
+Richard M. Stallman, frequently known as RMS, has been a driving force in the free software movement for decades, with contributions including the GNU operating system and Emacs.
 Recently, there have been vile online attacks looking to remove him from the FSF board of directors for expressing his personal opinions.
 
 **To the FSF:**
