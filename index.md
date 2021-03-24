@@ -23,6 +23,8 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 
 Signed,
+[sfera04](https://github.com/sfera04)
+
 [yuriv](https://github.com/yuriv)
 
 [AlphaHot](https://github.com/AlphaHot)
@@ -235,14 +237,6 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
-[Pavel Gusar](https://github.com/bpGusar)
-
-[Pol Earnik](https://github.com/polearnik)
-
-[Rinat Zaripov](https://github.com/DragonZla)
-
-[Alexander Kravchenko](https://github.com/aakravchenko)
-
 [Vladimir Gavrilov](https://github.com/jacendi)
 
 [Alexei Lozovsky (ilammy)](https://github.com/ilammy)
@@ -275,4 +269,4 @@ Signed,
 
 [Sergey Shurlakov](https://github.com/shurlakov)
 
-[Maksim Polishchuk](https://github.com/MiraD1n)
+[Maksim Polishchuk](https://github.com/MiraD1n) 
