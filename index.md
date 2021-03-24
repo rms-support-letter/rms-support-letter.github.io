@@ -145,6 +145,8 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
+[xor2003](https://github.com/xor2003)
+
 [Sergei Shilin](https://github.com/GutsyHeart)
 
 [dvissert](https://github.com/dvissert)
