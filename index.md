@@ -726,3 +726,5 @@ Signed,
 [Andrei Yankovich](https://github.com/EndrII)
 
 [Kerrigan](https://github.com/UndeRus)
+
+[paren-duren](https://github.com/paren-duren)
