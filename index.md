@@ -234,3 +234,5 @@ Signed,
 [Bartek Sabat](https://github.com/Cloud11665)
 
 [Alice Frey](https://github.com/aliasn3t)
+
+[Jalol Khamroev Olimovich](https://github.com/CODPUD)
