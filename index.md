@@ -67,3 +67,5 @@ Signed,
 [Daniel Menelkir](https://gitlab.com/menelkir)
 
 [Gamelone](https://github.com/gamelone)
+
+[fuuon](https://github.com/fuuon)
