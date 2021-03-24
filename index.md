@@ -1,4 +1,4 @@
-*2021-03-23*
+﻿*2021-03-23*
 
 Richard M. Stallman, frequently known as RMS, has been a driving force in the free software movement for decades, with contributions including the GNU operating system and Emacs.
 
@@ -23,6 +23,7 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 
 Signed,
+[yuriv](https://github.com/yuriv)
 
 [AlphaHot](https://github.com/AlphaHot)
 
@@ -54,7 +55,7 @@ Signed,
 
 [Maximilian Power](https://github.com/maxp779)
 
-[XGQT](https://github.com/xgqt)
+[Maciej XGQT Barć](https://github.com/xgqt)
 
 [Cardboard Turtle](https://github.com/CardboardTurtle)
 
@@ -118,8 +119,6 @@ Signed,
 
 [Bazsalanszky](https://github.com/Bazsalanszky)
 
-[Roberto Santacroce Martins](https://github.com/mileschet)
-
 [Sebastian Erika Higgins](https://github.com/bctnry)
 
 [Nonetrix](https://nonetrix.neocities.org)
@@ -142,12 +141,160 @@ Signed,
 
 [Ivan Machugovskiy](https://github.com/imachug)
 
+[Dmitry Akatov](https://github.com/rails-to-cosmos)
+
 [Vladislav Glinsky](https://github.com/cl0ne)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
 [dvissert](https://github.com/dvissert)
 
+[Andriy Nikiforov](https://github.com/AndriyNikiforov)
+
 [Weber-Pflaumer Vladislav](https://github.com/FromSi)
 
-[Sergei Shilin](https://github.com/GutsyHeart)
+[Jihadist C++](https://github.com/Jihadist)
+
+[Boris P](https://github.com/control-panel)
+
+[Vitaly Ostrosablin](https://github.com/tmp6154)
+
+[Dmitry Melnichuk](https://github.com/jock-tanner)
+
+[Yuriy Chumak](https://github.com/yuriy-chumak)
+
+[киберджин](https://github.com/codefather-labs)
+
+[Adam Katz](https://github.com/dial8gue)
+
+[Watcher3056](https://github.com/Watcher3056)
+
+[unti1x](https://github.com/unti1x)
+
+[Daniel](https://github.com/Zuzuk-null)
+
+[Stanislav Shmarov](https://github.com/Snarpix)
+
+[Sherzod Mutalov](https://github.com/shmutalov)
+
+[Dmitriy Osipov](https://github.com/Shiftuia)
+
+[Dmitry Derbin](https://github.com/lmcdd)
+
+[N0rbert](https://github.com/N0rbert)
+
+[Mike Burdin](https://github.com/xDShot)
+
+[Andrey Unger](https://github.com/unger1984)
+
+[Denys Zelenov](https://github.com/torwalds)
+
+[Sam Hardwick](https://github.com/Traubert)
+
+[Nikita Mynzat](https://github.com/Axeleron7)
+
+[svinerus](https://github.com/svinerus)
+
+[Andrey Unger](https://github.com/unger1984)
+
+[Stefan Midjich](https://github.com/stemid)
+
+[Anton Solomonov](https://github.com/wendor)
+
+[rydnr](https://github.com/rydnr)
+
+[karmich](https://github.com/karmich)
+
+[Maxim Mikhailov](https://github.com/darkness9724)
+
+[Fineco Spaco](https://github.com/FinecoFinit)
+
+[Dmitriy Pomerantsev](https://github.com/pda0)
+
+[karmich](https://github.com/karmich)
+
+[TimurC1](https://github.com/TimurC1)
+
+[Alexey Gusev aka GuAlSe](https://gitlab.com/gualse)
+
+[Alexander Tulyakov](https://github.com/MrChaos1993)
+
+[Jonny Lindqvist](https://github.com/ojnny)
+
+[Kirill K.](https://github.com/CrepCrep)
+
+[Yury Remishevsky](https://github.com/StoneToken)
+
+[Alexey Arkhipov](https://github.com/arksilva)
+
+[Vladimir Zorin](https://github.com/epicfilemcnulty)
+
+[Vasiliy Streltsov](https://github.com/vstrelstov)
+
+[Meri Amirkhanian](https://github.com/meri22)
+
+[George Linkovsky](https://github.com/Timofffee)
+
+[Aleksej Serdyukov](https://github.com/aleksejrs)
+
+[Serge Postrash](https://github.com/SDKiller)
+
+[Bartek Sabat](https://github.com/Cloud11665)
+
+[Alice Frey](https://github.com/aliasn3t)
+
+[Kirill "Keroosha" Poletaev](https://github.com/Keroosha)
+
+[Yulqen](https://github.com/yulqen)
+
+[Pavel Gusar](https://github.com/bpGusar)
+
+[Pol Earnik](https://github.com/polearnik)
+
+[Rinat Zaripov](https://github.com/DragonZla)
+
+[Alexander Kravchenko](https://github.com/aakravchenko)
+
+[Vladimir Gavrilov](https://github.com/jacendi)
+
+[Alexei Lozovsky (ilammy)](https://github.com/ilammy)
+
+[Alexander Verbovetsky](https://github.com/slalik)
+
+[Andrei Likhobabin](https://github.com/DoctorChe)
+
+[Lev Meirovitch](https://github.com/lvmtime)
+
+[Marat Gaianov](https://github.com/mgayanov)
+
+[Alexandr Kozachek](https://github.com/fluttr)
+
+[Yaroslav Isaev](https://github.com/jsisaev1)
+
+[Artem Kliatchkine](https://github.com/Sundow)
+
+[Alexey Slavin](https://github.com/YOricH/)
+
+[pas9x](https://github.com/pas9x)
+
+[Maxim Kochetkov](https://github.com/fidomax)
+
+[Dmitriy Tukhvatullin](https://github.com/jershell)
+
+[r3d9477](https://github.com/R3D9477)
+
+[Dmitrii Shepilov](https://github.com/CmShepard)
+
+[Alex BerS](https://github.com/pitachx)
+
+[Sergey Shurlakov](https://github.com/shurlakov)
+
+[Maksim Polishchuk](https://github.com/MiraD1n)
+
+[alsoijw](https://github.com/alsoijw)
+
+[Alexander P. Molotkov](https://github.com/apmolotkov)
+
+[Oleg Komkov](https://github.com/antipooh)
+
+[Vadzim Tarasiuk](https://github.com/VadzimTarasiuk)
