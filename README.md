@@ -16,6 +16,7 @@ link: https://example.com/
 ```
 
 Don't use `<>` in this file, as well as non-ascii symbols in file name.
+If you are able to, please use your real name and add projects and affiliatied organizations in parentheses.
 
 When youre done, create a pull request.
 
