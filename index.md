@@ -190,4 +190,4 @@ Signed,
 
 [karmich](https://github.com/karmich)
 
-[Vladimir Kunschikov] (https://github.com/kunschikov)
+[Vladimir Kunschikov](https://github.com/kunschikov)
