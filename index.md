@@ -65,3 +65,5 @@ Signed,
 [Problemoo](https://github.com/problemoo)
 
 [Daniel Menelkir](https://gitlab.com/menelkir)
+
+[Gamelone](https://github.com/gamelone)
