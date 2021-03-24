@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Yaroslav Isaev](https://github.com/jsisaev1)
+
 [Artem Kliatchkine](https://github.com/Sundow)
 
 [Alexey Slavin](https://github.com/YOricH/)
