@@ -144,10 +144,30 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
+[Boris P](https://github.com/control-panel)
+
 [Vitaly Ostrosablin](https://github.com/tmp6154)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
 [Adam Katz](https://github.com/dial8gue)
+
+[Yuriy Chumak](https://github.com/yuriy-chumak)
+
+[киберджин](https://github.com/codefather-labs)
+
+[Adam Katz](https://github.com/dial8gue)
+
+[Watcher3056] (https://github.com/Watcher3056)
+
+[unti1x](https://github.com/unti1x)
+
+[Daniel](https://github.com/Zuzuk-null)
+
+[Sherzod Mutalov](https://github.com/shmutalov)
+
+[Dmitry Derbin](https://github.com/lmcdd)
+
+[N0rbert](https://github.com/N0rbert)
 
 [Igor Baidiuk](https://github.com/target-san)
