@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Yulqen](https://github.com/yulqen)
+
 [Pavel Gusar](https://github.com/bpGusar)
 
 [Pol Earnik](https://github.com/polearnik)
