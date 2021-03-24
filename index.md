@@ -235,6 +235,36 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Yulqen](https://github.com/yulqen)
+
+[Pavel Gusar](https://github.com/bpGusar)
+
+[Pol Earnik](https://github.com/polearnik)
+
+[Rinat Zaripov](https://github.com/DragonZla)
+
+[Alexander Kravchenko](https://github.com/aakravchenko)
+
+[Vladimir Gavrilov](https://github.com/jacendi)
+
+[Alexei Lozovsky (ilammy)](https://github.com/ilammy)
+
+[Alexander Verbovetsky](https://github.com/slalik)
+
+[Andrei Likhobabin](https://github.com/DoctorChe)
+
+[Lev Meirovitch](https://github.com/lvmtime)
+
+[Marat Gaianov](https://github.com/mgayanov)
+
+[Alexandr Kozachek](https://github.com/fluttr)
+
+[Yaroslav Isaev](https://github.com/jsisaev1)
+
+[Artem Kliatchkine](https://github.com/Sundow)
+
+[Alexey Slavin](https://github.com/YOricH/)
+
 [pas9x](https://github.com/pas9x)
 
 [Maxim Kochetkov](https://github.com/fidomax)
@@ -248,4 +278,7 @@ Signed,
 [Sergey Shurlakov](https://github.com/shurlakov)
 
 [Maksim Polishchuk](https://github.com/MiraD1n) 
+
 [Valery Slobodin](https://github.com/v50110)
+
+[Maksim Polishchuk](https://github.com/MiraD1n)
