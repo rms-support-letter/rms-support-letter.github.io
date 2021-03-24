@@ -164,6 +164,8 @@ Signed,
 
 [Sherzod Mutalov](https://github.com/shmutalov)
 
+[Dmitriy Osipov](https://github.com/Shiftuia)
+
 [Dmitry Derbin](https://github.com/lmcdd)
 
 [N0rbert](https://github.com/N0rbert)
