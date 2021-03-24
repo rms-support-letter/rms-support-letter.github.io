@@ -121,3 +121,5 @@ Signed,
 [Sebastian Erika Higgins](https://github.com/bctnry)
 
 [Nonetrix](https://nonetrix.neocities.org)
+
+[nekonee](https://github.com/nekonee)
