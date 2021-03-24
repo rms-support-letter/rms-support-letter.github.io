@@ -55,7 +55,7 @@ Signed,
 
 [Maximilian Power](https://github.com/maxp779)
 
-[XGQT](https://github.com/xgqt)
+[Maciej XGQT Barć](https://github.com/xgqt)
 
 [Cardboard Turtle](https://github.com/CardboardTurtle)
 
@@ -284,3 +284,6 @@ Signed,
 [Alexander P. Molotkov](https://github.com/apmolotkov)
 
 [Andra Antariksa](https://github.com/andraantariksa)
+
+[Oleg Komkov](https://github.com/antipooh)
+
