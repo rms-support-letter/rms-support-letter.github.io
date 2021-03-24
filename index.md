@@ -84,6 +84,8 @@ Signed,
 
 [Dima Akater](https://gitlab.com/akater)
 
+[Ethan Schoenhofen](https://github.com/ethan-schoenhofen)
+
 [Richard Kramenstetter](https://github.com/Rhdrmhdrvf/)
 
 [Gooberpatrol66](https://github.com/Gooberpatrol66)
