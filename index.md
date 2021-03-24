@@ -84,4 +84,6 @@ Signed,
 
 [Dima Akater](https://gitlab.com/akater)
 
+[Anirudh Oppiliappan](https://github.com/icyphox)
+
 [Kakol](https://github.com/kakolisgay)
