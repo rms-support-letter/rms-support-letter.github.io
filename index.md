@@ -177,6 +177,8 @@ Signed,
 
 [Andrey Unger](https://github.com/unger1984)
 
+[Denys Zelenov](https://github.com/torwalds)
+
 [Sam Hardwick](https://github.com/Traubert)
 
 [Nikita Mynzat](https://github.com/Axeleron7)
