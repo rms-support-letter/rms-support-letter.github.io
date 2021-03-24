@@ -142,3 +142,4 @@ Signed,
 
 [Ivan Machugovskiy](https://github.com/imachug)
 
+[Dmitry Akatov](https://github.com/rails-to-cosmos)
