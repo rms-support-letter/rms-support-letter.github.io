@@ -23,6 +23,9 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 
 Signed,
+
+[MIAH7](https://github.com/MIAH7)
+
 [yuriv](https://github.com/yuriv)
 
 [AlphaHot](https://github.com/AlphaHot)
@@ -230,5 +233,3 @@ Signed,
 [Aleksej Serdyukov](https://github.com/aleksejrs)
 
 [Serge Postrash](https://github.com/SDKiller)
-
-[Alice Frey](https://github.com/aliasn3t)
