@@ -84,6 +84,8 @@ Signed,
 
 [Dima Akater](https://gitlab.com/akater)
 
+[Gooberpatrol66](https://github.com/Gooberpatrol66)
+
 [Big Flai](https://github.com/big-flai)
 
 [JackRedstonia](https://gitlab.com/JackRedstonia)
