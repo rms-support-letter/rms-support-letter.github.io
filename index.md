@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Rinat Zaripov](https://github.com/DragonZla)
+
 [Alexander Kravchenko](https://github.com/aakravchenko)
 
 [Vladimir Gavrilov](https://github.com/jacendi)
@@ -269,4 +271,4 @@ Signed,
 
 [Sergey Shurlakov](https://github.com/shurlakov)
 
-[Maksim Polishchuk](https://github.com/MiraD1n) 
+[Maksim Polishchuk](https://github.com/MiraD1n)
