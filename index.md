@@ -204,4 +204,8 @@ Signed,
 
 [Jonny Lindqvist](https://github.com/ojnny)
 
+[Kirill K.](https://github.com/CrepCrep)
+
+[Yury Remishevsky](https://github.com/StoneToken)
+
 [Alexander Petrovskiy](https://github.com/kvadrage)
