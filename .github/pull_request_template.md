@@ -1,3 +1,4 @@
+<!--
 ### Don't edit index.md directly!
 
 ### To sign, create a file in `_data/signed/` named `<username>.yaml` with the following content:
@@ -13,3 +14,4 @@ link: <link to your profile or site>
 name: Richard Matthew Stallman
 link: https://stallman.org/
 ```
+-->
