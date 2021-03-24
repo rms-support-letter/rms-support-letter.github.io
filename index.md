@@ -211,3 +211,5 @@ Signed,
 [Yury Remishevsky](https://github.com/StoneToken)
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
+
+[V. Asakasinsky](https://github.com/asakasinsky)
