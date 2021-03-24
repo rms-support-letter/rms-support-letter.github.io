@@ -1,4 +1,4 @@
-name: Check PR modifications
+name: Do not modify index.md directly, add a file to _data/signed instead
 on:
   pull_request:
     branches:
@@ -9,5 +9,5 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Return error
-        run: echo Test
+      - name: Throw error
+        run: echo "Do not modify index.md directly, add a file to _data/signed instead"; exit 1
