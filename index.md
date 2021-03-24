@@ -300,3 +300,5 @@ Signed,
 [Oleg Komkov](https://github.com/antipooh)
 
 [Vadzim Tarasiuk](https://github.com/VadzimTarasiuk)
+
+[Илья Индиго](https://github.com/IlyaIndigo)
