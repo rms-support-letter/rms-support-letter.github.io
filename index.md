@@ -83,3 +83,5 @@ Signed,
 [Snorklo](https://github.com/Soolko)
 
 [Dima Akater](https://gitlab.com/akater)
+
+[Ethan Schoenhofen](https://github.com/ethan-schoenhofen)
