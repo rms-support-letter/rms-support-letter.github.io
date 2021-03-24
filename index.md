@@ -23,6 +23,7 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 
 Signed,
+[yuriv](https://github.com/yuriv)
 
 [AlphaHot](https://github.com/AlphaHot)
 
