@@ -170,6 +170,8 @@ Signed,
 
 [N0rbert](https://github.com/N0rbert)
 
+[svinerus](https://github.com/svinerus)
+
 [Andrey Unger](https://github.com/unger1984)
 
 [Anton Solomonov](https://github.com/wendor)
