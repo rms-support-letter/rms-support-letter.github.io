@@ -119,8 +119,6 @@ Signed,
 
 [Bazsalanszky](https://github.com/Bazsalanszky)
 
-[Roberto Santacroce Martins](https://github.com/mileschet)
-
 [Sebastian Erika Higgins](https://github.com/bctnry)
 
 [Nonetrix](https://nonetrix.neocities.org)
