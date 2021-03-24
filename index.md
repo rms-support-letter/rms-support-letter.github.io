@@ -284,3 +284,5 @@ Signed,
 [Alexander P. Molotkov](https://github.com/apmolotkov)
 
 [Oleg Komkov](https://github.com/antipooh)
+
+[Vladimir Kazanov](https://github.com/vkazanov)
