@@ -162,8 +162,6 @@ Signed,
 
 [Daniel](https://github.com/Zuzuk-null)
 
-[Stanislav Shmarov](https://github.com/Snarpix)
-
 [Sherzod Mutalov](https://github.com/shmutalov)
 
 [Dmitriy Osipov](https://github.com/Shiftuia)
@@ -202,4 +200,4 @@ Signed,
 
 [karmich](https://github.com/karmich)
 
-[Jonny Lindqvist](https://github.com/ojnny)
+[trimethoxy](https://github.com/trimethoxy)
