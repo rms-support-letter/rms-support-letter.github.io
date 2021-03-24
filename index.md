@@ -143,3 +143,5 @@ Signed,
 [Ivan Machugovskiy](https://github.com/imachug)
 
 [Vladislav Glinsky](https://github.com/cl0ne)
+
+[Vitaly Ostrosablin](https://github.com/tmp6154)
