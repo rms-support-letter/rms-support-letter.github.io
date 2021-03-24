@@ -156,8 +156,6 @@ Signed,
 
 [киберджин](https://github.com/codefather-labs)
 
-[Adam Katz](https://github.com/dial8gue)
-
 [Watcher3056] (https://github.com/Watcher3056)
 
 [unti1x](https://github.com/unti1x)
@@ -169,5 +167,7 @@ Signed,
 [Dmitry Derbin](https://github.com/lmcdd)
 
 [N0rbert](https://github.com/N0rbert)
+
+[Andrey Unger](https://github.com/unger1984)
 
 [Igor Baidiuk](https://github.com/target-san)
