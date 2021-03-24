@@ -5,4 +5,5 @@ To sign, open a pull request. Link your profile or email in the signature. Pleas
 Let's keep the tone firm, but professional.
 
 
-**Pull requests merged within 12 hours**
+**Pull requests merged within 12 hours - due to a huge volume of PRs they will be merged in batches**
+ 
