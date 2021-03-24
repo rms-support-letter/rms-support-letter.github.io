@@ -234,3 +234,5 @@ Signed,
 [Bartek Sabat](https://github.com/Cloud11665)
 
 [Alice Frey](https://github.com/aliasn3t)
+
+[Alexander Letnikow](https://github.com/Horat1us)
