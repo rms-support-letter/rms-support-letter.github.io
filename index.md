@@ -235,10 +235,6 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
-[pas9x](https://github.com/pas9x)
-
-[Maxim Kochetkov](https://github.com/fidomax)
-
 [r3d9477](https://github.com/R3D9477)
 
 [Dmitrii Shepilov](https://github.com/CmShepard)
@@ -248,3 +244,5 @@ Signed,
 [Sergey Shurlakov](https://github.com/shurlakov)
 
 [Maksim Polishchuk](https://github.com/MiraD1n) 
+
+[Dmitry](https://github.com/dimio) 
