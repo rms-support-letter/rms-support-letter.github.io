@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Lev Meirovitch](https://github.com/lvmtime)
+
 [Marat Gaianov](https://github.com/mgayanov)
 
 [Alexandr Kozachek](https://github.com/fluttr)
