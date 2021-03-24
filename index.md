@@ -144,6 +144,8 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
+[Boris P](https://github.com/control-panel)
+
 [Vitaly Ostrosablin](https://github.com/tmp6154)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
