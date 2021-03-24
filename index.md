@@ -173,3 +173,5 @@ Signed,
 [Andrey Unger](https://github.com/unger1984)
 
 [Anton Solomonov](https://github.com/wendor)
+
+[Kirill Zimnikov](https://github.com/lirik90)
