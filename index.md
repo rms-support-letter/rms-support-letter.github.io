@@ -55,7 +55,7 @@ Signed,
 
 [Maximilian Power](https://github.com/maxp779)
 
-[XGQT](https://github.com/xgqt)
+[Maciej XGQT Barć](https://github.com/xgqt)
 
 [Cardboard Turtle](https://github.com/CardboardTurtle)
 
@@ -119,8 +119,6 @@ Signed,
 
 [Bazsalanszky](https://github.com/Bazsalanszky)
 
-[Roberto Santacroce Martins](https://github.com/mileschet)
-
 [Sebastian Erika Higgins](https://github.com/bctnry)
 
 [Nonetrix](https://nonetrix.neocities.org)
@@ -143,13 +141,25 @@ Signed,
 
 [Ivan Machugovskiy](https://github.com/imachug)
 
+[Dmitry Akatov](https://github.com/rails-to-cosmos)
+
 [Vladislav Glinsky](https://github.com/cl0ne)
+
+[Sergei Shilin](https://github.com/GutsyHeart)
+
+[dvissert](https://github.com/dvissert)
+
+[Andriy Nikiforov](https://github.com/AndriyNikiforov)
+
+[Weber-Pflaumer Vladislav](https://github.com/FromSi)
+
+[Jihadist C++](https://github.com/Jihadist)
 
 [Boris P](https://github.com/control-panel)
 
 [Vitaly Ostrosablin](https://github.com/tmp6154)
 
-[Sergei Shilin](https://github.com/GutsyHeart)
+[Dmitry Melnichuk](https://github.com/jock-tanner)
 
 [Yuriy Chumak](https://github.com/yuriy-chumak)
 
@@ -221,8 +231,6 @@ Signed,
 
 [Vasiliy Streltsov](https://github.com/vstrelstov)
 
-[Vladimir Zorin](https://github.com/epicfilemcnulty)
-
 [Meri Amirkhanian](https://github.com/meri22)
 
 [George Linkovsky](https://github.com/Timofffee)
@@ -234,3 +242,59 @@ Signed,
 [Bartek Sabat](https://github.com/Cloud11665)
 
 [Alice Frey](https://github.com/aliasn3t)
+
+[Kirill "Keroosha" Poletaev](https://github.com/Keroosha)
+
+[Yulqen](https://github.com/yulqen)
+
+[Pavel Gusar](https://github.com/bpGusar)
+
+[Pol Earnik](https://github.com/polearnik)
+
+[Rinat Zaripov](https://github.com/DragonZla)
+
+[Alexander Kravchenko](https://github.com/aakravchenko)
+
+[Vladimir Gavrilov](https://github.com/jacendi)
+
+[Alexei Lozovsky (ilammy)](https://github.com/ilammy)
+
+[Alexander Verbovetsky](https://github.com/slalik)
+
+[Andrei Likhobabin](https://github.com/DoctorChe)
+
+[Lev Meirovitch](https://github.com/lvmtime)
+
+[Marat Gaianov](https://github.com/mgayanov)
+
+[Alexandr Kozachek](https://github.com/fluttr)
+
+[Yaroslav Isaev](https://github.com/jsisaev1)
+
+[Artem Kliatchkine](https://github.com/Sundow)
+
+[Alexey Slavin](https://github.com/YOricH/)
+
+[pas9x](https://github.com/pas9x)
+
+[Maxim Kochetkov](https://github.com/fidomax)
+
+[Dmitriy Tukhvatullin](https://github.com/jershell)
+
+[r3d9477](https://github.com/R3D9477)
+
+[Dmitrii Shepilov](https://github.com/CmShepard)
+
+[Alex BerS](https://github.com/pitachx)
+
+[Sergey Shurlakov](https://github.com/shurlakov)
+
+[Maksim Polishchuk](https://github.com/MiraD1n)
+
+[alsoijw](https://github.com/alsoijw)
+
+[Alexander P. Molotkov](https://github.com/apmolotkov)
+
+[Oleg Komkov](https://github.com/antipooh)
+
+[Vadzim Tarasiuk](https://github.com/VadzimTarasiuk)
