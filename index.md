@@ -221,8 +221,6 @@ Signed,
 
 [Vasiliy Streltsov](https://github.com/vstrelstov)
 
-[Vladimir Zorin](https://github.com/epicfilemcnulty)
-
 [Meri Amirkhanian](https://github.com/meri22)
 
 [George Linkovsky](https://github.com/Timofffee)
@@ -234,7 +232,5 @@ Signed,
 [Bartek Sabat](https://github.com/Cloud11665)
 
 [Alice Frey](https://github.com/aliasn3t)
-
-[Maksim Polishchuk](https://github.com/MiraD1n) 
 
 [Ampermp](https://github.com/ampermp)
