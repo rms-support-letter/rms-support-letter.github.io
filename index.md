@@ -79,3 +79,5 @@ Signed,
 [powpingdone](https://github.com/powpingdone)
 
 [Kiran Gopinathan](https://github.com/gopiandcode)
+
+[Snorklo](https://github.com/Soolko)
