@@ -171,3 +171,5 @@ Signed,
 [N0rbert](https://github.com/N0rbert)
 
 [Andrey Unger](https://github.com/unger1984)
+
+[Anton Solomonov](https://github.com/wendor)
