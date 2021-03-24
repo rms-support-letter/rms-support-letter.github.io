@@ -278,3 +278,5 @@ Signed,
 [Sergey Shurlakov](https://github.com/shurlakov)
 
 [Maksim Polishchuk](https://github.com/MiraD1n)
+
+[Ivan Loh](https://github.com/Loh1917)
