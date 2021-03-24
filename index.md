@@ -147,3 +147,5 @@ Signed,
 [Weber-Pflaumer Vladislav](https://github.com/FromSi)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
+
+[Boris Popov](https://github.com/popovb)
