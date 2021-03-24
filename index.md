@@ -186,6 +186,8 @@ Signed,
 
 [Anton Solomonov](https://github.com/wendor)
 
+[Fineco Spaco](https://github.com/FinecoFinit)
+
 [Dmitriy Pomerantsev](https://github.com/pda0)
 
 [karmich](https://github.com/karmich)
