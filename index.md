@@ -232,3 +232,5 @@ Signed,
 [Serge Postrash](https://github.com/SDKiller)
 
 [Alice Frey](https://github.com/aliasn3t)
+
+[Alex Kuzmion](https://github.com/gitavk)
