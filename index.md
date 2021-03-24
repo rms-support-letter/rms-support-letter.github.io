@@ -156,7 +156,7 @@ Signed,
 
 [Adam Katz](https://github.com/dial8gue)
 
-[Watcher3056] (https://github.com/Watcher3056)
+[Watcher3056](https://github.com/Watcher3056)
 
 [unti1x](https://github.com/unti1x)
 
@@ -164,6 +164,4 @@ Signed,
 
 [Sherzod Mutalov](https://github.com/shmutalov)
 
-[Dmitry Derbin](https://github.com/lmcdd)
-
-[N0rbert](https://github.com/N0rbert)
+[Cornerot](https://github.com/cornerot)
