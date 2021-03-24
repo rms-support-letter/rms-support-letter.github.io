@@ -286,3 +286,5 @@ Signed,
 [Oleg Komkov](https://github.com/antipooh)
 
 [Vadzim Tarasiuk](https://github.com/VadzimTarasiuk)
+
+[Vadim Pashkov](https://github.com/vpashkov)
