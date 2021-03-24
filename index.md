@@ -284,3 +284,5 @@ Signed,
 [Alexander P. Molotkov](https://github.com/apmolotkov)
 
 [Oleg Komkov](https://github.com/antipooh)
+
+[Sergii Serogin](https://github.com/lizard2010)
