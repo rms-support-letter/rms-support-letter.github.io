@@ -133,3 +133,5 @@ Signed,
 [Milan Andreew](https://github.com/milanandreew)
 
 [kageru](https://github.com/kageru)
+
+[Aroop Roelofs (FinlayDaG33k)](https://github.com/finlaydag33k)
