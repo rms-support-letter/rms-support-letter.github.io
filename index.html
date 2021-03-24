@@ -1,0 +1,18 @@
+---
+layout: letter
+---
+
+<p>
+  <b>
+    Signed:
+  </b>
+</p>
+
+<ul>
+    {% for sign_hash in site.data.signed %}
+    {% assign signed = sign_hash[1] %}
+    <li><a href="{{ signed.link }}">
+      {{ signed.name }}
+    </a></li>
+    {% endfor %}
+</ul>

@@ -119,8 +119,6 @@ Signed,
 
 [Bazsalanszky](https://github.com/Bazsalanszky)
 
-[Roberto Santacroce Martins](https://github.com/mileschet)
-
 [Sebastian Erika Higgins](https://github.com/bctnry)
 
 [Nonetrix](https://nonetrix.neocities.org)
@@ -221,8 +219,6 @@ Signed,
 
 [Vasiliy Streltsov](https://github.com/vstrelstov)
 
-[Vladimir Zorin](https://github.com/epicfilemcnulty)
-
 [Meri Amirkhanian](https://github.com/meri22)
 
 [George Linkovsky](https://github.com/Timofffee)
@@ -235,7 +231,7 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
-[Vladislav](https://github.com/leveldev)
+[Kirill "Keroosha" Poletaev](https://github.com/Keroosha)
 
 [Yulqen](https://github.com/yulqen)
 
@@ -271,6 +267,8 @@ Signed,
 
 [Maxim Kochetkov](https://github.com/fidomax)
 
+[Dmitriy Tukhvatullin](https://github.com/jershell)
+
 [r3d9477](https://github.com/R3D9477)
 
 [Dmitrii Shepilov](https://github.com/CmShepard)
@@ -280,3 +278,7 @@ Signed,
 [Sergey Shurlakov](https://github.com/shurlakov)
 
 [Maksim Polishchuk](https://github.com/MiraD1n)
+
+[alsoijw](https://github.com/alsoijw)
+
+[Vladislav](https://github.com/leveldev)
