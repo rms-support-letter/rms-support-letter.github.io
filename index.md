@@ -726,3 +726,5 @@ Signed,
 [Andrei Yankovich](https://github.com/EndrII)
 
 [Kerrigan](https://github.com/UndeRus)
+
+[Ishimoto Shinobu](https://github.com/protonesso)
