@@ -152,3 +152,5 @@ Signed,
 
 [Adam Katz](https://github.com/dial8gue)
 
+[Daniel](https://github.com/Zuzuk-null
+
