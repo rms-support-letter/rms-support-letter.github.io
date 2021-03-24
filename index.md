@@ -84,6 +84,8 @@ Signed,
 
 [Dima Akater](https://gitlab.com/akater)
 
+[kompowiec2](https://github.com/kompowiec)
+
 [kitsunyan](https://github.com/kitsunyan)
 
 [Alex A.](https://github.com/reactos573)
@@ -105,3 +107,5 @@ Signed,
 [Kakol](https://github.com/kakolisgay)
 
 [Rachel-Rose O'Leary](https://github.com/lunar-mining)
+
+[Amir Taaki](https://twitter.com/Narodism)
