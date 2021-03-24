@@ -138,8 +138,6 @@ Signed,
 
 [Aroop Roelofs (FinlayDaG33k)](https://github.com/finlaydag33k)
 
-[Alexey Gorshkov (AnimusPEXUS)](https://github.com/AnimusPEXUS)
-
 [Ivan Machugovskiy](https://github.com/imachug)
 
-[Vladislav Glinsky](https://github.com/cl0ne)
+[Oleksandr Kovalchuk](https://github.com/MammutAlex)
