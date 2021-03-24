@@ -234,3 +234,6 @@ Signed,
 [Bartek Sabat](https://github.com/Cloud11665)
 
 [Alice Frey](https://github.com/aliasn3t)
+
+[Evgenii Fedoseev](https://github.com/evgeniy1294)
+
