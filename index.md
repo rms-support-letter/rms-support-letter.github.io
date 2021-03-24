@@ -217,3 +217,5 @@ Signed,
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
 
 [Aleksej Serdyukov](https://github.com/aleksejrs)
+
+[Sega](https://github.com/Seguar)
