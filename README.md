@@ -24,4 +24,3 @@ Let's keep the tone firm, but professional.
 If you can, please consider sharing this letter on your forums and social media and notify journalists who might be helpful to our cause.
 
 **Pull requests merged within 12 hours - due to a huge volume of PRs they will be merged in batches**
- 
