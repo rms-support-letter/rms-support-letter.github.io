@@ -207,3 +207,5 @@ Signed,
 [Kirill K.](https://github.com/CrepCrep)
 
 [Yury Remishevsky](https://github.com/StoneToken)
+
+[Dmitriy Vornychev](https://github.com/deitry)
