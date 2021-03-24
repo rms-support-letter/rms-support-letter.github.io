@@ -81,3 +81,5 @@ Signed,
 [Kiran Gopinathan](https://github.com/gopiandcode)
 
 [Snorklo](https://github.com/Soolko)
+
+[Dima Akater](https://gitlab.com/akater)
