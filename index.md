@@ -63,3 +63,5 @@ Signed,
 [Shardion](https://github.com/Shardion)
 
 [Problemoo](https://github.com/problemoo)
+
+[Daniel Menelkir](https://gitlab.com/menelkir)
