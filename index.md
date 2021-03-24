@@ -38,8 +38,6 @@ Signed,
 
 [Tredkip](https://github.com/Tredkip)
 
-[dmt](https://github.com/dazage)
-
 [VincentPrevost](https://github.com/VincentPrevost)
 
 [stalker0912, GNU supporter](https://github.com/stalker0912/)
