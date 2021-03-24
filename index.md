@@ -170,6 +170,10 @@ Signed,
 
 [N0rbert](https://github.com/N0rbert)
 
+[Andrey Unger](https://github.com/unger1984)
+
+[Nikita Mynzat](https://github.com/Axeleron7)
+
 [svinerus](https://github.com/svinerus)
 
 [Andrey Unger](https://github.com/unger1984)
