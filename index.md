@@ -144,8 +144,6 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
-[Boris P](https://github.com/control-panel)
-
 [Vitaly Ostrosablin](https://github.com/tmp6154)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
@@ -157,3 +155,5 @@ Signed,
 [unti1x](https://github.com/unti1x)
 
 [Daniel](https://github.com/Zuzuk-null)
+
+[Vitaly Demyanenko](https://github.com/v-dem)
