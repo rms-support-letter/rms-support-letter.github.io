@@ -235,8 +235,6 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
-[Yulqen](https://github.com/yulqen)
-
 [Pavel Gusar](https://github.com/bpGusar)
 
 [Pol Earnik](https://github.com/polearnik)
@@ -278,3 +276,5 @@ Signed,
 [Sergey Shurlakov](https://github.com/shurlakov)
 
 [Maksim Polishchuk](https://github.com/MiraD1n)
+
+[Evgeniy Kaa](https://github.com/Genues)
