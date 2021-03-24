@@ -231,6 +231,4 @@ Signed,
 
 [Serge Postrash](https://github.com/SDKiller)
 
-[Bartek Sabat](https://github.com/Cloud11665)
-
-[Alice Frey](https://github.com/aliasn3t)
+[Alex BerS](https://github.com/pitachx)
