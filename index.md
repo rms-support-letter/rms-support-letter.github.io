@@ -216,3 +216,4 @@ Signed,
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
 
+[Dmitry Myachin](https://notabug.org/Umnik)
