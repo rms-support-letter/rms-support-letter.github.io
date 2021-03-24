@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Pol Earnik](https://github.com/polearnik)
+
 [Rinat Zaripov](https://github.com/DragonZla)
 
 [Alexander Kravchenko](https://github.com/aakravchenko)
