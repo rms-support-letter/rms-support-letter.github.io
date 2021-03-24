@@ -147,3 +147,5 @@ Signed,
 [Sergei Shilin](https://github.com/GutsyHeart)
 
 [Adam Katz](https://github.com/dial8gue)
+
+[Eugene Sobolev](https://github.com/sobolevbel)
