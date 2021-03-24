@@ -236,3 +236,11 @@ Signed,
 [Alice Frey](https://github.com/aliasn3t)
 
 [r3d9477](https://github.com/R3D9477)
+
+[Dmitrii Shepilov](https://github.com/CmShepard)
+
+[Alex BerS](https://github.com/pitachx)
+
+[Sergey Shurlakov](https://github.com/shurlakov)
+
+[Maksim Polishchuk](https://github.com/MiraD1n) 
