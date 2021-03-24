@@ -147,3 +147,7 @@ Signed,
 [Sergei Shilin](https://github.com/GutsyHeart)
 
 [dvissert](https://github.com/dvissert)
+
+[Weber-Pflaumer Vladislav](https://github.com/FromSi)
+
+[Sergei Shilin](https://github.com/GutsyHeart)
