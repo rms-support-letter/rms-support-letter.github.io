@@ -164,6 +164,8 @@ Signed,
 
 [Sherzod Mutalov](https://github.com/shmutalov)
 
+[Dmitriy Osipov](https://github.com/Shiftuia)
+
 [Dmitry Derbin](https://github.com/lmcdd)
 
 [N0rbert](https://github.com/N0rbert)
@@ -171,3 +173,9 @@ Signed,
 [Andrey Unger](https://github.com/unger1984)
 
 [Nikita Mynzat](https://github.com/Axeleron7)
+
+[svinerus](https://github.com/svinerus)
+
+[Andrey Unger](https://github.com/unger1984)
+
+[Anton Solomonov](https://github.com/wendor)
