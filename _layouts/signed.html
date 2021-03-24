@@ -1,0 +1,21 @@
+---
+layout: home
+---
+
+{{ content }}
+
+<p>
+  <b>
+    Signed:
+  </b>
+</p>
+
+<ol>
+    {% assign folder = site.data.signed | sort %}
+    {% for sign_hash in folder %}
+    {% assign signed = sign_hash[1] %}
+    <li><a href="{{ signed.link }}">
+      {{ signed.name }}
+    </a></li>
+    {% endfor %}
+</ol>
