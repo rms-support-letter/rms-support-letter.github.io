@@ -23,6 +23,9 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 
 Signed,
+
+[denis Sh](https://github.com/Abus56)
+
 [yuriv](https://github.com/yuriv)
 
 [AlphaHot](https://github.com/AlphaHot)
