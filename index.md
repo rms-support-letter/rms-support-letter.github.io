@@ -23,6 +23,7 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 
 Signed,
+[yuriv](https://github.com/yuriv)
 
 [AlphaHot](https://github.com/AlphaHot)
 
@@ -202,6 +203,8 @@ Signed,
 
 [karmich](https://github.com/karmich)
 
+[TimurC1](https://github.com/TimurC1)
+
 [Alexey Gusev aka GuAlSe](https://gitlab.com/gualse)
 
 [Alexander Tulyakov](https://github.com/MrChaos1993)
@@ -215,3 +218,15 @@ Signed,
 [Alexey Arkhipov](https://github.com/arksilva)
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
+
+[Vasiliy Streltsov](https://github.com/vstrelstov)
+
+[Vladimir Zorin](https://github.com/epicfilemcnulty)
+
+[Meri Amirkhanian](https://github.com/meri22)
+
+[George Linkovsky](https://github.com/Timofffee)
+
+[Aleksej Serdyukov](https://github.com/aleksejrs)
+
+[Serge Postrash](https://github.com/SDKiller)
