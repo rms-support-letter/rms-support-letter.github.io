@@ -14,4 +14,3 @@ If you can, please consider sharing this letter on your forums and social media 
 
 **Pull requests merged within 12 hours - due to a huge volume of PRs they will be merged in batches**
  
-
