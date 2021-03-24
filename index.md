@@ -152,3 +152,4 @@ Signed,
 
 [Adam Katz](https://github.com/dial8gue)
 
+[Mirosław Dmowski](https://github.com/Mirokot)
