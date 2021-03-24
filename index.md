@@ -230,3 +230,5 @@ Signed,
 [Aleksej Serdyukov](https://github.com/aleksejrs)
 
 [Serge Postrash](https://github.com/SDKiller)
+
+[Aleksey Zashikhin](https://github.com/zalex68)
