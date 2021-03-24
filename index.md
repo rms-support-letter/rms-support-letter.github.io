@@ -23,6 +23,7 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 
 Signed,
+[yuriv](https://github.com/yuriv)
 
 [AlphaHot](https://github.com/AlphaHot)
 
@@ -204,8 +205,78 @@ Signed,
 
 [Vyacheslav Belyaev](https://gitlab.com/dropnz)
 
+[TimurC1](https://github.com/TimurC1)
+
+[Alexey Gusev aka GuAlSe](https://gitlab.com/gualse)
+
+[Alexander Tulyakov](https://github.com/MrChaos1993)
+
 [Jonny Lindqvist](https://github.com/ojnny)
 
 [Kirill K.](https://github.com/CrepCrep)
 
 [Yury Remishevsky](https://github.com/StoneToken)
+
+[Alexey Arkhipov](https://github.com/arksilva)
+
+[Vladimir Zorin](https://github.com/epicfilemcnulty)
+
+[Vasiliy Streltsov](https://github.com/vstrelstov)
+
+[Meri Amirkhanian](https://github.com/meri22)
+
+[George Linkovsky](https://github.com/Timofffee)
+
+[Aleksej Serdyukov](https://github.com/aleksejrs)
+
+[Serge Postrash](https://github.com/SDKiller)
+
+[Bartek Sabat](https://github.com/Cloud11665)
+
+[Alice Frey](https://github.com/aliasn3t)
+
+[Kirill "Keroosha" Poletaev](https://github.com/Keroosha)
+
+[Yulqen](https://github.com/yulqen)
+
+[Pavel Gusar](https://github.com/bpGusar)
+
+[Pol Earnik](https://github.com/polearnik)
+
+[Rinat Zaripov](https://github.com/DragonZla)
+
+[Alexander Kravchenko](https://github.com/aakravchenko)
+
+[Vladimir Gavrilov](https://github.com/jacendi)
+
+[Alexei Lozovsky (ilammy)](https://github.com/ilammy)
+
+[Alexander Verbovetsky](https://github.com/slalik)
+
+[Andrei Likhobabin](https://github.com/DoctorChe)
+
+[Lev Meirovitch](https://github.com/lvmtime)
+
+[Marat Gaianov](https://github.com/mgayanov)
+
+[Alexandr Kozachek](https://github.com/fluttr)
+
+[Yaroslav Isaev](https://github.com/jsisaev1)
+
+[Artem Kliatchkine](https://github.com/Sundow)
+
+[Alexey Slavin](https://github.com/YOricH/)
+
+[pas9x](https://github.com/pas9x)
+
+[Maxim Kochetkov](https://github.com/fidomax)
+
+[r3d9477](https://github.com/R3D9477)
+
+[Dmitrii Shepilov](https://github.com/CmShepard)
+
+[Alex BerS](https://github.com/pitachx)
+
+[Sergey Shurlakov](https://github.com/shurlakov)
+
+[Maksim Polishchuk](https://github.com/MiraD1n)
