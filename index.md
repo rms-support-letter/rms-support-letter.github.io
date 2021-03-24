@@ -170,6 +170,8 @@ Signed,
 
 [N0rbert](https://github.com/N0rbert)
 
+[Mike Burdin](https://github.com/xDShot)
+
 [Andrey Unger](https://github.com/unger1984)
 
 [Sam Hardwick](https://github.com/Traubert)
