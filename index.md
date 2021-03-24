@@ -186,4 +186,6 @@ Signed,
 
 [Anton Solomonov](https://github.com/wendor)
 
+[Dmitriy Pomerantsev](https://github.com/pda0)
+
 [karmich](https://github.com/karmich)
