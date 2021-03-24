@@ -110,6 +110,8 @@ Signed,
 
 [Amir Taaki](https://twitter.com/Narodism)
 
+[Joybuke](https://github.com/Joybuke)
+
 [Álex Román Núñez (EIRTeam)](https://github.com/eirexe/)
 
 [Bazsalanszky](https://github.com/Bazsalanszky)
