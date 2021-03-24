@@ -211,3 +211,5 @@ Signed,
 [Yury Remishevsky](https://github.com/StoneToken)
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
+
+[Cristei Gabriel-Marian](https://github.com/cristeigabriel)
