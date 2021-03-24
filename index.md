@@ -280,3 +280,5 @@ Signed,
 [Maksim Polishchuk](https://github.com/MiraD1n)
 
 [alsoijw](https://github.com/alsoijw)
+
+[Aleksey Gusarov](https://github.com/thar0l)
