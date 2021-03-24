@@ -85,3 +85,19 @@ Signed,
 [Dima Akater](https://gitlab.com/akater)
 
 [Alex A.](https://github.com/reactos573)
+
+[Ethan Schoenhofen](https://github.com/ethan-schoenhofen)
+
+[Richard Kramenstetter](https://github.com/Rhdrmhdrvf/)
+
+[Gooberpatrol66](https://github.com/Gooberpatrol66)
+
+[Big Flai](https://github.com/big-flai)
+
+[JackRedstonia](https://gitlab.com/JackRedstonia)
+
+[yap seng long](https://github.com/longyap)
+
+[Anirudh Oppiliappan](https://github.com/icyphox)
+
+[Kakol](https://github.com/kakolisgay)
