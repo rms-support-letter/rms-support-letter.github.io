@@ -84,6 +84,8 @@ Signed,
 
 [Dima Akater](https://gitlab.com/akater)
 
+[Alex A.](https://github.com/reactos573)
+
 [Ethan Schoenhofen](https://github.com/ethan-schoenhofen)
 
 [Richard Kramenstetter](https://github.com/Rhdrmhdrvf/)
