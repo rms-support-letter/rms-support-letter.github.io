@@ -150,6 +150,8 @@ Signed,
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
+[Yuriy Chumak](https://github.com/yuriy-chumak)
+
 [киберджин](https://github.com/codefather-labs)
 
 [Adam Katz](https://github.com/dial8gue)
