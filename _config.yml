@@ -1,1 +1,21 @@
+title: A open letter in support of RMS.
+baseurl: ""
+url: ""
+
+github_username:  rms-support-letter
+
+# Build settings
 theme: minima
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - migrate.py
