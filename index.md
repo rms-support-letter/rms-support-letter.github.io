@@ -119,8 +119,6 @@ Signed,
 
 [Bazsalanszky](https://github.com/Bazsalanszky)
 
-[Roberto Santacroce Martins](https://github.com/mileschet)
-
 [Sebastian Erika Higgins](https://github.com/bctnry)
 
 [Nonetrix](https://nonetrix.neocities.org)
@@ -269,6 +267,8 @@ Signed,
 
 [Maxim Kochetkov](https://github.com/fidomax)
 
+[Dmitriy Tukhvatullin](https://github.com/jershell)
+
 [r3d9477](https://github.com/R3D9477)
 
 [Dmitrii Shepilov](https://github.com/CmShepard)
@@ -280,3 +280,7 @@ Signed,
 [Maksim Polishchuk](https://github.com/MiraD1n) 
 
 [Yuriy Chelpanov](https://github.com/tpw56j)
+
+[alsoijw](https://github.com/alsoijw)
+
+[Alexander P. Molotkov](https://github.com/apmolotkov)
