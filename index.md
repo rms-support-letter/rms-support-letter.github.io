@@ -145,3 +145,7 @@ Signed,
 [Vladislav Glinsky](https://github.com/cl0ne)
 
 [Orin Serimon](https://github.com/orin220444)
+
+[Weber-Pflaumer Vladislav](https://github.com/FromSi)
+
+[Sergei Shilin](https://github.com/GutsyHeart)
