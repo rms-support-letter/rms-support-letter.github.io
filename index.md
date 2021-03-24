@@ -1,4 +1,4 @@
-*2021-03-23*
+﻿*2021-03-23*
 
 Richard M. Stallman, frequently known as RMS, has been a driving force in the free software movement for decades, with contributions including the GNU operating system and Emacs.
 
@@ -162,6 +162,8 @@ Signed,
 
 [Daniel](https://github.com/Zuzuk-null)
 
+[Stanislav Shmarov](https://github.com/Snarpix)
+
 [Sherzod Mutalov](https://github.com/shmutalov)
 
 [Dmitriy Osipov](https://github.com/Shiftuia)
@@ -173,6 +175,8 @@ Signed,
 [Mike Burdin](https://github.com/xDShot)
 
 [Andrey Unger](https://github.com/unger1984)
+
+[Denys Zelenov](https://github.com/torwalds)
 
 [Sam Hardwick](https://github.com/Traubert)
 
@@ -186,6 +190,8 @@ Signed,
 
 [Anton Solomonov](https://github.com/wendor)
 
+[rydnr](https://github.com/rydnr)
+
 [karmich](https://github.com/karmich)
 
 [Maxim Mikhailov](https://github.com/darkness9724)
@@ -197,3 +203,11 @@ Signed,
 [karmich](https://github.com/karmich)
 
 [Alexey Gusev aka GuAlSe](https://gitlab.com/gualse)
+
+[Alexander Tulyakov](https://github.com/MrChaos1993)
+
+[Jonny Lindqvist](https://github.com/ojnny)
+
+[Kirill K.](https://github.com/CrepCrep)
+
+[Yury Remishevsky](https://github.com/StoneToken)
