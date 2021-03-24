@@ -1,0 +1,13 @@
+name: Do not modify index.md directly, add a file to _data/signed instead
+on:
+  pull_request:
+    branches:
+      - master
+    paths:
+      - index.md
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Throw error
+        run: echo "Do not modify index.md directly, add a file to _data/signed instead"; exit 1
