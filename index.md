@@ -148,6 +148,8 @@ Signed,
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
+[киберджин](https://github.com/codefather-labs)
+
 [Adam Katz](https://github.com/dial8gue)
 
 [Sergey Dryabzhinsky](https://github.com/sergey-dryabzhinsky)
