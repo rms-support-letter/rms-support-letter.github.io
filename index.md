@@ -203,8 +203,6 @@ Signed,
 
 [karmich](https://github.com/karmich)
 
-[TimurC1](https://github.com/TimurC1)
-
 [Alexey Gusev aka GuAlSe](https://gitlab.com/gualse)
 
 [Alexander Tulyakov](https://github.com/MrChaos1993)
@@ -226,3 +224,5 @@ Signed,
 [Aleksej Serdyukov](https://github.com/aleksejrs)
 
 [Serge Postrash](https://github.com/SDKiller)
+
+[Philipp Ranzhin](https://github.com/philippranzhin)
