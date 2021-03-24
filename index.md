@@ -144,12 +144,48 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
+[Boris P](https://github.com/control-panel)
+
 [Vitaly Ostrosablin](https://github.com/tmp6154)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
+[Yuriy Chumak](https://github.com/yuriy-chumak)
+
 [киберджин](https://github.com/codefather-labs)
 
 [Adam Katz](https://github.com/dial8gue)
+
+[Watcher3056](https://github.com/Watcher3056)
+
+[unti1x](https://github.com/unti1x)
+
+[Daniel](https://github.com/Zuzuk-null)
+
+[Sherzod Mutalov](https://github.com/shmutalov)
+
+[Dmitriy Osipov](https://github.com/Shiftuia)
+
+[Dmitry Derbin](https://github.com/lmcdd)
+
+[N0rbert](https://github.com/N0rbert)
+
+[Mike Burdin](https://github.com/xDShot)
+
+[Andrey Unger](https://github.com/unger1984)
+
+[Sam Hardwick](https://github.com/Traubert)
+
+[Nikita Mynzat](https://github.com/Axeleron7)
+
+[svinerus](https://github.com/svinerus)
+
+[Andrey Unger](https://github.com/unger1984)
+
+[Stefan Midjich](https://github.com/stemid)
+
+[Anton Solomonov](https://github.com/wendor)
+
+[karmich](https://github.com/karmich)
 
 [Mirosław Dmowski](https://github.com/Mirokot)
