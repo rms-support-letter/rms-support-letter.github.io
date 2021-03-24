@@ -163,3 +163,5 @@ Signed,
 [Daniel](https://github.com/Zuzuk-null)
 
 [Sherzod Mutalov](https://github.com/shmutalov)
+
+[Vitalie Ciubotaru](https://github.com/ciubotaru)
