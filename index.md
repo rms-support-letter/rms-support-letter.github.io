@@ -202,6 +202,8 @@ Signed,
 
 [karmich](https://github.com/karmich)
 
+[Alexey Gusev aka GuAlSe](https://gitlab.com/gualse)
+
 [Alexander Tulyakov](https://github.com/MrChaos1993)
 
 [Jonny Lindqvist](https://github.com/ojnny)
