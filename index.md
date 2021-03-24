@@ -145,3 +145,5 @@ Signed,
 [Vladislav Glinsky](https://github.com/cl0ne)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
+
+[Artem Trokhymchuk] (https://github.com/trokhymchuk)
