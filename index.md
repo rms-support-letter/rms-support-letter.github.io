@@ -236,3 +236,5 @@ Signed,
 [Alice Frey](https://github.com/aliasn3t)
 
 [Maksim Polishchuk](https://github.com/MiraD1n) 
+
+[Ampermp](https://github.com/ampermp)
