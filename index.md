@@ -175,3 +175,5 @@ Signed,
 [Andrey Unger](https://github.com/unger1984)
 
 [Anton Solomonov](https://github.com/wendor)
+
+[Fineco Spaco](https://github.com/FinecoFinit)
