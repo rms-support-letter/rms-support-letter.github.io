@@ -55,7 +55,7 @@ Signed,
 
 [Maximilian Power](https://github.com/maxp779)
 
-[XGQT](https://github.com/xgqt)
+[Maciej XGQT Barć](https://github.com/xgqt)
 
 [Cardboard Turtle](https://github.com/CardboardTurtle)
 
@@ -141,13 +141,25 @@ Signed,
 
 [Ivan Machugovskiy](https://github.com/imachug)
 
+[Dmitry Akatov](https://github.com/rails-to-cosmos)
+
 [Vladislav Glinsky](https://github.com/cl0ne)
+
+[Sergei Shilin](https://github.com/GutsyHeart)
+
+[dvissert](https://github.com/dvissert)
+
+[Andriy Nikiforov](https://github.com/AndriyNikiforov)
+
+[Weber-Pflaumer Vladislav](https://github.com/FromSi)
+
+[Jihadist C++](https://github.com/Jihadist)
 
 [Boris P](https://github.com/control-panel)
 
 [Vitaly Ostrosablin](https://github.com/tmp6154)
 
-[Sergei Shilin](https://github.com/GutsyHeart)
+[Dmitry Melnichuk](https://github.com/jock-tanner)
 
 [Yuriy Chumak](https://github.com/yuriy-chumak)
 
@@ -284,3 +296,5 @@ Signed,
 [Alexander P. Molotkov](https://github.com/apmolotkov)
 
 [Oleg Komkov](https://github.com/antipooh)
+
+[Vadzim Tarasiuk](https://github.com/VadzimTarasiuk)
