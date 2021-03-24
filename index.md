@@ -129,3 +129,5 @@ Signed,
 [Dmitry Zolotarev (dvz0)](https://github.com/dvz0)
 
 [Milan Andreew](https://github.com/milanandreew)
+
+[kageru](https://github.com/kageru)
