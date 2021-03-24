@@ -183,3 +183,5 @@ Signed,
 [Anton Solomonov](https://github.com/wendor)
 
 [karmich](https://github.com/karmich)
+
+[Maksim Sch](https://github.com/maxz000)
