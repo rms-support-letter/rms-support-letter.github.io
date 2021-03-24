@@ -1,12 +1,23 @@
 # An open letter in support of RMS.
 
-To sign, create a file in `_data/signed/` named `<username>.yaml` with the following content:
+To sign, create a file in `_data/signed/` folder named `<username>.yaml` with the following content:
 
 ```yaml
 name: <your name here>
 link: <link to your profile or site>
 ```
-Then create a pull request.
+
+Without the `<>`.
+
+Example:
+```yaml
+name: Example name
+link: https://example.com/
+```
+
+Don't use `<>` in this file, as well as non-ascii symbols in file name.
+
+When youre done, create a pull request.
 
 Let's keep the tone firm, but professional.
 
