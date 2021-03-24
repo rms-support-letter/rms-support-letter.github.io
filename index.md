@@ -152,3 +152,5 @@ Signed,
 
 [Adam Katz](https://github.com/dial8gue)
 
+[Vassiliy Taranov](https://github.com/oriontvv)
+
