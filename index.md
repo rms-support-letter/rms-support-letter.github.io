@@ -123,3 +123,5 @@ Signed,
 [Nonetrix](https://nonetrix.neocities.org)
 
 [nekonee](https://github.com/nekonee)
+
+[Dmitry Zolotarev (dvz0)](https://github.com/dvz0)
