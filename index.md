@@ -156,7 +156,7 @@ Signed,
 
 [Adam Katz](https://github.com/dial8gue)
 
-[Watcher3056] (https://github.com/Watcher3056)
+[Watcher3056](https://github.com/Watcher3056)
 
 [unti1x](https://github.com/unti1x)
 
@@ -170,6 +170,20 @@ Signed,
 
 [N0rbert](https://github.com/N0rbert)
 
+[Mike Burdin](https://github.com/xDShot)
+
 [Andrey Unger](https://github.com/unger1984)
+
+[Sam Hardwick](https://github.com/Traubert)
+
+[Nikita Mynzat](https://github.com/Axeleron7)
+
+[svinerus](https://github.com/svinerus)
+
+[Andrey Unger](https://github.com/unger1984)
+
+[Anton Solomonov](https://github.com/wendor)
+
+[karmich](https://github.com/karmich)
 
 [Nikolay Strelkov](https://github.com/k0ly4n)
