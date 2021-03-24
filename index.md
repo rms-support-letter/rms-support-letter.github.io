@@ -282,3 +282,5 @@ Signed,
 [alsoijw](https://github.com/alsoijw)
 
 [Alexander P. Molotkov](https://github.com/apmolotkov)
+
+[Sergey Spiridonov](https://github.com/sena73)
