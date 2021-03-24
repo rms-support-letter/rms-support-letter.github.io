@@ -21,6 +21,8 @@ You have no part in choosing the leadership of any communities. Especially not v
 
 To sign, please [submit a pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
 
+Signed,
+[glowingsword](https://github.com/glowingsword)
 
 Signed,
 [yuriv](https://github.com/yuriv)
