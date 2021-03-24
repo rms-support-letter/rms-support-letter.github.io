@@ -161,6 +161,8 @@ Signed,
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
+[Dmitry Melnichuk](https://github.com/jock-tanner)
+
 [Yuriy Chumak](https://github.com/yuriy-chumak)
 
 [киберджин](https://github.com/codefather-labs)
