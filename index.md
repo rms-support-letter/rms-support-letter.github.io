@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Vladimir Gavrilov](https://github.com/jacendi)
+
 [Alexei Lozovsky (ilammy)](https://github.com/ilammy)
 
 [Alexander Verbovetsky](https://github.com/slalik)
