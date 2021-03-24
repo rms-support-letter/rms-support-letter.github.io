@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Alexandr Kozachek](https://github.com/fluttr)
+
 [Yaroslav Isaev](https://github.com/jsisaev1)
 
 [Artem Kliatchkine](https://github.com/Sundow)
