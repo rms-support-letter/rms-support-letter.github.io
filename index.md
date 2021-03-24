@@ -144,6 +144,6 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
-[Weber-Pflaumer Vladislav](https://github.com/FromSi)
-
 [Sergei Shilin](https://github.com/GutsyHeart)
+
+[Adam Katz](https://github.com/dial8gue)
