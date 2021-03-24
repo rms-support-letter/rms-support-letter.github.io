@@ -143,3 +143,5 @@ Signed,
 [Ivan Machugovskiy](https://github.com/imachug)
 
 [Vladislav Glinsky](https://github.com/cl0ne)
+
+[xor2003](https://github.com/xor2003)
