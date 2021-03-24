@@ -153,7 +153,7 @@ Signed,
 
 [Yuriy Chumak](https://github.com/yuriy-chumak)
 
-[киберджин](https://github.com/codefather-labs)
+[пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ](https://github.com/codefather-labs)
 
 [Adam Katz](https://github.com/dial8gue)
 
@@ -236,3 +236,5 @@ Signed,
 [Alice Frey](https://github.com/aliasn3t)
 
 [Bohatov Bohdan](https://github.com/Bohatov)
+
+[Maksim Polishchuk](https://github.com/MiraD1n) 
