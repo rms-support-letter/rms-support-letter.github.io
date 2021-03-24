@@ -139,3 +139,5 @@ Signed,
 [Aroop Roelofs (FinlayDaG33k)](https://github.com/finlaydag33k)
 
 [Ivan Machugovskiy](https://github.com/imachug)
+
+[Vladislav Glinsky](https://github.com/cl0ne)
