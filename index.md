@@ -298,3 +298,5 @@ Signed,
 [Oleg Komkov](https://github.com/antipooh)
 
 [Vadzim Tarasiuk](https://github.com/VadzimTarasiuk)
+
+[Gurov Yury](https://github.com/kenoma)
