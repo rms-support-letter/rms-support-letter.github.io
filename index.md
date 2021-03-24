@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Alexei Lozovsky (ilammy)](https://github.com/ilammy)
+
 [Alexander Verbovetsky](https://github.com/slalik)
 
 [Andrei Likhobabin](https://github.com/DoctorChe)
