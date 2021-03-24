@@ -6,3 +6,5 @@ Let's keep the tone firm, but professional.
 
 
 **Pull requests merged within 12 hours - due to a huge volume of PRs they will be merged in batches**
+
+[Philippov Vladimir] https://github.com/Kabanus 
