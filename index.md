@@ -235,16 +235,6 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
-[Marat Gaianov](https://github.com/mgayanov)
-
-[Alexandr Kozachek](https://github.com/fluttr)
-
-[Yaroslav Isaev](https://github.com/jsisaev1)
-
-[Artem Kliatchkine](https://github.com/Sundow)
-
-[Alexey Slavin](https://github.com/YOricH/)
-
 [pas9x](https://github.com/pas9x)
 
 [Maxim Kochetkov](https://github.com/fidomax)
@@ -258,3 +248,4 @@ Signed,
 [Sergey Shurlakov](https://github.com/shurlakov)
 
 [Maksim Polishchuk](https://github.com/MiraD1n) 
+[Valery Slobodin](https://github.com/v50110)
