@@ -4,7 +4,7 @@ Richard M. Stallman, frequently known as RMS, has been a driving force in the fr
 
 Recently, there have been vile online attacks looking to remove him from the FSF board of directors for expressing his personal opinions. We have watched this happen before in an organized fashion with other prominent free software activists and programmers. We will not stand idly this time, when an icon of this community is attacked.
 
-FSF is an autonomous body that is capable of treating its members in a fair, unbiased fashion, and should not give in to external social pressures. We urge the FSF to consider the arguments against RMS objectively and to truly understand the meaning of his words and actions. 
+FSF is an autonomous body that is capable of treating its members in a fair, unbiased fashion, and should not give in to external social pressures. We urge the FSF to consider the arguments against RMS objectively and to truly understand the meaning of his words and actions.
 
 Historically, RMS has been expressing his views in ways that upset many people. He is usually more focused on the philosophical underpinnings, and pursuing the objective truth and linguistic purism, while underemphasising people's feelings on matters he's commenting on. This makes his arguments vulnerable to misunderstanding and misrepresentation, something which we feel is happening in the open letter calling for his removal. His words need to be interpreted in this context and taking into account that more often than not, he is not looking to put things diplomatically.
 
@@ -58,7 +58,7 @@ Signed,
 
 [Cardboard Turtle](https://github.com/CardboardTurtle)
 
-[Midov (Midek)](https://github.com/Midek) 
+[Midov (Midek)](https://github.com/Midek)
 
 [Chris Dutton](https://github.com/owwk)
 
@@ -133,5 +133,7 @@ Signed,
 [Milan Andreew](https://github.com/milanandreew)
 
 [kageru](https://github.com/kageru)
+
+[Jakub Stenka](https://github.com/GDI512)
 
 [Aroop Roelofs (FinlayDaG33k)](https://github.com/finlaydag33k)
