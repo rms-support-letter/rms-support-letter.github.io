@@ -205,3 +205,5 @@ Signed,
 [Jonny Lindqvist](https://github.com/ojnny)
 
 [Yury Remishevsky](https://github.com/StoneToken)
+
+[Michael Baumann](https://github.com/mr-bigbang)
