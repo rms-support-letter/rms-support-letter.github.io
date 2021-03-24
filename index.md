@@ -236,3 +236,6 @@ Signed,
 [Alice Frey](https://github.com/aliasn3t)
 
 [Shirinkin Arseny](https://github.com/ShirinkinArseny)
+
+[Maksim Polishchuk](https://github.com/MiraD1n) 
+
