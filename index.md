@@ -201,3 +201,5 @@ Signed,
 [Dmitriy Pomerantsev](https://github.com/pda0)
 
 [karmich](https://github.com/karmich)
+
+[Jonny Lindqvist](https://github.com/ojnny)
