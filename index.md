@@ -172,4 +172,6 @@ Signed,
 
 [Andrey Unger](https://github.com/unger1984)
 
+[Anton Solomonov](https://github.com/wendor)
+
 [Dan Konshin](https://github.com/DanInSpace104)
