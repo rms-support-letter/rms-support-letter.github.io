@@ -216,4 +216,4 @@ Signed,
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
 
-[Aleksej Serdyukov](https://github.com/aleksejrs)
+[Meri Amirkhanian](https://github.com/meri22)
