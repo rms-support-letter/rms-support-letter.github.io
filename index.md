@@ -143,3 +143,5 @@ Signed,
 [Ivan Machugovskiy](https://github.com/imachug)
 
 [Vladislav Glinsky](https://github.com/cl0ne)
+
+[Anton Vanda](https://github.com/anton-vanda)
