@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[Alexander Verbovetsky](https://github.com/slalik)
+
 [Andrei Likhobabin](https://github.com/DoctorChe)
 
 [Lev Meirovitch](https://github.com/lvmtime)
