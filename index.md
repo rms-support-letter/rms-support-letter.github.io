@@ -235,6 +235,8 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
+[pas9x](https://github.com/pas9x)
+
 [Maxim Kochetkov](https://github.com/fidomax)
 
 [r3d9477](https://github.com/R3D9477)
