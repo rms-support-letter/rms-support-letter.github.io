@@ -207,3 +207,5 @@ Signed,
 [Kirill K.](https://github.com/CrepCrep)
 
 [Yury Remishevsky](https://github.com/StoneToken)
+
+[Maxim Bulanov](https://github.com/infectormp)
