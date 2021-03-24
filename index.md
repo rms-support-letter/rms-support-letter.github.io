@@ -182,6 +182,8 @@ Signed,
 
 [Andrey Unger](https://github.com/unger1984)
 
+[Denys Zelenov](https://github.com/torwalds)
+
 [Stefan Midjich](https://github.com/stemid)
 
 [Anton Solomonov](https://github.com/wendor)
