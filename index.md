@@ -234,3 +234,5 @@ Signed,
 [Bartek Sabat](https://github.com/Cloud11665)
 
 [Alice Frey](https://github.com/aliasn3t)
+
+[Pol Earnik](https://github.com/polearnik)
