@@ -213,6 +213,8 @@ Signed,
 
 [Kirill K.](https://github.com/CrepCrep)
 
+[Marat Talipov](https://github.com/Morion-Self)
+
 [Yury Remishevsky](https://github.com/StoneToken)
 
 [Alexey Arkhipov](https://github.com/arksilva)
