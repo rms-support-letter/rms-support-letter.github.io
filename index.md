@@ -202,6 +202,8 @@ Signed,
 
 [karmich](https://github.com/karmich)
 
+[Vyacheslav Belyaev](https://gitlab.com/dropnz)
+
 [Jonny Lindqvist](https://github.com/ojnny)
 
 [Kirill K.](https://github.com/CrepCrep)
