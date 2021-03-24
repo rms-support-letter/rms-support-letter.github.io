@@ -84,6 +84,8 @@ Signed,
 
 [Dima Akater](https://gitlab.com/akater)
 
+[kompowiec2](https://github.com/kompowiec)
+
 [kitsunyan](https://github.com/kitsunyan)
 
 [Alex A.](https://github.com/reactos573)
