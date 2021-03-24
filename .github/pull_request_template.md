@@ -14,4 +14,8 @@ link: <link to your profile or site>
 name: Richard Matthew Stallman
 link: https://stallman.org/
 ```
+
+Optional stuff you should consider:
+- Use your real name if possible
+- Add affiliated organizations or projects if applicable (e.g. `John Smith (Free Software Foundation, Popular Window Manager Author)`
 -->
