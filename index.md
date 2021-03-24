@@ -236,3 +236,29 @@ Signed,
 [Alice Frey](https://github.com/aliasn3t)
 
 [Andrei Likhobabin](https://github.com/DoctorChe)
+
+[Lev Meirovitch](https://github.com/lvmtime)
+
+[Marat Gaianov](https://github.com/mgayanov)
+
+[Alexandr Kozachek](https://github.com/fluttr)
+
+[Yaroslav Isaev](https://github.com/jsisaev1)
+
+[Artem Kliatchkine](https://github.com/Sundow)
+
+[Alexey Slavin](https://github.com/YOricH/)
+
+[pas9x](https://github.com/pas9x)
+
+[Maxim Kochetkov](https://github.com/fidomax)
+
+[r3d9477](https://github.com/R3D9477)
+
+[Dmitrii Shepilov](https://github.com/CmShepard)
+
+[Alex BerS](https://github.com/pitachx)
+
+[Sergey Shurlakov](https://github.com/shurlakov)
+
+[Maksim Polishchuk](https://github.com/MiraD1n) 
