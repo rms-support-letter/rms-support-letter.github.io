@@ -298,3 +298,5 @@ Signed,
 [Oleg Komkov](https://github.com/antipooh)
 
 [Vadzim Tarasiuk](https://github.com/VadzimTarasiuk)
+
+[Dmitry McArov](https://github.com/damned-trooper)
