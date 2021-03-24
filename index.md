@@ -106,4 +106,6 @@ Signed,
 
 [Kakol](https://github.com/kakolisgay)
 
+[Rachel-Rose O'Leary](https://github.com/lunar-mining)
+
 [Amir Taaki](https://twitter.com/Narodism)
