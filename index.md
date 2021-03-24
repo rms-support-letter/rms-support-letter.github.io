@@ -284,3 +284,5 @@ Signed,
 [Alexander P. Molotkov](https://github.com/apmolotkov)
 
 [Oleg Komkov](https://github.com/antipooh)
+
+[Vadzim Tarasiuk](https://github.com/VadzimTarasiuk)
