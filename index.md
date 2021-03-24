@@ -216,3 +216,5 @@ Signed,
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
 
+[Vadim Tartakovskiy](https://github.com/miamy)
+
