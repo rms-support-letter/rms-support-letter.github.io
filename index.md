@@ -126,4 +126,6 @@ Signed,
 
 [nekonee](https://github.com/nekonee)
 
+[Dmitry Zolotarev (dvz0)](https://github.com/dvz0)
+
 [Milan Andreew](https://github.com/milanandreew)
