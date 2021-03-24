@@ -279,4 +279,4 @@ Signed,
 
 [Maksim Polishchuk](https://github.com/MiraD1n)
 
-[Andrest Anton] (https://github.com/zayka)
+[Andrest Anton](https://github.com/zayka)
