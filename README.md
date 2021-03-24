@@ -1,4 +1,4 @@
-# A open letter in support of RMS.
+# An open letter in support of RMS.
 
 To sign, create a file in `_data/signed/` named `<username>.yaml` with the following content:
 
