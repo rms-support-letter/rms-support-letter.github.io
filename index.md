@@ -143,3 +143,5 @@ Signed,
 [Ivan Machugovskiy](https://github.com/imachug)
 
 [Vladislav Glinsky](https://github.com/cl0ne)
+
+[Jan Drögehoff](https://github.com/Jan200101) (Fedora Project contributor)
