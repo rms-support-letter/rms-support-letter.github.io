@@ -215,5 +215,3 @@ Signed,
 [Alexey Arkhipov](https://github.com/arksilva)
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
-
-[Alexey Arkhipov](https://github.com/arksilva)
