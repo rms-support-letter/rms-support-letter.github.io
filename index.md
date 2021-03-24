@@ -223,6 +223,8 @@ Signed,
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
 
+[Tjipke van der Heide](https://github.com/vancha)
+
 [Meri Amirkhanian](https://github.com/meri22)
 
 [George Linkovsky](https://github.com/Timofffee)
