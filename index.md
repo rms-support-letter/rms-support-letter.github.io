@@ -145,6 +145,8 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
+[Andriy Nikiforov](https://github.com/AndriyNikiforov)
+
 [Sergei Shilin](https://github.com/GutsyHeart)
 
 [Weber-Pflaumer Vladislav](https://github.com/FromSi)
