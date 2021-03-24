@@ -24,6 +24,8 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 Signed,
 
+[AlphaHot](https://github.com/AlphaHot)
+
 [hrg71](https://github.com/hrg71)
 
 [nukeop](https://github.com/nukeop)
