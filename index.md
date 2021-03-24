@@ -143,6 +143,14 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
+[Sergei Shilin](https://github.com/GutsyHeart)
+
+[Weber-Pflaumer Vladislav](https://github.com/FromSi)
+
+[Sergei Shilin](https://github.com/GutsyHeart)
+
+[Jihadist C++](https://github.com/Jihadist)
+
 [Boris P](https://github.com/control-panel)
 
 [Vitaly Ostrosablin](https://github.com/tmp6154)
