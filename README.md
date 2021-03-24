@@ -1,2 +1,1 @@
-Signed: 
-Alexey Antipin
+[Alexey Antipin](https://github.com/Anti-pin/)
