@@ -115,6 +115,8 @@ Signed,
 
 [Joybuke](https://github.com/Joybuke)
 
+[Anton Gladyshev](https://github.com/Areso)
+
 [Álex Román Núñez (EIRTeam)](https://github.com/eirexe/)
 
 [Bazsalanszky](https://github.com/Bazsalanszky)
