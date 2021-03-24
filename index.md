@@ -83,3 +83,5 @@ Signed,
 [Snorklo](https://github.com/Soolko)
 
 [Dima Akater](https://gitlab.com/akater)
+
+[Anirudh Oppiliappan](https://github.com/icyphox)
