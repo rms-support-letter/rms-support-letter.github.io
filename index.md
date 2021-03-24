@@ -232,3 +232,7 @@ Signed,
 [Serge Postrash](https://github.com/SDKiller)
 
 [DDOSUCK04](https://github.com/DDOSUCK04)
+
+[Bartek Sabat](https://github.com/Cloud11665)
+
+[Alice Frey](https://github.com/aliasn3t)
