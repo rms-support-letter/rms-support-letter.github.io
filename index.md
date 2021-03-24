@@ -23,7 +23,6 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 
 Signed,
-[microdot178](https://github.com/microdot178)
 
 [AlphaHot](https://github.com/AlphaHot)
 
@@ -204,3 +203,5 @@ Signed,
 [karmich](https://github.com/karmich)
 
 [Jonny Lindqvist](https://github.com/ojnny)
+
+[microdot178](https://github.com/microdot178)
