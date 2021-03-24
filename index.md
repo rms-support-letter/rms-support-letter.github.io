@@ -145,3 +145,7 @@ Signed,
 [Vladislav Glinsky](https://github.com/cl0ne)
 
 [Vitaly Ostrosablin](https://github.com/tmp6154)
+
+[Sergei Shilin](https://github.com/GutsyHeart)
+
+[Adam Katz](https://github.com/dial8gue)
