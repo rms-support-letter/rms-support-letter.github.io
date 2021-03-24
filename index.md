@@ -189,3 +189,5 @@ Signed,
 [Dmitriy Pomerantsev](https://github.com/pda0)
 
 [karmich](https://github.com/karmich)
+
+[Aleksandr Nikitin](https://github.com/Khaelenmore)
