@@ -24,6 +24,8 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 Signed,
 
+[Egor Bakulin](https://github.com/EgorBakulin/)
+
 [AlphaHot](https://github.com/AlphaHot)
 
 [hrg71](https://github.com/hrg71)
