@@ -119,6 +119,8 @@ Signed,
 
 [Bazsalanszky](https://github.com/Bazsalanszky)
 
+[Roberto Santacroce Martins](https://github.com/mileschet)
+
 [Sebastian Erika Higgins](https://github.com/bctnry)
 
 [Nonetrix](https://nonetrix.neocities.org)
@@ -280,3 +282,5 @@ Signed,
 [Maksim Polishchuk](https://github.com/MiraD1n)
 
 [alsoijw](https://github.com/alsoijw)
+
+[Aleksandr Glazunov] (https://github.com/glazunoff)
