@@ -278,3 +278,5 @@ Signed,
 [Sergey Shurlakov](https://github.com/shurlakov)
 
 [Maksim Polishchuk](https://github.com/MiraD1n)
+
+[Alexandru-Sergiu Marton](https://brown.121407.xyz)
