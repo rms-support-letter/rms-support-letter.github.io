@@ -187,3 +187,5 @@ Signed,
 [Anton Solomonov](https://github.com/wendor)
 
 [karmich](https://github.com/karmich)
+
+[Vladimir Stolyarov](https://github.com/xakep666)
