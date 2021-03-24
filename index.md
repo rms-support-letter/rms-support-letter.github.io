@@ -282,3 +282,5 @@ Signed,
 [alsoijw](https://github.com/alsoijw)
 
 [Alexander P. Molotkov](https://github.com/apmolotkov)
+
+[Oleg Komkov](https://github.com/antipooh)
