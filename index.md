@@ -109,3 +109,5 @@ Signed,
 [Rachel-Rose O'Leary](https://github.com/lunar-mining)
 
 [Amir Taaki](https://twitter.com/Narodism)
+
+[Bazsalanszky](https://github.com/Bazsalanszky)
