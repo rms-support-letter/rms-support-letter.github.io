@@ -182,8 +182,16 @@ Signed,
 
 [Andrey Unger](https://github.com/unger1984)
 
+[Stefan Midjich](https://github.com/stemid)
+
 [Anton Solomonov](https://github.com/wendor)
 
 [karmich](https://github.com/karmich)
 
 [Maxim Mikhailov](https://github.com/darkness9724)
+
+[Fineco Spaco](https://github.com/FinecoFinit)
+
+[Dmitriy Pomerantsev](https://github.com/pda0)
+
+[karmich](https://github.com/karmich)
