@@ -55,7 +55,7 @@ Signed,
 
 [Maximilian Power](https://github.com/maxp779)
 
-[XGQT](https://github.com/xgqt)
+[Maciej XGQT Barć](https://github.com/xgqt)
 
 [Cardboard Turtle](https://github.com/CardboardTurtle)
 
