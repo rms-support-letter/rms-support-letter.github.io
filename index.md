@@ -209,3 +209,5 @@ Signed,
 [Kirill K.](https://github.com/CrepCrep)
 
 [Yury Remishevsky](https://github.com/StoneToken)
+
+[Vladimir Zorin](https://github.com/epicfilemcnulty)
