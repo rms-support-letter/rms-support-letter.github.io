@@ -145,3 +145,5 @@ Signed,
 [Vladislav Glinsky](https://github.com/cl0ne)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
+
+[Dmitry Melnichuk](https://github.com/jock-tanner)
