@@ -216,3 +216,4 @@ Signed,
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
 
+[Artem Penner](https://github.com/d-helios)
