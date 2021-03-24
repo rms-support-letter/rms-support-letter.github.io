@@ -24,6 +24,8 @@ To sign, please [submit a pull request](https://github.com/rms-support-letter/rm
 
 Signed,
 
+[gamba1981] (https://github.com/gamba1981)
+
 [AlphaHot](https://github.com/AlphaHot)
 
 [hrg71](https://github.com/hrg71)
@@ -201,8 +203,6 @@ Signed,
 [Dmitriy Pomerantsev](https://github.com/pda0)
 
 [karmich](https://github.com/karmich)
-
-[Alexander Tulyakov](https://github.com/MrChaos1993)
 
 [Jonny Lindqvist](https://github.com/ojnny)
 
