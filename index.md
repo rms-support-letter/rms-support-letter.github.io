@@ -152,3 +152,5 @@ Signed,
 
 [Adam Katz](https://github.com/dial8gue)
 
+[Anton Kurbatov](https://github.com/tbsd)
+
