@@ -203,3 +203,5 @@ Signed,
 [karmich](https://github.com/karmich)
 
 [Jonny Lindqvist](https://github.com/ojnny)
+
+[Sergey Nikitchenko](https://github.com/NikitchenkoSergey)
