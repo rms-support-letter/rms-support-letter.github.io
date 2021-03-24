@@ -149,3 +149,5 @@ Signed,
 [Sergei Shilin](https://github.com/GutsyHeart)
 
 [Adam Katz](https://github.com/dial8gue)
+
+[Alexey Dunaev](https://github.com/keir-ru)
