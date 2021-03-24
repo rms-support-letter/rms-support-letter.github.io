@@ -145,3 +145,5 @@ Signed,
 [Vladislav Glinsky](https://github.com/cl0ne)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
+
+[Jihadist C++](https://github.com/Jihadist)
