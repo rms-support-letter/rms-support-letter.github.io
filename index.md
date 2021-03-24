@@ -121,3 +121,5 @@ Signed,
 [Sebastian Erika Higgins](https://github.com/bctnry)
 
 [Nonetrix](https://nonetrix.neocities.org)
+
+[James Holden](https://github.com/the-rocinante/)
