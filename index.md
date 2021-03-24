@@ -179,3 +179,5 @@ Signed,
 [Andrey Unger](https://github.com/unger1984)
 
 [Anton Solomonov](https://github.com/wendor)
+
+[Dmitriy Pomerantsev](https://github.com/pda0)
