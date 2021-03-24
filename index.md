@@ -188,6 +188,8 @@ Signed,
 
 [Anton Solomonov](https://github.com/wendor)
 
+[rydnr](https://github.com/rydnr)
+
 [karmich](https://github.com/karmich)
 
 [Maxim Mikhailov](https://github.com/darkness9724)
