@@ -119,8 +119,6 @@ Signed,
 
 [Bazsalanszky](https://github.com/Bazsalanszky)
 
-[Roberto Santacroce Martins](https://github.com/mileschet)
-
 [Sebastian Erika Higgins](https://github.com/bctnry)
 
 [Nonetrix](https://nonetrix.neocities.org)
@@ -221,8 +219,6 @@ Signed,
 
 [Vasiliy Streltsov](https://github.com/vstrelstov)
 
-[Vladimir Zorin](https://github.com/epicfilemcnulty)
-
 [Meri Amirkhanian](https://github.com/meri22)
 
 [George Linkovsky](https://github.com/Timofffee)
@@ -234,5 +230,55 @@ Signed,
 [Bartek Sabat](https://github.com/Cloud11665)
 
 [Alice Frey](https://github.com/aliasn3t)
+
+[Kirill "Keroosha" Poletaev](https://github.com/Keroosha)
+
+[Yulqen](https://github.com/yulqen)
+
+[Pavel Gusar](https://github.com/bpGusar)
+
+[Pol Earnik](https://github.com/polearnik)
+
+[Rinat Zaripov](https://github.com/DragonZla)
+
+[Alexander Kravchenko](https://github.com/aakravchenko)
+
+[Vladimir Gavrilov](https://github.com/jacendi)
+
+[Alexei Lozovsky (ilammy)](https://github.com/ilammy)
+
+[Alexander Verbovetsky](https://github.com/slalik)
+
+[Andrei Likhobabin](https://github.com/DoctorChe)
+
+[Lev Meirovitch](https://github.com/lvmtime)
+
+[Marat Gaianov](https://github.com/mgayanov)
+
+[Alexandr Kozachek](https://github.com/fluttr)
+
+[Yaroslav Isaev](https://github.com/jsisaev1)
+
+[Artem Kliatchkine](https://github.com/Sundow)
+
+[Alexey Slavin](https://github.com/YOricH/)
+
+[pas9x](https://github.com/pas9x)
+
+[Maxim Kochetkov](https://github.com/fidomax)
+
+[Dmitriy Tukhvatullin](https://github.com/jershell)
+
+[r3d9477](https://github.com/R3D9477)
+
+[Dmitrii Shepilov](https://github.com/CmShepard)
+
+[Alex BerS](https://github.com/pitachx)
+
+[Sergey Shurlakov](https://github.com/shurlakov)
+
+[Maksim Polishchuk](https://github.com/MiraD1n)
+
+[alsoijw](https://github.com/alsoijw)
 
 [Aleksey Kuchkov](https://github.com/Biblbrox)
