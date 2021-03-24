@@ -227,7 +227,7 @@ Signed,
 
 [George Linkovsky](https://github.com/Timofffee)
 
-[Aleksej Serdyukov](https://github.com/aleksejrs)
+[Aleksej Serdyukov](https://github.com/aleksejrs), a former Mozilla and OpenFoodFacts contributor.
 
 [Serge Postrash](https://github.com/SDKiller)
 
