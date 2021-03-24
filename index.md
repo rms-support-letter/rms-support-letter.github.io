@@ -235,4 +235,4 @@ Signed,
 
 [Alice Frey](https://github.com/aliasn3t)
 
-[Alexander Kravchenko] (https://github.com/aakravchenko)
+[Alexander Kravchenko](https://github.com/aakravchenko)
