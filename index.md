@@ -143,5 +143,7 @@ Signed,
 [Ivan Machugovskiy](https://github.com/imachug)
 
 [Vladislav Glinsky](https://github.com/cl0ne)
+ 
+[Sergei Shilin](https://github.com/GutsyHeart)
 
 [Egor V.](https:://github.com/brownerk)
