@@ -195,3 +195,5 @@ Signed,
 [Dmitriy Pomerantsev](https://github.com/pda0)
 
 [karmich](https://github.com/karmich)
+
+[Alexey Gusev aka GuAlSe](https://gitlab.com/gualse)
