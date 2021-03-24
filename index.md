@@ -263,6 +263,8 @@ Signed,
 
 [Artem Kliatchkine](https://github.com/Sundow)
 
+[Alexey Ivushkin aka Morgan_iv](https://github.com/Morgan-iv)
+
 [Alexey Slavin](https://github.com/YOricH/)
 
 [pas9x](https://github.com/pas9x)
