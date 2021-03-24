@@ -280,3 +280,5 @@ Signed,
 [Maksim Polishchuk](https://github.com/MiraD1n)
 
 [alsoijw](https://github.com/alsoijw)
+
+[Andrei Sinelnikov](https://github.com/asinelnikov)
