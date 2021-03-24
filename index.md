@@ -185,3 +185,5 @@ Signed,
 [Anton Solomonov](https://github.com/wendor)
 
 [karmich](https://github.com/karmich)
+
+[Alexey Rassikhin](https://github.com/alex-rass-88)
