@@ -1,0 +1,13 @@
+name: Check PR modifications
+on:
+  pull_request:
+    branches:
+      - master
+    paths:
+      - index.md
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Return error
+        run: echo Test
