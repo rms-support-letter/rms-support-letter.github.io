@@ -1,4 +1,4 @@
-﻿*2021-03-23*
+*2021-03-23*
 
 Richard M. Stallman, frequently known as RMS, has been a driving force in the free software movement for decades, with contributions including the GNU operating system and Emacs.
 
@@ -270,6 +270,8 @@ Signed,
 [Maxim Kochetkov](https://github.com/fidomax)
 
 [r3d9477](https://github.com/R3D9477)
+
+[Serjant Alexandru](https://github.com/solariserj)
 
 [Dmitrii Shepilov](https://github.com/CmShepard)
 
