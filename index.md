@@ -146,4 +146,9 @@ Signed,
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
+[Weber-Pflaumer Vladislav](https://github.com/FromSi)
+
+[Sergei Shilin](https://github.com/GutsyHeart)
+
 [Jihadist C++](https://github.com/Jihadist)
+
