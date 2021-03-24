@@ -74,6 +74,10 @@ Signed,
 
 [woross](https://github.com/gardenBanter)
 
+[HAUSEVULT](https://github.com/HAUSEVULT)
+
 [powpingdone](https://github.com/powpingdone)
+
+[Kiran Gopinathan](https://github.com/gopiandcode)
 
 [Snorklo](https://github.com/Soolko)
