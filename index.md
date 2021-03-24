@@ -137,3 +137,5 @@ Signed,
 [Jakub Stenka](https://github.com/GDI512)
 
 [Aroop Roelofs (FinlayDaG33k)](https://github.com/finlaydag33k)
+
+[Alexey Gorshkov (AnimusPEXUS)](https://github.com/AnimusPEXUS)
