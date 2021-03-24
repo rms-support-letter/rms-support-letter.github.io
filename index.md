@@ -152,3 +152,4 @@ Signed,
 
 [Adam Katz](https://github.com/dial8gue)
 
+[Danil Kondratiev](https://github.com/knightpp)
