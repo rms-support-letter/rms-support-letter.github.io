@@ -26,6 +26,8 @@ Signed,
 
 [AlphaHot](https://github.com/AlphaHot)
 
+[Andrew A. Philippov](https://github.com/andrew-phi)
+
 [hrg71](https://github.com/hrg71)
 
 [nukeop](https://github.com/nukeop)
