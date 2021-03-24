@@ -726,3 +726,11 @@ Signed,
 [Andrei Yankovich](https://github.com/EndrII)
 
 [Kerrigan](https://github.com/UndeRus)
+
+[Egor V.](https:://github.com/brownerk)
+
+[Uleysky](https://github.com/uleysky)
+
+[ameiji](https://github.com/ameiji)
+
+[Boris Popov](https://github.com/popovb)
