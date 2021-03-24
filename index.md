@@ -146,3 +146,6 @@ Signed,
 
 [lowitea](https://github.com/lowitea)
 
+[Sergei Shilin](https://github.com/GutsyHeart)
+
+[Adam Katz](https://github.com/dial8gue)
