@@ -147,3 +147,5 @@ Signed,
 [Sergei Shilin](https://github.com/GutsyHeart)
 
 [Adam Katz](https://github.com/dial8gue)
+
+[Oleksandr Natalenko (post-factum)](https://natalenko.name)
