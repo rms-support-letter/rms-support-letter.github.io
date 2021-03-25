@@ -1,3 +1,9 @@
+---
+layout: signed
+---
+
+2021-03-23
+
 Genelde RMS olarak bilinen Richard M. Stallman, GNU işletim
 sistemi ve Emacs gibi katkılarıyla yıllardır özgür yazılım
 hareketinin itici gücü olmuştur.
