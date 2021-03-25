@@ -1,3 +1,9 @@
+---
+layout: signed
+---
+
+2021-03-23
+
 Richard M. Stallman, también conocido como RMS, 
 ha sido una fuerza motriz en el movimiento del 
 software libre por décadas, con contribuciones 
