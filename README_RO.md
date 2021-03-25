@@ -1,6 +1,6 @@
 # O scrisoare deschisa catre RMS
 
-Ca sa te semnezi, creeaza un fisier in folder-ul '_data/signed' numit '<username>.yaml' cu acest continut:
+Ca sa te semnezi, creeaza un fisier in folder-ul `_data/signed` numit `<username>.yaml` cu acest continut:
 
 ```yaml
 name: <numele tau aici>
