@@ -50,4 +50,4 @@ layout: signed
 не напоминает справедливые дебаты, проводимые более интеллигентными людьми,
 такими как Ричард Столлман.
 
-Чтобы подписать, [отправьте пул-реквест](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Чтобы подписать это открытое письмо, [отправьте пул-реквест](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
