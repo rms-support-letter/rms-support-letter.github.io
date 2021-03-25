@@ -29,4 +29,4 @@ If you can, please consider sharing this letter on your forums and social media 
 ## Chatrooms
 Discord: https://discord.gg/7FWkxG4CsU
 
-Matrix.org room is being prepared
+Matrix.org: #free-rms:matrix.org
