@@ -27,6 +27,7 @@ If you can, please consider sharing this letter on your forums and social media 
 **Pull requests merged within 12 hours - due to a huge volume of PRs they will be merged in batches**
 
 ## Chatrooms
-Discord: https://discord.gg/7FWkxG4CsU
 
-Matrix.org room is being prepared
+- **Matrix.org:** #free-rms:matrix.org
+- **IRC:** #free-rms at chat.freenode.net
+- **Discord:** https://discord.gg/7FWkxG4CsU
