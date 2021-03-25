@@ -1,5 +1,11 @@
 # An open letter in support of RMS.
 
+Optional for *nix users, before add sign can add pre-commit hook, for validated sign:
+
+```sh
+$ cp ./pre-commit .git/hooks/pre-commit
+```
+
 To sign, create a file in `_data/signed/` folder named `<username>.yaml` with the following content:
 
 ```yaml
