@@ -16,6 +16,7 @@ link: https://github.com/example_username
 ```
 
 Don't use `<>` in this file, as well as non-ascii symbols in file name.
+If you're using your email as a link, prepend it with `mailto:`.
 If you are able to, please use your real name and add projects and affiliatied organizations in parentheses.
 
 Then **click "Propose new file"** and go through the subsequent pages to create a merge request.
