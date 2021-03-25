@@ -14,17 +14,17 @@ Richard M. Stallman, häufig bekannt unter dem Kürzel RMS, war seit
 Jahrzehnten eine treibende Kraft in der Freien Software-Bewegung,
 mit Beiträgen wie dem GNU Betriebssystem und Emacs.
 
-In jüngster Zeit wurden eine reihe verwerflicher Online-Angriffe
-bewerkstelligt, mit dem Ziel ihn aus dem Vorstand der FSF zu entfernen,
-weil er seine persönlichen Meinungen zum Ausdruck gebracht hat. Wir
-mussten schon öfter dabei zuschauen, wie dies bereits anderen Aktivisten
+In letzter Zeit gab es bösartige Online-Angriffe, die darauf abzielten, 
+ihn aus dem Vorstand der FSF zu entfernen,
+weil er seine persönlichen Meinungen geäussert hat. Wir
+mussten schon öfter dabei zuschauen, wie dies anderen Aktivisten
 der Freien Software-Bewegung passiert ist. Wir wollen nicht weiter
 tatenlos dabei zusehen, wie ein Symbol dieser Gemeinschaft angegriffen
 wird.
 
-Die FSF ist ein autonomes Gremium, welches durchaus in der Lage ist,
-seine Mitglieder fair und unvoreingenommen zu behandeln und sozialem
-Druck von außen nicht nachgeben sollte. Wir fordern die FSF auf,
+Die FSF ist eine autonome Organisation, die in der Lage ist,
+ihre Mitglieder fair und unvoreingenommen zu behandeln und sozialem
+Druck von außen nicht nachgeben sollte. Wir fordern die FSF dringend auf,
 die Argumente gegen RMS objektiv zu betrachten und die eigentliche
 Bedeutung seiner Worte und Taten — im Lichte der persönlicher Freiheit,
 die ja den Hauptwert der Freien Software Bewegung darstellt — zu
@@ -32,37 +32,38 @@ verstehen.
 
 In der Vergangenheit hat RMS seine Ansichten in einer Weise zum
 Ausdruck gebracht, die viele verärgert hat. Er konzentriert
-sich in der Regel eher auf philosophische Hintergründe sowie auf die
-Suche nach Wahrheit und pflegt sprachlichen Purismus. Dabei räumt er
+sich in der Regel eher auf philosophische Hintergründe strebt nach objektiver
+Wahrheit und sprachlicher Reinheit. Dabei räumt er
 den Gefühlen der Menschen in seinen Kommentaren oft wenig Raum ein.
-Das macht seine Argumente für Missverständnisse und Verstellungen
-anfällig, was unserer Meinung nach aus dem offenen Brief, in dem seine
-Absetzung gefordert wird, klar hervorgeht. Es muss bei der Interpretation
-seiner Worte daher berücksichtigt werden, dass seine undiplomatische
-Ausdrucksweise keine Voraussetzung ist für seinen aktivistischen Erfolg.
+Das macht seine Argumente für Missverständnisse und Falschdarstellungen
+anfällig, wie sie unserer Meinung nach aus der offene Brief, in dem seine
+Absetzung gefordert wird, klar enthält. Seine Worte müssen in diesem 
+Zusammenhang interpretiert werden und dabei berücksichtigt werden, dass 
+er meist nicht versucht, die Dinge diplomatisch zu formulieren. 
 
-Unabhängig davon, sind die eigentlichen Meinungen Stallmans, für die er
+Unabhängig davon, sind die Ansichten Stallmans, für die er
 angeprangert wird, nicht relevant hinsichtlich seiner Fähigkeit, eine
-Gemeinschaft wie die FSF zu führen. Darüber hinaus hat er denselben
+Gemeinschaft wie die FSF zu anzuführen. Darüber hinaus hat er denselben
 Anspruch auf eine eigene Meinung, wie jeder andere auch. Mitglieder und
 Unterstützer müssen nicht zwingend mit allen seinen Ansichten
-einverstanden sein und sollten sein Recht auf Gedanken- und
+einverstanden sein, aber sie sollten sein Recht auf Gedanken- und
 Meinungsfreiheit respektieren.
 
 **An die FSF:**
 
-Das Absetzen von RMS schadet dem Ansehen der FSF und wäre ein erheblicher
+RMS zu entfernen schadet dem Ansehen der FSF und wäre ein erheblicher
 Schlag gegen die Treibkraft der Freien Software-Bewegung.
 Wir bitten euch, euer Handeln sorgfältig zu bedenken — denn eure Entscheidung
-könnte die Zukunft der Softwarebranche ernsthaft beeinträchtigen.
+wird ernste Auswirkungen auf die Zukunft der Software-Industrie haben.
 
 **An die Meute, die sich gegen Richard Stallman zusammengetan hat, um
-ihn wider angemessener Argumente und einer gesunden Debatte mit echter
-Meinungsvielfalt als öffentliche Figur zu diskreditieren:**
+ihn aufgrund vernünftiger Argumente in einem Streitgespräch und wegen 
+verschiedener Meinungen und Überzeugungen, die er über Jahrzehnte als 
+öffentliche Figur geäussert hat, zu diskreditieren:**
 
-Ihr habt keinen Anteil daran, die Leiterschaft irgendwelcher 
-Gemeinschaften zu wählen. Vor allem nicht durch einen weiteren Mob-Angriff, 
-welcher nicht im Ansatz einer fairen und ordentlichen Debatte
-entspricht, so wie es uns Richard Stallmann eigentlich vorlebte. 
+Ihr habt kein Mitspracherecht bei der Wahl der Leitung dieser Gemeinschaft. 
+Vor allem nicht durch einen weiteren Mob-Angriff, welcher nicht im Ansatz 
+einer fair geführten Debatte entspricht, wie sie Personen wie Richard 
+Stallmann beispielhaft vorgemacht haben. 
 
 Um zu unterschreiben, erstelle bitte [einen Pull-Request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
