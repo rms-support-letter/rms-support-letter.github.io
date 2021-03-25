@@ -28,6 +28,8 @@ If you can, please consider sharing this letter on your forums and social media 
 
 Alternatively, fork and clone the repo, create the file `_data/signed/<username>.yaml` manually, then commit and submit a PR.
 
+If you want to support the letter without using Github, go here: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1
+
 ## Chatrooms
 
 - **Matrix.org:** #free-rms:matrix.org
