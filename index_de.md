@@ -48,10 +48,11 @@ sollten aber sein Recht auf Gedanken- und Redefreiheit respektieren.
 Das Absetzen von RMS schadet dem Image der FSF und wäre ein 
 erheblicher Schlag gegen die Dynamik der Freien Software-Bewegung.
 Wir bitten euch, euer Handeln sorgfältig zu überprüfen. Denn was ihr
-entscheiden werdet, wird auf die Zukunft der Softwarebranche ernsthafte Auswirkungen haben.
+entscheiden werdet, wird auf die Zukunft der Softwarebranche ernsthafte
+Auswirkungen haben.
 
 **An den Meute, die sich gegen Richard Stallman zusammengetan hat um
-ihn wider angemessenr Argumente und einer gesunden Debatte mit echter
+ihn wider angemessener Argumente und einer gesunden Debatte mit echter
 Meinungsvielfalt als öffentliche Figur zu diskreditieren:**
     
 Ihr habt keinen Anteil daran, die Leiterschaft irgendwelcher 
