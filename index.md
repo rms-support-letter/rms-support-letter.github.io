@@ -2,7 +2,7 @@
 layout: signed
 ---
 
-2021-03-24
+2021-03-23
 
 Richard M. Stallman, frequently known as RMS,
 has been a driving force in the free software
