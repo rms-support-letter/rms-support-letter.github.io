@@ -23,8 +23,8 @@ tatenlos dabei zusehen, wie ein Symbol dieser Gemeinschaft angegriffen
 wird.
 
 Die FSF ist ein autonomes Gremium, welches durchaus in der Lage ist,
-seine Mitglieder fair und unvoreingenommen zu behandeln und sollte
-einem sozialen Druck von außen nicht nachgeben. Wir fordern die FSF auf,
+seine Mitglieder fair und unvoreingenommen zu behandeln und sozialem
+Druck von außen nicht nachgeben sollte. Wir fordern die FSF auf,
 die Argumente gegen RMS objektiv zu betrachten und die eigentliche
 Bedeutung seiner Worte und Taten — im Lichte der persönlicher Freiheit,
 die ja den Hauptwert der Freien Software Bewegung darstellt — zu
@@ -51,12 +51,12 @@ Meinungsfreiheit respektieren.
 
 **An die FSF:**
 
-Das Absetzen von RMS schadet dem ansehen der FSF und wäre ein erheblicher
+Das Absetzen von RMS schadet dem Ansehen der FSF und wäre ein erheblicher
 Schlag gegen die Treibkraft der Freien Software-Bewegung.
 Wir bitten euch, euer Handeln sorgfältig zu bedenken — denn eure Entscheidung
 könnte die Zukunft der Softwarebranche ernsthaft beeinträchtigen.
 
-**An den Meute, die sich gegen Richard Stallman zusammengetan hat um
+**An die Meute, die sich gegen Richard Stallman zusammengetan hat, um
 ihn wider angemessener Argumente und einer gesunden Debatte mit echter
 Meinungsvielfalt als öffentliche Figur zu diskreditieren:**
 
