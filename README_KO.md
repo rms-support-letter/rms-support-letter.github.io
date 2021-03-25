@@ -8,7 +8,7 @@ name: <your name here>
 link: <link to your profile or site>
 ```
 
-`<>`는 제외입니다..
+`<>`는 제외됩니다..
 
 예시:
 ```yaml
