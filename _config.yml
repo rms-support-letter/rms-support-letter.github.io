@@ -20,3 +20,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - migrate.py
+  - README*.md
