@@ -37,3 +37,4 @@ If you want to support the letter without using Github, go here: https://codeber
 - **Matrix.org:** #free-rms:matrix.org
 - **IRC:** #free-rms at chat.freenode.net
 - **Discord:** https://discord.gg/7FWkxG4CsU
+- **Telegram:** https://t.me/free_rms
