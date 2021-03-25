@@ -1,13 +1,14 @@
-name: Do not modify index.md directly, add a file to _data/signed instead
+name: Check signatures format
 on:
   pull_request:
     branches:
       - master
     paths:
-      - index.md
+      - _data/signed/*
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Throw error
-        run: echo "Do not modify index.md directly, add a file to _data/signed instead"; exit 1
+      - uses: actions/checkout@v2
+      - name: Check signatures format
+        run: python3 check-signatures-format.py
