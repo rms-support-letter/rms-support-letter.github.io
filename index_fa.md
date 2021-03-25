@@ -1,4 +1,10 @@
+---
+layout: signed
+image: /assets/social-media-preview.png
+locale: fa_IR
+---
 <div dir="rtl">
+2021-03-23
   
 # نامه‌ای سرگشاده در حمایت از ریچارد استالمن
 
