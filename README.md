@@ -18,10 +18,16 @@ link: https://example.com/
 Don't use `<>` in this file, as well as non-ascii symbols in file name.
 If you are able to, please use your real name and add projects and affiliatied organizations in parentheses.
 
-When youre done, create a pull request.
+When you're done, create a pull request.
 
 Let's keep the tone firm, but professional.
 
 If you can, please consider sharing this letter on your forums and social media and notify journalists who might be helpful to our cause.
 
 **Pull requests merged within 12 hours - due to a huge volume of PRs they will be merged in batches**
+
+## Chatrooms
+
+- **Matrix.org:** #free-rms:matrix.org
+- **IRC:** #free-rms at chat.freenode.net
+- **Discord:** https://discord.gg/7FWkxG4CsU
