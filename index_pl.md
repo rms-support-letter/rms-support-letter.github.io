@@ -18,30 +18,30 @@ system operacyjny GNU i Emacs.
 Ostatnio w sieci pojawiły się nikczemne ataki
 zmierzające do usunięcia go z zarządu FSF (Fundacji Wolnego Oprogramowania)
 za wyrażanie osobistych opinii. Mogliśmy zauważyć
-to już wcześniej w zorganizowany sposób z innymi
-prominentnymi działaczami na rzecz wolnego oprogramowania i programistami.
+to już wcześniej jak działo się to w zorganizowany sposób z innymi
+istotnymi działaczami na rzecz wolnego oprogramowania i programistami.
 Tym razem nie będziemy stać bezczynnie, gdy ikona
 tej społeczności jest atakowana.
 
-FSF jest autonomicznym ciałem, które jest w stanie traktować
-swoich członków w uczciwy, bezstronny sposób i nie powinno
+FSF jest autonomiczną organizacją, która jest w stanie traktować
+swoich członków w uczciwy, bezstronny sposób i nie powinna
 poddawać się zewnętrznym naciskom społecznym. Wzywamy
 FSF do obiektywnego rozważenia argumentów przeciwko RMS
 i do prawdziwego zrozumienia znaczenia jego słów i działań.
 
-Historycznie, RMS wyrażał swoje poglądy w sposoby
+W przeszłości, RMS wyrażał swoje poglądy w sposoby
 które mogły zdenerwować wielu ludzi. Zazwyczaj jest on bardziej skupiony na
 filozoficznych podstawach, dążeniu do obiektywnej
-prawdy i puryzmu językowego, podczas gdy bagatelizuje ludzkie
-uczucia w sprawach, które komentuje. To sprawia, że jego argumenty
+prawdy i puryzmu językowego, kładąc mniejszy nacisk na emocje
+w sprawach, które komentuje. To sprawia, że jego argumenty
 podatne są na nieporozumienia i przeinaczenia,
 co naszym zdaniem ma miejsce w "otwartym" liście wzywającym do jego usunięcia.
 Jego słowa należy interpretować w tym kontekście oraz
-biorąc pod uwagę, że częściej
+biorąc pod uwagę, że często
 nie stara się załatwiać spraw dyplomatycznie.
 
 Niezależnie od tego, opinie Stallmana na temat spraw
-w których jest prześladowany, nie są istotne dla
+za które jest prześladowany, nie są istotne dla
 jego zdolności do przewodzenia społeczności takiej jak FSF.
 Co więcej, ma on prawo do swoich opinii tak samo
 tak samo jak każdy inny. Członkowie i sympatycy nie
