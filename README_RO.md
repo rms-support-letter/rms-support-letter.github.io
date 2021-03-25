@@ -7,7 +7,7 @@ name: <numele tau aici>
 link: <link la profilul sau site-ul tau>
 ```
 
-Fara '<>'.
+Fara `<>`.
 
 Exemplu:
 ```yaml
