@@ -1,3 +1,13 @@
+---
+layout: signed
+title: An open letter in support of Richard M. Stallman
+description: An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
+image: /assets/social-media-preview.png
+locale: ro_RO
+twitter:
+  card: summary_large_image
+---
+
 Richard M. Stallman, mai bine cunoscut ca si RMS,
 a fost un motor in miscarea de free software pentru
 decenii, cu contributii incluzand sistemul de operare
