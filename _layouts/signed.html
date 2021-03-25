@@ -11,19 +11,11 @@ layout: home
 </p>
 
 <ol>
-    {% capture signs %}
-      {% for sign_hash in site.data.signed %}
-        {% assign signature = sign_hash[1] %}
-        |{{signature.name | escape}}#{{signature.link | escape}}
-      {% endfor %}
-    {% endcapture %}
-
-    {% assign sorted_signs = signs | split: '|' | sort %}
-
-    {% for signature in sorted_signs %}
-      {% assign sign_items = signature | split: '#' %}    
-      <li><a href="{{ sign_items[1]}}">
-        {{ sign_items[0]}}
-      </a></li>
+    {% assign folder = site.data.signed | sort %}
+    {% for sign_hash in folder %}
+    {% assign signed = sign_hash[1] %}
+    <li><a href="{{ signed.link }}">
+      {{ signed.name }}
+    </a></li>
     {% endfor %}
 </ol>
