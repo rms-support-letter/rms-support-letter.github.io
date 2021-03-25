@@ -14,18 +14,14 @@ layout: home
   {% capture signs %}
     {% for sign_hash in site.data.signed %}
       {% assign signature = sign_hash[1] %}
-      |{{signature.name | escape}}#{{signature.link | escape}}
+      |{{signature.name | escape }}#{{signature.link | escape }}
     {% endfor %}
   {% endcapture %}
-
   {% assign sorted_signs = signs | split: '|' | sort %}
-  
   {% for signature in sorted_signs %}
-    {% assign sign_items = signature | split: '#' %}  
+    {% assign sign_items = signature | split: '#' %}
     {% if sign_items[0] and sign_items[1] %} 
-    <li><a href="{{ sign_items[1] }}">
-      {{ sign_items[0]}}
-    </a></li>
+    <li><a href="{{ sign_items[1] | strip }}">{{ sign_items[0] | strip }}</a></li>
     {% endif %} 
   {% endfor %}
 </ol>
