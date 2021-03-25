@@ -30,5 +30,5 @@ link: https://example.com/
 ## Chatrooms
 
 - **Matrix.org:** #free-rms:matrix.org
-- **IRC:** #free-rms at chat.freenode.net
+- **IRC:** chat.freenode.net 서버의 #free-rms 채널 
 - **Discord:** https://discord.gg/7FWkxG4CsU
