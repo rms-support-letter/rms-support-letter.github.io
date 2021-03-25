@@ -2,7 +2,8 @@ title: An open letter in support of RMS.
 baseurl: ""
 url: ""
 
-github_username:  rms-support-letter
+github_username: rms-support-letter
+repository: rms-support-letter/rms-support-letter.github.io
 
 # Build settings
 theme: minima
