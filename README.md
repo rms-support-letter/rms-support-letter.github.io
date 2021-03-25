@@ -11,8 +11,8 @@ Without the `<>`.
 
 Example:
 ```yaml
-name: John Camilton
-link: https://github.com/johncamilton
+name: Example name
+link: https://github.com/example_username
 ```
 
 Don't use `<>` in this file, as well as non-ascii symbols in file name.
