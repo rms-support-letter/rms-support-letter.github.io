@@ -12,7 +12,7 @@ Without the `<>`.
 Example:
 ```yaml
 name: John Camilton
-link: https://johncamilton.co.uk/
+link: https://github.com/johncamilton
 ```
 
 Don't use `<>` in this file, as well as non-ascii symbols in file name.
