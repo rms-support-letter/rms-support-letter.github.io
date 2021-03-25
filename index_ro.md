@@ -1,3 +1,7 @@
+---
+layout: signed
+---
+
 Richard M. Stallman, mai bine cunoscut ca RMS, a fost un motor în
 mișcarea de software liber pentru decenii, cu contribuții incluzând
 sistemul de operare GNU și Emacs.
