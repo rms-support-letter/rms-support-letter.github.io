@@ -1,61 +1,57 @@
-Richard M. Stallman, mai bine cunoscut ca si RMS,
-a fost un motor in miscarea de free software pentru
-decenii, cu contributii incluzand sistemul de operare
-GNU si Emacs.
+Richard M. Stallman, mai bine cunoscut ca RMS, a fost un motor în
+mișcarea de software liber pentru decenii, cu contribuții incluzând
+sistemul de operare GNU și Emacs.
 
-Recent, au aparut niste atacuri online josnice
-in scopul de a-l scoate din consiliul de administratie
-al organizatiei FSF pentru ca si-a exprimat propiile
-opinii. Lucrul acesta s-a mai intamplat, tot intr-o
-maniera organizata, cu adresa la alti activisti proeminenti
-a miscarii de free software si programatori.
-De data aceasta nu vom sta cu bratele in san, cand un
-model al acestei comunitate este atacat.
+Recent, au apărut niște atacuri online josnice
+în scopul de a-l scoate din consiliul de administrație
+al organizației FSF pentru că și-a exprimat propiile
+opinii. Lucrul acesta s-a mai întâmplat, tot într-o
+manieră organizată, cu adresa la alți activiști proeminenți
+ai mișcării de software liber și programatori.
+De data aceasta nu vom sta cu brațele în sân, când un
+model al acestei comunități este atacat.
 
-FSF este un organism autonom care este capabil de a-si
-trata propii membrii intr-o maniera corecta si impartiala,
-si n-ar trebui sa cada la presiuniile sociale externe.
-Indemnam pe FSF a considere argumentele contra lui RMS
-obiectiv si sa inteleaga cu adevarat semnificanta
-actiuniilor si vorbelor lui.
+FSF este un organism autonom care este capabil de a-și
+trata proprii membrii într-o manieră corectă și imparțială,
+și n-ar trebui se supună presiunilor sociale externe.
+Îndemnăm pe FSF să considere argumentele contra lui RMS
+într-un mod obiectiv și să înțeleagă cu adevărat semnificația
+acțiunilor și vorbelor lui.
 
-Istoric, RMS si-a exprimat vederiile in cai care au deranjat
-multe persoane. El, de obicei, este mai concentrat pe
-motivele filozofice, si de urmarirea adevarului obiectiv
-si purismul lingvistic, fara a pune accent pe sentimentele
-altor persoane pe chestiunile ce le adreseaza. Asta ii fac
-argumentele vulnerabile la neintelegeri si denaturare, o 
-chestiune ce simtim ca se intampla in scrisoarea deschisa
-care solicita elminarea sa.
-Vorbele lui trebuie sa fie interpretate in acest context
-si trebuie sa tinem cont de faptul ca de cele mai multe ori,
-el nu urmareste sa adreseze chestiuniile diplomatic.
+De-a lungul timpului, RMS și-a exprimat punctele de vedere în căi care
+au deranjat multe persoane. El, de obicei, este mai concentrat pe
+motivele filozofice, și pe urmărirea adevărului obiectiv și purismul
+lingvistic, fără a pune accent pe sentimentele altor persoane legate
+de chestiunile pe care le discută. Acest lucru îi face argumentele
+vulnerabile la neînțelegeri și denaturare, o chestiune ce simțim că se
+întâmplă în scrisoarea deschisă care solicită elminarea sa. Vorbele
+lui trebuie să fie interpretate în acest context și trebuie să ținem
+cont de faptul că de cele mai multe ori, el nu urmărește să adreseze
+chestiunile diplomatic.
 
-Oricum, opiniile lui Stallman pe chestiuniile pe care este 
-persecutat nu sunt relevante in contextul abilitatii lui
-de a conduce o comunitate precum FSF-ul.
-In plus, are dreptul la propiile sale opinii lafel de mult
-ca si orice alta persoana. Membrii si suporterii nu trebuie
-sa fie deacord cu aceste opinii, dar ar trebuii sa-i respecte
-dreptul de libertate la gandire si vorbire.
+Oricum, opiniile lui Stallman despre chestiunile din cauza cărora este
+persecutat nu sunt relevante în contextul abilității lui de a conduce
+o comunitate precum FSF-ul. În plus, are dreptul la propiile sale
+opinii la fel de mult ca și orice altă persoană. Membrii și suporterii
+nu trebuie să fie de acord cu aceste opinii, dar ar trebui să-i
+respecte dreptul de libertate la gândire și exprimare.
 
-**Catre FSF:**
+**Către FSF:**
 
-Eliminarea lui RMS va diminua imaginea FSF-ului si va fi o
-lovitura significanta la impulsul curent de inclinare catre
-miscarea free software.
-Va indemnam sa va considerati cursul de actiuni cu atentie,
-deoarece ce veti decide va avea un impact serios pe viitorul
-industriei de software.
+Eliminarea lui RMS va diminua imaginea FSF-ului și va fi o lovitură
+semnificativă la impulsul curent de inclinare către mișcarea
+software-ului liber. Vă îndemnăm să vă considerați cursul acțiunilor
+cu atenție, deoarece ce veți decide va avea un impact serios asupra
+viitorului industriei software.
 
-**Pentru gloata care urmareste sa-l atace pe Richard Stallman
-pentru argumente rezonabile in dezbatere si pentru o varietate
-de opinii si credinte exprimate pe o perioada de decenii ca si
-o figura publica:**
+**Pentru gloata care urmărește să-l atace pe Richard Stallman pentru
+argumente rezonabile în dezbatere și pentru o varietate de opinii și
+credinte exprimate pe o perioadă de decenii în calitate de figură
+publică:**
 
-Nu aveti nicio parte in a alege conducerea niciunei comunitati.
-In special nu printr-o gloata cu scoupul de a ataca ceea ce nu
-reprezinta in niciun fel o dezbatere cu conduita corecta precum
-exemplificat de persoane mai bune precum Richard Stallman.
+Nu aveți nicio parte în a alege conducerea niciunei comunități.  În
+special nu printr-un atac de gloată care nu se poate asemăna de niciun
+fel cu o dezbatere desfășurată corect, așa cum au exemplificat
+persoane mai bune precum Richard Stallman.
 
-Ca sa te semnezi, te rog [deschide un pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Ca să te semnezi, te rugăm [deschide un pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
