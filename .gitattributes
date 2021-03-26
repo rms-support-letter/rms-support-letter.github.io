@@ -1,0 +1,2 @@
+Gemfile linguist-language=HTML
+*.lock linguist-language=HTML
