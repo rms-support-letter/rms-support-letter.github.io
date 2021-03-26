@@ -1,0 +1,12 @@
+<div class="translations">
+  <p>Translations:</p>
+  <a class="translation" href='/'>🇺🇸</a>
+  {% for translation in site.translations %}
+    <a class="translation" href="{{ translation.url }}">
+      {%- assign langcode = translation.locale | split: "_" | last | downcase -%}
+      {%- assign c1 = langcode | slice: 0, 1 -%}
+      {%- assign c2 = langcode | slice: 1, 1 -%}
+      {{- site.data.emoji[c1] -}}{{- site.data.emoji[c2] -}}
+    </a>
+  {% endfor %}
+</div>
