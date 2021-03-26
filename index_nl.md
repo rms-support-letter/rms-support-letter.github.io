@@ -63,4 +63,8 @@ mensen als Richard Stallman.
 
 Om te ondertekenen, kunt u een [pull
 request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls)
-aanmaken.
+aanmaken. Als je wilt ondertekenen zonder GitHub te gebruiken, kun je:
+
+- Een ondertekende patch sturen naar signrms@prog.cf;
+- Of een patch sturen naar ~tyil/rms-support@lists.sr.ht;
+- Of je ondertekening op [de CodeBerg issue](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1) achterlaten.
