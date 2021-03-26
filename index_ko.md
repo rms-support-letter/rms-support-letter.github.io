@@ -1,5 +1,7 @@
 ---
 layout: signed
+locale: ko_KR
+
 ---
 
 2021-03-23

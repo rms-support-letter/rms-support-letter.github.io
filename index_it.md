@@ -1,5 +1,6 @@
 ---
 layout: signed
+locale: it_IT
 ---
 
 23-03-2021

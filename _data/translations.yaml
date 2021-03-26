@@ -2,32 +2,32 @@ translations:
   - url: /
     name: English
     flag: 🇺🇸
-    locale: xx
+    locale: en_US
 
   - url: /index_zh_cn.html
     name: 中文
     flag: 🇨🇳
-    locale: xx
+    locale: zh_CN
 
   - url: /index_tr.html
     name: Türkçe
     flag: 🇹🇷
-    locale: xx
+    locale: tr_TR
 
   - url: /index_ro.html
     name: Română
     flag: 🇷🇴
-    locale: xx
+    locale: ro_RO
 
   - url: /index_es.html
     name: Español
     flag: 🇪🇸
-    locale: xx
+    locale: es_ES
 
   - url: /index_pt_br.html
     name: Português
     flag: 🇧🇷
-    locale: xx
+    locale: pt_BR
 
   - url: /index_de.html
     name: Deutsch
@@ -37,44 +37,44 @@ translations:
   - url: /index_fr.html
     name: Français
     flag: 🇫🇷
-    locale: xx
+    locale: fr_FR
 
   - url: /index_pl.html
     name: Polski
     flag: 🇵🇱
-    locale: xx
+    locale: pl_PL
 
   - url: /index_it.html
     name: Italiano
     flag: 🇮🇹
-    locale: xx
+    locale: it_IT
 
   - url: /index_ko.html
     name: 日本語
     flag: 🇰🇷
-    locale: xx
+    locale: ko_KR
 
   - url: /index_ru.html
     name: Русский
     flag: 🇷🇺
-    locale: xx
+    locale: ru_RU
 
   - url: /index_fa.html
     name: فارسی
     flag: 🇮🇷
-    locale: xx
+    locale: fa_IR
 
   - url: /index_ua.html
     name: Українська
     flag: 🇺🇦
-    locale: xx
+    locale: uk_UA
 
   - url: /index_id.html
     name: Bahasa Indonesia
     flag: 🇮🇩
-    locale: xx
+    locale: id_ID
 
   - url: "/index_rs.html"
     name: Српски / srpski
     flag: 🇷🇸
-    locale: xx
+    locale: sr_RS
