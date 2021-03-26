@@ -15,7 +15,7 @@ ha sido una fuerza motriz en el movimiento del
 software libre por décadas, con contribuciones 
 que incluyen el sistema operativo GNU y Emacs.
 
-Recientemente han habido viles ataques online
+Recientemente ha habido viles ataques online
 con el fin de eliminarlo de la junta directiva de la 
 FSF por expresar sus opiniones personales. Hemos 
 visto esto pasar con anterioridad de manera organizada 
