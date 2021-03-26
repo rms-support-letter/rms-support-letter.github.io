@@ -3,7 +3,7 @@
 To sign, **click [here](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** and name the file `<username>.yaml` (replace `<username>` with your name) with the following content:
 
 ```yaml
-name: <your name here>
+name: <your name here (optional organization or company)>
 link: <link to your profile or site>
 ```
 
@@ -11,7 +11,7 @@ Without the `<>`.
 
 Example:
 ```yaml
-name: Example name
+name: Example name (Good company)
 link: https://github.com/example_username
 ```
 

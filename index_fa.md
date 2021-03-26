@@ -28,4 +28,4 @@ twitter:
 
 شما جایگاهی در تعیین رهبری هیچ جامعه‌ای ندارید. به ویژه نه از طریق غوغاسالاری دیگری که هیچ نسبت دوری با یک مباحثهٔ منصفانه که شیوهٔ افرادی با اصل و نصب نظیر استالمن است، ندارد.
 
-برای امضا، لطفاً [یک درخواست ادغام بفرستید](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+برای امضا، لطفاً [یک درخواست ادغام](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls) فرستاده و یا یک وصله امضا شده به [signrms@prog.cf](mailto:signrms@prog.cf) یا [~tyil/rms-support@lists.sr.ht.](mailto:~tyil/rms-support@lists.sr.ht.) بفرستید.
