@@ -1,7 +1,13 @@
+@font-face {
+	font-family: "Noto Color Emoji";
+	src: url("/assets/NotoColorEmoji.ttf") format("truetype");
+}
+
 .translations {
-  text-align: end;
+	text-align: end;
 }
 
 .translation {
-  font-size: 2em;
+	font-family: "Noto Color Emoji", sans-serif;
+	font-size: 2em;
 }
