@@ -43,7 +43,7 @@ er meist nicht versucht, die Dinge diplomatisch zu formulieren.
 
 Unabhängig davon, sind die Ansichten Stallmans, für die er
 angeprangert wird, nicht relevant hinsichtlich seiner Fähigkeit, eine
-Gemeinschaft wie die FSF zu anzuführen. Darüber hinaus hat er denselben
+Gemeinschaft wie die FSF anzuführen. Darüber hinaus hat er denselben
 Anspruch auf eine eigene Meinung, wie jeder andere auch. Mitglieder und
 Unterstützer müssen nicht zwingend mit allen seinen Ansichten
 einverstanden sein, aber sie sollten sein Recht auf Gedanken- und
