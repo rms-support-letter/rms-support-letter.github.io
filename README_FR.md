@@ -1,35 +1,34 @@
 # Une lettre ouverte en soutiens à RMS
 
-pour signer, créer un fichier dans le répertoire `_data/signed/` avec
-pour nom `<username>.yaml` et contenant ce qui suit:
+Pour la signer, **[créez un nouveau fichier](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** appelé `<nom>.yaml` (remplacez `<nom>` par votre nom ou pseudo) avec le contenu suivant:
 
 ```yaml
 name: <votre nom ici>
-link: <lien vers votre profil ou site>
+link: <lien vers votre profil ou votre site>
 ```
 
 Sans les `<>`.
 
-Example:
+Exemple:
 ```yaml
-name: Ada Lovelace
+name: Jean Dupont
 link: https://example.com/
 ```
 
-Ne pas utiliser de `<>` dans ce fichier, ni même de symbole non-ascii dans le nom de fichier.
-Si cela est possible pour vous, ajoutez s'il vous plait votre vrai nom et les projets ou organisations auquels vous êtes affiliés entre parenthèses.
+N'utilisez pas de `<>` dans le fichier, et utilisez uniquement des caractères ASCII pour le nom du fichier.
+Utilisez de préférence votre vrai nom. N'hésitez pas à ajouter les projets et/ou organisations auquels vous êtes affiliés entre parenthèses.
 
-Quand vous avez fini, créer une pull request.
+Lorsque vous avez terminé, **cliquez sur "Propose new file"** (Proposer un nouveau fichier) et poursuivez la procédure afin de créer une demande de fusion (Merge request).
 
-Gardons le ton ferme, mais professionel.
+Gardons le ton ferme, mais professionnel.
 
-Si vous le pouvez, s'il vous plait considérer de partager cette lettre
-sur vos forums ou réseaux sociaux et notifiez les journalistes qui
-pourraient aidé notre cause.
+Pensez à partager cette lettre ouverte sur les forums et réseaux sociaux, et à informer les journalistes qui pourraient être utiles à notre cause.
 
-**Les Pull requests sont mergés dans les 12 heures - à cause du grand nombre de PRs elles seront mergés par lot.**
+**Les demandes de fusion (Pull requests) sont traitées dans les 12 heures suivant la demande - en raison d'un énorme volume de demandes, elles seront fusionnées par lot.**
 
-## Chatrooms
-Discord: https://discord.gg/7FWkxG4CsU
+Vous pouvez sinon effectuer une demande manuelle. Pour ce faire, créez une fork de ce repo, ajoutez un fichier `_data/signed/<nom>.yaml` en suivant les instructions ci-dessus, faites un commit puis une demande de fusion.
 
-Matrix.org room est en préparation.
+## Chatrooms (en Anglais)
+- **Matrix.org:** #free-rms:matrix.org
+- **IRC:** #free-rms at chat.freenode.net
+- **Discord:** https://discord.gg/7FWkxG4CsU

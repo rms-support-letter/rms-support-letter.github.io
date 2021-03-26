@@ -1,0 +1,33 @@
+---
+layout: home
+---
+
+{% include css.html %}
+
+{% include translations.html %}
+
+<div style="direction: rtl">
+{{ content }}
+</div>
+
+<p>
+  <b>
+    Signed:
+  </b>
+</p>
+
+<ol>
+  {% capture signs %}
+    {% for sign_hash in site.data.signed %}
+      {% assign signature = sign_hash[1] %}
+      |{{signature.name | escape }}#{{signature.link | escape }}
+    {% endfor %}
+  {% endcapture %}
+  {% assign sorted_signs = signs | split: '|' | sort %}
+  {% for signature in sorted_signs %}
+    {% assign sign_items = signature | split: '#' %}
+    {% if sign_items[0] and sign_items[1] %}
+    <li><a href="{{ sign_items[1] | strip }}">{{ sign_items[0] | strip }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ol>

@@ -12,7 +12,7 @@ for info, content in zip(parts[::2], parts[1::2]):
 
     author = info_dict["author"]
 
-    content_lines = [line.strip() for line in content.decode().replace("`", "").strip().split("\n")]
+    content_lines = [line.strip() for line in content.decode().replace("`", "").strip().split("\n") if line.strip()]
     for i in range(len(content_lines) - 1):
         if content_lines[i].lower().startswith("name:") and content_lines[i + 1].lower().startswith("link:"):
             if not os.path.isfile(f"_data/signed/{author}.yaml"):
