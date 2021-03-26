@@ -29,43 +29,28 @@ FSFは自律的財団だからこそ、公平的そして偏りのない方法�
 ストールマンさんに対する反対論を客観的に考慮するよう、そして彼の言動
 を心から理解するよう強く求めたいと思います。
 
-Historically, RMS has been expressing his views in ways 
-that upset many people. He is usually more focused on the 
-philosophical underpinnings, and pursuing the objective 
-truth and linguistic purism, while underemphasising people's 
-feelings on matters he's commenting on. This makes his arguments 
-vulnerable to misunderstanding and misrepresentation, something 
-which we feel is happening in the open letter calling for his removal. 
-His words need to be interpreted in this context and 
-taking into account that more often than not, 
-he is not looking to put things diplomatically.
+過去に、ストールマンさんの自己表現方法はよく他人の感情をかき乱してしまいました。
+彼が哲学的な基礎に集中してるので、語学上の詳細や客観的真理を人の気持ちより
+最優先させていました。つまり、今の場合の辞任要求と同じように、彼の論法はよく誤解され、
+誤り伝えられてしまいます。彼の遠慮のない言い方も忘れなく、言葉の状況をよく考えなければなりません。
 
-Regardless, Stallman's opinions on the matters 
-he is being persecuted over are not relevant to 
-his ability to lead a community such as the FSF. 
-Furthermore, he is entitled to his opinions just 
-as much as anyone else. Members and supporters do not 
-have to agree with his opinions, but should respect 
-his right to freedom of thought and speech.
+それにも関わらず、今批判されるストールマンさんの意見はFSFのような
+コミュニティーを主導する彼の資格と関係がありません。彼は自分の意見を
+述べる権利があります。 FSFのメンバーはそういう意見と合わなくても、彼の
+言論の自由を尊重すべきです。
 
-**To the FSF:**
+**FSFへ:**
 
-Removing RMS will hurt FSF's image and will deal 
-a significant blow to the momentum of the free software movement.
-We urge you to consider your actions carefully,
-as what you will decide will have a serious impact
-on the future of the software industry.
+RMSを取締役会から外すとFSFのイメージを下げてしまうし、フリーソフトウェア運動の
+勢いをなくさせてしまいます。行動をじっくり考えるよう求めたいと思います。この決定
+はソフトウェア産業の将来に重大な影響をもたらします。
 
 
-**To the ambush mob who is ganging up on Richard Stallman over 
-reasonable arguments in debate and various opinions and beliefs
-voiced over decades as a public figure:**
+**公人として何十年にもわたって議論で妥当な主張を通して、そして意見を述べていた
+リチャード・ストールマンを集団で攻撃している暴徒へ:**
     
-You have no part in choosing the leadership of any communities. 
-Especially not via another mob attack which does not remotely 
-resemble a fairly conducted debate as exemplified 
-by better people such as Richard Stallman.
+あなたたちはこのコミュニティーの指導者を選択することに関与していません。特に、
+公正な意思決定プロセスとは似ても似つかない集団的リンチみたいな方法で選択する権利はありません。
 
-To sign, please [submit a pull
-request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls),
-or send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) or [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+署名するのに, [Pull Requestを提出](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls)して下さい、
+それとも署名されたパッチを[signrms@prog.cf](mailto:signrms@prog.cf)または[~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht)まで送って下さい。
