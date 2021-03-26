@@ -1,6 +1,5 @@
 ---
 layout: signed
-
 title: Surat Dukungan Terbuka untuk Richard M. Stallman
 description: Surat Dukungan Terbuka untuk kembalinya Richard Matthew Stallman di Yayasan Perangkat Lunak Bebas
 image: /assets/social-media-preview.png
