@@ -69,4 +69,4 @@ by better people such as Richard Stallman.
 
 To sign, please [submit a pull
 request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls),
-or [send a signed patch](mailto:~tyil/rms-support@lists.sr.ht).
+or send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) or [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
