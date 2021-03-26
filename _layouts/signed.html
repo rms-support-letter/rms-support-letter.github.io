@@ -20,6 +20,7 @@ layout: home
   <a class="translation" href='/index_ru.html'>🇷🇺</a>
   <a class="translation" href='/index_fa.html'>🇮🇷</a>
   <a class="translation" href='/index_ua.html'>🇺🇦</a>
+  <a class="translation" href="/index_rs.html">🇷🇸</a>
 </div>
 
 {{ content }}
@@ -40,8 +41,8 @@ layout: home
   {% assign sorted_signs = signs | split: '|' | sort %}
   {% for signature in sorted_signs %}
     {% assign sign_items = signature | split: '#' %}
-    {% if sign_items[0] and sign_items[1] %} 
+    {% if sign_items[0] and sign_items[1] %}
     <li><a href="{{ sign_items[1] | strip }}">{{ sign_items[0] | strip }}</a></li>
-    {% endif %} 
+    {% endif %}
   {% endfor %}
 </ol>
