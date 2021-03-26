@@ -28,7 +28,6 @@ Als het kan, overweeg dan om deze brief op forums en sociale media te delen en j
 
 **Pull requests worden binnen 12 uur gemerged - vanwege een enorm aantal PR's worden ze in batches gemerged**
 
-Alternatively, fork and clone the repo, create the file `_data/signed/<username>.yaml` manually, then commit and submit a PR.
 U kunt ook de repo splitsen en klonen, het bestand `_data/ondertekend/<gebruikersnaam>.yaml` handmatig aanmaken, vervolgens committen en een PR indienen.
 
 Als je de brief wilt ondersteunen zonder Github te gebruiken, ga dan hier naartoe: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1
