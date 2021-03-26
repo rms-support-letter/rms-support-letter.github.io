@@ -1,5 +1,12 @@
 ---
 layout: signed
+
+title: Открытое письмо в поддержку Ричарда Столлмана
+description: Открытое письмо в поддержку восстановления Ричарда Мэттью Столлмана в Фонде свободного программного обеспечения
+image: /assets/social-media-preview.png
+locale: ru_RU
+twitter:
+  card: summary_large_image
 ---
 
 2021-03-23
