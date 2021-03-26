@@ -1,0 +1,14 @@
+{
+    "name": "rms-support-letter.github.io",
+    "version": "0.0.1",
+    "main": "index.js",
+    "repository": "https://github.com/rms-support-letter/rms-support-letter.github.io",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.5",
+        "typescript": "^4.2.3"
+    },
+    "scripts": {
+        "build": "NODE_ENV=production parcel build _js/index.ts -d assets/js",
+        "watch": "parcel watch _js/index.ts -d assets/js"
+    }
+}

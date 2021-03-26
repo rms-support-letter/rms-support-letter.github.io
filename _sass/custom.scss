@@ -1,7 +1,23 @@
 .translations {
-  text-align: end;
+    text-align: end;
+
+    ul {
+        li {
+            display: none;
+            &.active {
+                display: block;
+                pointer-events: none;
+            }
+        }
+        &:focus,
+        &:focus-within {
+            li {
+                display: block;
+            }
+        }
+    }
 }
 
 .translation {
-  font-size: 2em;
+    font-size: 2em;
 }
