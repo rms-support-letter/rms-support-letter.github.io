@@ -1,6 +1,5 @@
 ---
 layout: signed
-
 title: Een open brief ter steun van Richard M. Stallman
 description: |
     Een open brief ter steun van Richard Matthew Stallman's terugkomst in de
@@ -9,7 +8,6 @@ image: /assets/social-media-preview.png
 locale: nl_NL
 twitter:
   card: summary_large_image
-emoji: 🇳🇱
 ---
 
 2021-03-23
