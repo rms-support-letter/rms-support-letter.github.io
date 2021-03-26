@@ -1,5 +1,4 @@
 # An open letter in support of RMS.
- [![Add this badge to your repo!](assets/badge-64-w-border.png)](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)
 
 To sign, **click [here](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** and name the file `<username>.yaml` (replace `<username>` with your name) with the following content:
 
@@ -30,7 +29,8 @@ If you can, please consider sharing this letter on your forums and social media 
 
 Alternatively, fork and clone the repo, create the file `_data/signed/<username>.yaml` manually, then commit and submit a PR.
 
-If you want to support the letter without using Github, go here: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1
+If you want to support the letter without using Github, go here: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, 
+or send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) or [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
 ## Chatrooms
 

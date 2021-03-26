@@ -4,6 +4,11 @@ translations:
     flag: 🇺🇸
     locale: en_US
 
+  - url: /index_vi.html
+    name: tiếng việt (㗂越)
+    flag: 🇻🇳
+    locale: vi_VN
+
   - url: /index_zh_cn.html
     name: 中文
     flag: 🇨🇳
