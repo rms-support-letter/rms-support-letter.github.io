@@ -1,7 +1,7 @@
 ---
 layout: signed_rtl
 title: نامه‌ای سرگشاده در حمایت از ریچارد استالمن
-description: نامه‌ای سرگشاده در خمیت از انتصاب دوبارهٔ ریچارد متیو استالمن در بنیاد نرم‌افزار آزاد
+description: نامه‌ای سرگشاده در حمایت از انتصاب دوبارهٔ ریچارد متیو استالمن در بنیاد نرم‌افزار آزاد
 image: /assets/social-media-preview.png
 locale: fa_IR
 twitter:
@@ -28,4 +28,4 @@ twitter:
 
 شما جایگاهی در تعیین رهبری هیچ جامعه‌ای ندارید. به ویژه نه از طریق غوغاسالاری دیگری که هیچ نسبت دوری با یک مباحثهٔ منصفانه که شیوهٔ افرادی با اصل و نصب نظیر استالمن است، ندارد.
 
-برای امضا، لطفاً [یک درخواست ادغام (PR) بفرستید](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+برای امضا، لطفاً [یک درخواست ادغام بفرستید](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
