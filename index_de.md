@@ -32,11 +32,11 @@ verstehen.
 
 In der Vergangenheit hat RMS seine Ansichten in einer Weise zum
 Ausdruck gebracht, die viele verärgert hat. Er konzentriert
-sich in der Regel eher auf philosophische Hintergründe strebt nach objektiver
+sich in der Regel eher auf philosophische Hintergründe und strebt nach objektiver
 Wahrheit und sprachlicher Reinheit. Dabei räumt er
 den Gefühlen der Menschen in seinen Kommentaren oft wenig Raum ein.
 Das macht seine Argumente für Missverständnisse und Falschdarstellungen
-anfällig, wie sie unserer Meinung nach aus der offene Brief, in dem seine
+anfällig, wie sie unserer Meinung nach der offene Brief, in dem seine
 Absetzung gefordert wird, klar enthält. Seine Worte müssen in diesem 
 Zusammenhang interpretiert werden und dabei berücksichtigt werden, dass 
 er meist nicht versucht, die Dinge diplomatisch zu formulieren. 
