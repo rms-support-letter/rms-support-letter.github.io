@@ -1,0 +1,14 @@
+name: Check signatures format
+on:
+  pull_request:
+    branches:
+      - master
+    paths:
+      - _data/signed/*
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Check signatures format
+        run: python3 check-signatures-format.py
