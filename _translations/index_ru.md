@@ -7,6 +7,7 @@ image: /assets/social-media-preview.png
 locale: ru_RU
 twitter:
   card: summary_large_image
+emoji: 🇷🇺
 ---
 
 2021-03-23
