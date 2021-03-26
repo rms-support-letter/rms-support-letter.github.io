@@ -26,4 +26,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - migrate.py
+  - CONTRIBUTING.md
   - README*.md
