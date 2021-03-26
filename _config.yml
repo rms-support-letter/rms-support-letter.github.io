@@ -8,6 +8,9 @@ repository: rms-support-letter/rms-support-letter.github.io
 # Build settings
 theme: minima
 
+plugins:
+  - jemoji
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
