@@ -3,7 +3,7 @@
 서명하시려면, **[이곳](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)을 클릭하시고** `<username>.yaml` (`<username>`을 귀하의 이름으로 변경하십시오) 이라는 파일을 만드시로 다음과 같은 내용을 작성해주십시오.
 
 ```yaml
-name: <your name here>
+name: <your name here (optional organization or company)>
 link: <link to your profile or site>
 ```
 
@@ -11,7 +11,7 @@ link: <link to your profile or site>
 
 예시:
 ```yaml
-name: Example name
+name: Example name (Good company)
 link: https://example.com/
 ```
 
