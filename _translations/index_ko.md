@@ -7,6 +7,7 @@ image: /assets/social-media-preview.png
 locale: ko_KR
 twitter:
   card: summary_large_image
+emoji: 🇰🇷
 ---
 
 2021-03-23
