@@ -5,9 +5,22 @@
 
 .translations {
 	text-align: end;
+	margin: 0 0 1em 0;
+}
+
+@media screen and (min-width: 800px) {
+	.translations {
+		width: 50%;
+		margin: 0 0 1em auto;
+	}
+}
+
+.translations p {
+	margin: 0 0 0.5em 0;
 }
 
 .translation {
+	line-height: 0.8em;
 	font-family: "Noto Color Emoji", sans-serif;
 	font-size: 2em;
 }
