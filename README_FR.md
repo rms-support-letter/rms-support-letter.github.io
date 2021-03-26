@@ -15,7 +15,7 @@ name: Jean Dupont
 link: https://example.com/
 ```
 
-N'utilisez pas de `<>` dans le fichier, et utilisez uniquement des caractères ASCII pour le nom du fichier.  
+N'utilisez pas de `<>` dans le fichier, et utilisez uniquement des caractères ASCII pour le nom du fichier.
 Utilisez de préférence votre vrai nom. N'hésitez pas à ajouter les projets et/ou organisations auquels vous êtes affiliés entre parenthèses.
 
 Lorsque vous avez terminé, **cliquez sur "Propose new file"** (Proposer un nouveau fichier) et poursuivez la procédure afin de créer une demande de fusion (Merge request).
