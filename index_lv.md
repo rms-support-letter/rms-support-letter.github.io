@@ -1,3 +1,16 @@
+---
+layout: signed
+
+title: Atvērtā vēstule Richard M. Stallman atbalstam
+description: Atvērta vēstule atbalstam Richard Matthew Stallman the Free Software Foundation atjaunošanai
+image: /assets/social-media-preview.png
+locale: lv_LV
+twitter:
+  card: summary_large_image
+---
+
+2021-03-23
+
 Richard M. Stallman, bieži pazīstams kā RMS,
 ir bijis brīvās programmatūras virzītājspēks
 kustību gadu desmitiem, ieskaitot ieguldījumus
@@ -48,5 +61,9 @@ pauž desmitiem gadus kā sabiedrisks darbinieks: **
 
 Jums nav nekāda sakara izvēlēties sabiedrības vadību.
 It īpaši ar kolektīvo iebiedēšanu, kas pat 
-neatgādina godīgas debates, kurus ved intelliģēntākie 
+neatgādina godīgas debates, kurus ved intelliģentākie 
 cilvēki, piemēram kā Ričards Stallmans. 
+
+Lai paraksīt, lūdzu [sūtiet Pull
+request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls),
+vai sūtiet parakstīto patch uz [signrms@prog.cf](mailto:signrms@prog.cf) vai [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
