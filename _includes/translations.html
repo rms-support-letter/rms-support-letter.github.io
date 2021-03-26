@@ -1,0 +1,7 @@
+<div class="translations">
+  <p>Translations:</p>
+  <a class="translation" href='/'>🇺🇸</a>
+  {% for translation in site.translations %}
+  <a class="translation" href="{{ translation.url }}">{{ translation.icon }}</a>
+  {% endfor %}
+</div>
