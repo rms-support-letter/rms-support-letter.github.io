@@ -12,7 +12,7 @@ for file_name in sorted(os.listdir("_data/signed")):
     with open(f"_data/signed/{file_name}") as f:
         contents = f.read()
     if not re.fullmatch(regex, contents):
-        print(file_name, "has invalid format. Please check the format example on README")
+        print(file_name, "has invalid format. Please reformat as: \n name: <your name here> (optional organization or company name) \nlink: <link to your profile or site>")
         ok = False
 
 if not ok:
