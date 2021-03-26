@@ -3,5 +3,7 @@
   <a class="translation" href='/'>🇺🇸</a>
   {% for translation in site.translations %}
   <a class="translation" href="{{ translation.url }}">{{ translation.emoji }}</a>
-  {% endfor %}
+  {% if forloop.index == 10 %}
+  <br>
+  {% endif %}{% endfor %}
 </div>
