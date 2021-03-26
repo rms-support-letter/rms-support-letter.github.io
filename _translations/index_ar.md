@@ -1,6 +1,5 @@
 ---
 layout: signed
-
 title: رسالة مفتوحة في دعم ريتشارد م. ستالمان
 description: رسالة مفتوحة في دعم ريتشارد م. ستالمان واعادته الى مؤسسة البرمجيات الحرة
 image: /assets/social-media-preview.png
