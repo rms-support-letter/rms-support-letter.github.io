@@ -2,6 +2,9 @@
     text-align: end;
 
     ul {
+        width: 300px;
+        text-align: start;
+
         li {
             display: none;
             &.active {
@@ -19,5 +22,5 @@
 }
 
 .translation {
-    font-size: 2em;
+    font-size: 1.2em;
 }

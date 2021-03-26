@@ -1,0 +1,80 @@
+translations:
+  - url: /
+    name: English
+    flag: 🇺🇸
+    locale: xx
+
+  - url: /index_zh_cn.html
+    name: 中文
+    flag: 🇨🇳
+    locale: xx
+
+  - url: /index_tr.html
+    name: Türkçe
+    flag: 🇹🇷
+    locale: xx
+
+  - url: /index_ro.html
+    name: Română
+    flag: 🇷🇴
+    locale: xx
+
+  - url: /index_es.html
+    name: Español
+    flag: 🇪🇸
+    locale: xx
+
+  - url: /index_pt_br.html
+    name: Português
+    flag: 🇧🇷
+    locale: xx
+
+  - url: /index_de.html
+    name: Deutsch
+    flag: 🇩🇪
+    locale: de_DE
+
+  - url: /index_fr.html
+    name: Français
+    flag: 🇫🇷
+    locale: xx
+
+  - url: /index_pl.html
+    name: Polski
+    flag: 🇵🇱
+    locale: xx
+
+  - url: /index_it.html
+    name: Italiano
+    flag: 🇮🇹
+    locale: xx
+
+  - url: /index_ko.html
+    name: 日本語
+    flag: 🇰🇷
+    locale: xx
+
+  - url: /index_ru.html
+    name: Русский
+    flag: 🇷🇺
+    locale: xx
+
+  - url: /index_fa.html
+    name: فارسی
+    flag: 🇮🇷
+    locale: xx
+
+  - url: /index_ua.html
+    name: Українська
+    flag: 🇺🇦
+    locale: xx
+
+  - url: /index_id.html
+    name: Bahasa Indonesia
+    flag: 🇮🇩
+    locale: xx
+
+  - url: "/index_rs.html"
+    name: Српски / srpski
+    flag: 🇷🇸
+    locale: xx

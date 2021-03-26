@@ -1,6 +1,13 @@
-<div class="translations">
+<ul>
+    {% for trans in site.data.translations.translations %}
+    <li>{{ trans.name }}</li>
+    {% endfor %}
+</ul>
+
+<!-- <div class="translations">
     Translations:</p>
     <ul class="dropdown" tabindex="1">
+      <li class="active"><span class="translation">Select language</span></li>
       <li><a class="translation" href='/'><span class="lang-name">English</span>🇺🇸</a></li>
       <li><a class="translation" href='/index_zh_cn.html'><span class="lang-name">中文</span>🇨🇳</a></li>
       <li><a class="translation" href='/index_tr.html'><span class="lang-name">Türkçe</span>🇹🇷</a></li>
@@ -19,4 +26,4 @@
       <li><a class="translation" href="/index_rs.html"><span class="lang-name">Српски / srpski</span>🇷🇸</a></li>
     </ul>
   </div>
-  
+   -->
