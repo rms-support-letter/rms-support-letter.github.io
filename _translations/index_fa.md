@@ -6,6 +6,7 @@ image: /assets/social-media-preview.png
 locale: fa_IR
 twitter:
   card: summary_large_image
+emoji: 🇮🇷
 ---
 
 ۱۴۰۰/۱/۳

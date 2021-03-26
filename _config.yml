@@ -5,6 +5,12 @@ url: "https://rms-support-letter.github.io"
 github_username: rms-support-letter
 repository: rms-support-letter/rms-support-letter.github.io
 
+collections:
+  translations:
+    output: true
+    permalink: /:name:output_ext
+
+
 # Build settings
 theme: minima
 
@@ -20,4 +26,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - migrate.py
+  - CONTRIBUTING.md
   - README*.md
