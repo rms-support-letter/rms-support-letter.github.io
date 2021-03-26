@@ -1,27 +1,47 @@
 .translations {
-    text-align: end;
+    height: 2.5em;
+    position: relative;
+    z-index: 1;
 
     ul {
-        outline: none;
-        width: 300px;
+        width: 180px;
+        margin-left: 0;
+        padding: 0.3em 0.6em;
+
         text-align: start;
 
+        cursor: pointer;
+        outline: none;
+        background-color: #ddd;
+
         li {
+            a {
+                color: rgb(0, 0, 0);
+            }
+            list-style-type: none;
             display: none;
             &.active {
                 display: block;
                 pointer-events: none;
+                &::after {
+                    content: '▼';
+                    float: right;
+                    color: #aaa;
+                }
             }
         }
+
+        // Open state
         &:focus,
         &:focus-within {
             li {
                 display: block;
+
+                &.active::after {
+                    content: none;
+                }
             }
+            box-shadow: 2px 2px 4px #ececec;
         }
     }
-}
-
-.translation {
-    font-size: 1.2em;
 }
