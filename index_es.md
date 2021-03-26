@@ -1,15 +1,27 @@
+---
+layout: signed
+title: An open letter in support of Richard M. Stallman
+description: An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
+image: /assets/social-media-preview.png
+locale: es_ES
+twitter:
+  card: summary_large_image
+---
+
+2021-03-23
+
 Richard M. Stallman, también conocido como RMS, 
 ha sido una fuerza motriz en el movimiento del 
 software libre por décadas, con contribuciones 
 que incluyen el sistema operativo GNU y Emacs.
 
-Recientemente han habido viles ataques online 
+Recientemente ha habido viles ataques online
 con el fin de eliminarlo de la junta directiva de la 
 FSF por expresar sus opiniones personales. Hemos 
 visto esto pasar con anterioridad de manera organizada 
 en contra de otros programadores y activistas del 
 software libre. No nos vamos a quedar callados 
-esta vez, cuando un icono de esta coumunidad 
+esta vez, cuando un icono de esta comunidad 
 es atacado.
 
 La FSF es un organismo autónomo capaz de tratar 
