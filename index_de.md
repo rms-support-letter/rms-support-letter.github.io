@@ -16,7 +16,7 @@ mit Beiträgen wie dem GNU Betriebssystem und Emacs.
 
 In letzter Zeit gab es bösartige Online-Angriffe, die darauf abzielten, 
 ihn aus dem Vorstand der FSF zu entfernen,
-weil er seine persönlichen Meinungen geäussert hat. Wir
+weil er seine persönlichen Meinungen geäußert hat. Wir
 mussten schon öfter dabei zuschauen, wie dies anderen Aktivisten
 der Freien Software-Bewegung passiert ist. Wir wollen nicht weiter
 tatenlos dabei zusehen, wie ein Symbol dieser Gemeinschaft angegriffen
@@ -59,7 +59,7 @@ wird ernste Auswirkungen auf die Zukunft der Software-Industrie haben.
 **An die Meute, die sich gegen Richard Stallman zusammengetan hat, um
 ihn aufgrund vernünftiger Argumente in einem Streitgespräch und wegen 
 verschiedener Meinungen und Überzeugungen, die er über Jahrzehnte als 
-öffentliche Figur geäussert hat, zu diskreditieren:**
+öffentliche Figur geäußert hat, zu diskreditieren:**
 
 Ihr habt kein Mitspracherecht bei der Wahl der Leitung dieser Gemeinschaft. 
 Vor allem nicht durch einen weiteren Mob-Angriff, welcher nicht im Ansatz 
