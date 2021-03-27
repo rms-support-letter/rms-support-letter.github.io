@@ -2,7 +2,7 @@
 layout: signed
 title: Isang bukas na liham para suportahan si Richard M. Stallman
 description: Isang bukas na liham para suportahan si Richard Matthew Stallman sa kanyang muling pagbabalik sa Pundasyon para sa Malayang Software
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_tl_PH.png
 locale: tl_PH
 twitter:
   card: summary_large_image
