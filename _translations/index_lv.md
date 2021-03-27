@@ -1,8 +1,8 @@
 ---
 layout: signed
 
-title: Atvērtā vēstule Richard M. Stallman atbalstam
-description: Atvērta vēstule atbalstam Richard Matthew Stallman the Free Software Foundation atjaunošanai
+title: Atklāta vēstule Ričarda Stalmana atbalstam
+description: Atklāta vēstule paužot atbalstu Ričarda Metjū Stalmana atjaunošanai Brīvās Programmatūras Fonda direktoru padomes satāvā
 image: /assets/social-media-preview.png
 locale: lv_LV
 twitter:
@@ -11,7 +11,7 @@ twitter:
 
 2021-03-23
 
-Richard M. Stallman, bieži pazīstams kā RMS,
+Ričards Stalmans (Richard M. Stallman), bieži pazīstams arī kā RMS,
 ir bijis brīvās programmatūras virzītājspēks
 kustību gadu desmitiem, ieskaitot ieguldījumus
 GNU operētājsistēma un Emacs.
@@ -52,18 +52,18 @@ RMS noņemšana kaitēs FSF tēlam un izveidos
 būtisku triecienu brīvās programmatūras kustībai.
 Mēs aicinām jūs rūpīgi apsvērt savu rīcību,
 jo tas, ko jūs izlemsiet, nopietni ietekmēs
-par programmatūras nozares nākotni.
+programmatūras nozares nākotni.
 
 
-** Negribētājiem, kuri bandās pār Ričardu Stallmanu
-saprātīgu argumentu debatēs un citu viedokļu dēļ, kurus viņš 
-pauž desmitiem gadus kā sabiedrisks darbinieks: **
+** Ļaunprāšu pūlim, kuri uzbrūk Ričardam Stalmanam
+par gadu desmitiem paustiem saprātīgiem argumentiem un 
+citādākiem viedokļiem, ko tas paudis kā sabiedrisks darbinieks: **
 
-Jums nav nekāda sakara izvēlēties sabiedrības vadību.
-It īpaši ar kolektīvo iebiedēšanu, kas pat 
-neatgādina godīgas debates, kurus ved intelliģentākie 
-cilvēki, piemēram kā Ričards Stallmans. 
+Jums nav nekādu tiesību izvēlēties jebkādu kopienu vadību. Īpaši ar
+kolektīvu iebiedēšanu, kas pat attālināti nav salīdzināma ar godīgu
+diskusiju, ar ko nodarbojas labāki cilvēki par jums, piemēram, Ričards
+Stalmans. 
 
-Lai paraksīt, lūdzu [sūtiet Pull
+Lai paraksītu, lūdzu [sūtiet Pull
 request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls),
 vai sūtiet parakstīto patch uz [signrms@prog.cf](mailto:signrms@prog.cf) vai [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).

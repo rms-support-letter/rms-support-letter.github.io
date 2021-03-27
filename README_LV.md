@@ -1,11 +1,11 @@
-# Atvērtā vēstule RMS atbalstam.
+# Atklāta vēstule Ričarda Stalmana atbalstam.
 [![Add this badge to your repo!](assets/badge-64-w-border.png)](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)
 
-Lai parakstītu, **uzspiediet [šeit](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** un uzsauciet failu `<username>.yaml` (nomainiet `<username>` ar Jūsu vārdu) ar sekojošu saturu:
+Lai parakstītu, **spiediet [šeit](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** un nosauciet failu `<username>.yaml` (nomainiet `<username>` ar Jūsu vārdu) ar sekojošu saturu:
 
 ```yaml
 name: <ievādiet Jūsu vārdu šeit>
-link: <link uz Jūsu profilu vai vietni>
+link: <saite uz Jūsu profilu vai vietni>
 ```
 
 Bez `<>` simboliem.
@@ -16,11 +16,11 @@ name: Jānis Bērziņš
 link: https://github.com/example_username
 ```
 
-Lūdzu nelietojiet `<>` šajā failā, tapat kā non-ascii simbolus faila nosaukuma.
-Jas Jūs lietosiet e-pastu kā linku, izveidojiet prefiksu ar `mailto:`.
+Lūdzu nelietojiet `<>` šajā failā, tapat kā non-ascii simbolus faila nosaukumā.
+Ja Jūs lietosiet e-pastu kā saiti, izmantojiet ar `mailto:` prefiksu.
 Ja varat, lūdzu pielietojiet Jūsu īsto vārdu un pievienojiet projektus un saistītas organizācijas iekavās.
 
-Tālāk **uzspiediet uz "Propose new file"** un ejiet cauri, lai izveidotu Merge request.
+Tālāk **spiediet uz "Propose new file"** un ejiet cauri, lai izveidotu Merge request.
 
 Turēsim toni stingru, bet profesionālu.
 
