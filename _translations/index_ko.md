@@ -60,3 +60,7 @@ RMS를 퇴출하는 것은 FSF의 이미지에 상처를 낼 것이며, 자유 �
 한다면 더더욱 그 자격은 없다 할 것이다.
 
 서명을 하시려면 [풀 리퀘스트를 보내 주세요](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Github를 사용하지 않고 사인하시려면:
+- 서명된 패치를 [signrms@prog.cf](mailto:signrms@prog.cf) 혹은
+- [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) 으로 보내주시거나,
+- [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1) 에 서명을 추가해주세요.

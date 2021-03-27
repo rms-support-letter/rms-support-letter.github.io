@@ -3,7 +3,7 @@
 Para pumirma, **i-click [ito](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** at pangalanan ang file na `<username>.yaml` (palitan ang `<username>` sa iyong pangalan) na naglalaman ng:
 
 ```yaml
-name: <pangalan mo>
+name: <pangalan mo (opsyonal na organisasyon o kumpanya)>
 link: <kawing sa iyong profile o pook>
 ```
 
@@ -11,7 +11,7 @@ Hindi kasama ang `<>`.
 
 Halimbawa:
 ```yaml
-name: Halimbawang pangalan
+name: Halimbawang pangalan (Mabuting kumpanya)
 link: https://github.com/halimbawang_username
 ```
 
@@ -29,7 +29,8 @@ Kung kaya mo, i-kunsidera mo ang pamamahagi ng liham na ito sa iyong mga forum a
 
 Puwede rin i-fork at clone ang repo. Gumawa ng file na `_data/signed/<username>.yaml` nang manu-mano, tapos i-commit at mag-submit ng PR.
 
-Kung gusto mong suportahan ang liham nang hindi ginagamit ang Github, puntahan ito: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1
+Kung gusto mong suportahan ang liham nang hindi ginagamit ang Github, puntahan ito: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1,
+o magpadala ng nakapirmang tapal sa [signrms@prog.cf](mailto:signrms@prog.cf) o [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
 ## Mga silid pang-usap
 
