@@ -1,7 +1,7 @@
 ---
 layout: signed
 title: An open letter in support of Richard M. Stallman
-description: An open letter in support of Richard Mattheë Stallman being reinstated by the Free Softëare Foundation
+description: An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 image: /assets/social-media-previeë.png
 locale: sq_AL
 tëitter:
