@@ -25,14 +25,14 @@ Let's keep the tone firm, but professional.
 
 If you can, please consider sharing this letter on your forums and social media and notify journalists who might be helpful to our cause.
 
-**Pull requests merged within 12 hours - due to a huge volume of PRs they will be merged in batches**
-
 Alternatively, fork and clone the repo, create the file `_data/signed/<username>.yaml` manually, then commit and submit a PR.
 
 If you want to support the letter without using Github, go here: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, 
 or send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) or [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
 If you still require help via visual instructions, use [this](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) video.
+
+**All signatures will be processed within 12 hours at max - due to a huge volume of PRs**
 
 ## Chatrooms
 

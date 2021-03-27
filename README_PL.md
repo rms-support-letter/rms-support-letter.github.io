@@ -1,4 +1,4 @@
-﻿﻿# Otwarty list popierający RMS.
+﻿# Otwarty list popierający RMS.
 [![Dodaj tę odznakę do swojego repozytorium!](assets/badge-64-w-border.png)](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)
 
 Aby podpisać **kliknij [tutaj](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** i nazwij plik `<nazwa użytkownika>.yaml` (zamień `<nazwa użytkownika>` na swoją nazwę), do pliku dodaj poniższą zawartość:

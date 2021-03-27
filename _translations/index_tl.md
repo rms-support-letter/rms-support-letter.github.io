@@ -2,7 +2,7 @@
 layout: signed
 title: Isang bukas na liham para suportahan si Richard M. Stallman
 description: Isang bukas na liham para suportahan si Richard Matthew Stallman sa kanyang muling pagbabalik sa Pundasyon para sa Malayang Software
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_tl_PH.png
 locale: tl_PH
 twitter:
   card: summary_large_image
@@ -67,3 +67,7 @@ makakahawig sa isang makatarungan at maayos na pagtatalo na ginawang halimbawa
 ng mga mabubuting tao tulad ni Richard Stallman.
 
 Para pumirma, [mag-submit ng isang pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Para pumirma nang hindi ginagamit ang Github, puwede ka:
+- Magpadala ng nakapirmang tapal sa [signrms@prog.cf](mailto:signrms@prog.cf) 
+- O sa [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+- O maglagay ng pirma rito: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
