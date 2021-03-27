@@ -11,7 +11,7 @@ twitter:
 2021-03-23
 
 Richard M. Stallman, häufig bekannt unter dem Kürzel RMS, war seit
-Jahrzehnten eine treibende Kraft in der Freien Software-Bewegung,
+Jahrzehnten eine treibende Kraft in der Freien Software-Bewegung
 mit Beiträgen wie dem GNU Betriebssystem und Emacs.
 
 In letzter Zeit gab es bösartige Online-Angriffe, die darauf abzielten, 
@@ -26,7 +26,7 @@ Die FSF ist eine autonome Organisation, die in der Lage ist,
 ihre Mitglieder fair und unvoreingenommen zu behandeln und sozialem
 Druck von außen nicht nachgeben sollte. Wir fordern die FSF dringend auf,
 die Argumente gegen RMS objektiv zu betrachten und die eigentliche
-Bedeutung seiner Worte und Taten — im Lichte der persönlicher Freiheit,
+Bedeutung seiner Worte und Taten — im Lichte der persönlichen Freiheit,
 die ja den Hauptwert der Freien Software Bewegung darstellt — zu
 verstehen.
 
@@ -41,17 +41,17 @@ Absetzung gefordert wird, klar enthält. Seine Worte müssen in diesem
 Zusammenhang interpretiert werden und dabei berücksichtigt werden, dass 
 er meist nicht versucht, die Dinge diplomatisch zu formulieren. 
 
-Unabhängig davon, sind die Ansichten Stallmans, für die er
+Unabhängig davon sind die Ansichten Stallmans, für die er
 angeprangert wird, nicht relevant hinsichtlich seiner Fähigkeit, eine
 Gemeinschaft wie die FSF anzuführen. Darüber hinaus hat er denselben
-Anspruch auf eine eigene Meinung, wie jeder andere auch. Mitglieder und
+Anspruch auf eine eigene Meinung wie jeder andere auch. Mitglieder und
 Unterstützer müssen nicht zwingend mit allen seinen Ansichten
 einverstanden sein, aber sie sollten sein Recht auf Gedanken- und
 Meinungsfreiheit respektieren.
 
 **An die FSF:**
 
-RMS zu entfernen schadet dem Ansehen der FSF und wäre ein erheblicher
+RMS zu entfernen, wird dem Ansehen der FSF schaden und wäre ein erheblicher
 Schlag gegen die Treibkraft der Freien Software-Bewegung.
 Wir bitten euch, euer Handeln sorgfältig zu bedenken — denn eure Entscheidung
 wird ernste Auswirkungen auf die Zukunft der Software-Industrie haben.
