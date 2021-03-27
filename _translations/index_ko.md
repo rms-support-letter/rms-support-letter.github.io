@@ -2,7 +2,7 @@
 layout: signed
 title: Richard M. Stallman을 지지하는 공개 서한
 description: 자유 소프트웨어 재단에 복직하는 Richard Matthew Stallman 을 지지하는 공개 서한
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_ko_KR.png
 locale: ko_KR
 twitter:
   card: summary_large_image
