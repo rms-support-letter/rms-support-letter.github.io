@@ -1,10 +1,10 @@
 ---
 layout: signed
-title: An open letter in support of Richard M. Stallman
-description: An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
+title: Letër e hapur në mbështetje të Richard M. Stallman
+description: Letër e hapur në mbështetje të Richard Mathew Stallman që ai të rivendoset nga Free Software Foundation
 image: /assets/social-media-preview_sq_AL.png
 locale: sq_AL
-tëitter:
+twitter:
   card: summary_large_image
 ---
 
