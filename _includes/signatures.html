@@ -15,7 +15,7 @@
     <field>{{ signature.link | strip | escape }}<field>
   {%- endfor -%}
 {%- endcapture -%}
-{%- assign sorted_signs = signs | split: '<array>' | sort -%}
+{%- assign sorted_signs = signs | split: '<array>' | sort_natural -%}
 {%- for signature in sorted_signs -%}
   {%- assign sign_items = signature | split: '<field>' -%}
   {%- if sign_items[2] and sign_items[4] -%}
