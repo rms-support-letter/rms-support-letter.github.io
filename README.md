@@ -29,7 +29,7 @@ If you can, please consider sharing this letter on your forums and social media 
 
 Alternatively, fork and clone the repo, create the file `_data/signed/<username>.yaml` manually, then commit and submit a PR.
 
-If you still require help via visual instructions, use [this](https://www.youtube.com/watch?v=1lz5S5oS8CU) video.
+If you still require help via visual instructions, use [this](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) video.
 
 If you want to support the letter without using Github, go here: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, 
 or send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) or [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
