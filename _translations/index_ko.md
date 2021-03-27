@@ -1,8 +1,8 @@
 ---
 layout: signed
-title: Richard M. Stallman을 지지하는 공개 서한
-description: 자유 소프트웨어 재단에 복직하는 Richard Matthew Stallman 을 지지하는 공개 서한
-image: /assets/social-media-preview.png
+title: 리처드 M. 스톨먼을 지지하는 공개 서한
+description: 자유 소프트웨어 재단에 복직하는 리처드 매슈 스톨먼을 지지하는 공개 서한
+image: /assets/social-media-preview_ko_KR.png
 locale: ko_KR
 twitter:
   card: summary_large_image
@@ -10,9 +10,9 @@ twitter:
 
 2021-03-23
 
-흔히 RMS라 알려진 Richard M. Stallman은 GNU 운영체제와 Emacs를
-포함하는 공헌을 통해 지난 수 십년 간의 자유 소프트웨어 운동의
-원동력이었습니다.
+흔히 RMS라 알려진 리처드 M. 스톨먼(Richard M. Stallman)은 GNU
+운영체제와 Emacs를 포함하는 공헌을 통해 지난 수 십년 간의 자유
+소프트웨어 운동의 원동력이었습니다.
 
 최근, 그의 개인적인 견해를 빌미로 FSF 이사회에서 퇴출시키기 위해
 일어난 비열한 온라인 공격이 있었습니다.  우리는 전에도 이와 비슷한
@@ -50,17 +50,17 @@ RMS를 퇴출하는 것은 FSF의 이미지에 상처를 낼 것이며, 자유 �
 미래에 큰 영향을 줄 것이기 때문입니다.
 
 
-**Richard Stallman이 토론의 분별 있는 주장이나 지난 수십년간
+**리처드 스톨먼이 토론의 분별 있는 주장이나 지난 수십년간
 공인으로서 밝힌 여러 견해와 믿음을 빌미로 그를 공격하는 숨은
 폭도들에게:**
     
 당신들은 그 어떤 커뮤니티에서도 그 지도자를 고를 자격이 없는
-사람들이다.  특히나 Richard Stallman과 같이 더 나은 사람들이 해온 것과
+사람들이다.  특히나 리처드 스톨먼과 같이 더 나은 사람들이 해온 것과
 같은 잘 수행된 토론의 발 끝에도 미치지 못하는 폭도 행위를 동원하고자
 한다면 더더욱 그 자격은 없다 할 것이다.
 
 서명을 하시려면 [풀 리퀘스트를 보내 주세요](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
-Github를 사용하지 않고 사인하시려면:
+Github를 사용하지 않고 서명하시려면:
 - 서명된 패치를 [signrms@prog.cf](mailto:signrms@prog.cf) 혹은
 - [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) 으로 보내주시거나,
 - [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1) 에 서명을 추가해주세요.
