@@ -2,7 +2,7 @@
 layout: signed
 title: リチャード・ストールマンを支援する公開書簡
 description: リチャード・ストールマンをフリーソフトウェア財団(FSF)によって復帰されることを支援する公開書簡
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_ja_JP.png
 locale: ja_JP
 twitter:
   card: summary_large_image

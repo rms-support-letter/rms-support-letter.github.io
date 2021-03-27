@@ -1,5 +1,5 @@
 ---
-layout: signed_rtl
+layout: signed
 title: نامه‌ای سرگشاده در حمایت از ریچارد استالمن
 description: نامه‌ای سرگشاده در حمایت از انتصاب دوبارهٔ ریچارد متیو استالمن در بنیاد نرم‌افزار آزاد
 image: /assets/social-media-preview.png
@@ -26,6 +26,10 @@ twitter:
 
 **خطاب به اوباش کمین‌کرده‌ای که برای استدلال‌های منطقی استالمن در مناظره‌ها و دیدگاه‌ها و عقاید مختلفی که طی دهه‌ها به عنوان چهره‌ای سرشناس بیان کرده، علیهش دار و دسته جمع کرده‌اید:**
 
-شما جایگاهی در تعیین رهبری هیچ جامعه‌ای ندارید. به ویژه نه از طریق غوغاسالاری دیگری که هیچ نسبت دوری با یک مباحثهٔ منصفانه که شیوهٔ افرادی با اصل و نصب نظیر استالمن است، ندارد.
+شما جایگاهی در تعیین رهبری هیچ جامعه‌ای ندارید. به ویژه نه از طریق غوغاسالاری دیگری که هیچ نسبت دوری با یک مباحثهٔ منصفانه که شیوهٔ افرادی با اصل و نسب نظیر استالمن است، ندارد.
 
-برای امضا، لطفاً [یک درخواست ادغام](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls) فرستاده و یا یک وصله امضا شده به [signrms@prog.cf](mailto:signrms@prog.cf) یا [~tyil/rms-support@lists.sr.ht.](mailto:~tyil/rms-support@lists.sr.ht.) بفرستید.
+برای امضا، لطفاً [یک درخواست ادغام](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls) بفرستید. در صورت تمایل به امضا بدون استفاده از گیت‌هاب می‌توانید از یکی از روش‌های زیر اقدام کنید:
+
+ - یک وصله امضا شده به [signrms@prog.cf](mailto:signrms@prog.cf) بفرستید.
+ - یک وصله امضا شده به [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) بفرستید.
+ - امضای خود را اینجا اضافه کنید: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1
