@@ -55,9 +55,9 @@ twitter:
 Тем более, не посредством очередной коллективной травли, которая даже отдаленно
 не напоминает аргументированный диалог интеллигентных людей, таких как Ричард Столлман.
 
-Чтобы подписать это открытое письмо, [отправьте пул-реквест](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Чтобы подписать это открытое письмо, [создайте пул-реквест](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
 
-Поставить подпись без использования Github можно:
-- Отправить патч с подписью на [signrms@prog.cf](mailto:signrms@prog.cf) 
-- Или [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
-- Или оставить подпись здесь: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
+Поставить подпись, без использования Github можно:
+- Прислав патч с подписью на [signrms@prog.cf](mailto:signrms@prog.cf) 
+- Или на [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+- Или перейдя по ссылке: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
