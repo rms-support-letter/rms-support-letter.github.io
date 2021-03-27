@@ -5,7 +5,7 @@
 To translate the letter, copy `index.md` into `_translation/`
 and name it `index_lang.md` where `lang` is language code you are going to translate into.
 
-Make sure to set `locale` to the appropriate language code. Then you can start translating this file.
+Make sure to set `locale` to the appropriate language code. Set `image` to a translated version of social-media-preview.png, if there's any. Then you can start translating this file.
 
 For example: `_translations/index_de.md`
 
