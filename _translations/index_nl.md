@@ -4,7 +4,7 @@ title: Een open brief ter steun van Richard M. Stallman
 description: |
     Een open brief ter steun van Richard Matthew Stallman's terugkomst in de
     Free Software Foundation
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_nl_NL.png
 locale: nl_NL
 twitter:
   card: summary_large_image
