@@ -6,7 +6,7 @@
     |{{signature.name | escape }}#{{signature.link | escape }}
   {% endfor %}
 {% endcapture %}
-{% assign sorted_signs = signs | split: '|' | sort %}
+{% assign sorted_signs = signs | split: '|' | sort_natural %}
 {% for signature in sorted_signs %}
   {% assign sign_items = signature | split: '#' %}
   {% if sign_items[0] and sign_items[1] %} 
