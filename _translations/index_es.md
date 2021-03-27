@@ -2,7 +2,7 @@
 layout: signed
 title: Una carta abierta en apoyo de Richard M. Stallman
 description: Una carta abierta en apoyo de la reincorporación de Richard Matthew Stallman a la Free Software Foundation
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_es_ES.png
 locale: es_ES
 twitter:
   card: summary_large_image
