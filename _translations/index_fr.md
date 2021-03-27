@@ -2,7 +2,7 @@
 layout: signed
 title: Lettre ouverte en soutiens à Richard M. Stallman
 description: Une lettre ouverte en support de la réintégration de Richard Matthew Stallman par la Free Software Foundation
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_fr_FR.png
 locale: fr_FR
 twitter:
   card: summary_large_image
