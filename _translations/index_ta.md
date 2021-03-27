@@ -1,70 +1,33 @@
 ---
 layout: signed
 title: ரிச்சர்ட் ஸ்டால்மனுக்கு ஆதரவு கடிதம்
-description: ரிச்சர்ட் ஸ்டால்மன் FSF சேர்வ ஆதரவு கடிதம் Free Software Foundation
+description: ரிச்சர்ட் ஸ்டால்மன் FSF சேர்வதற்கு ஆதரவு கடிதம்
 image: /assets/social-media-preview.png
-locale: en_US
+locale: ta_IN
 twitter:
   card: summary_large_image
 ---
 
 2021-03-23
 
-Richard M. Stallman, frequently known as RMS,
-has been a driving force in the free software
-movement for decades, with contributions including
-the GNU operating system and Emacs.
+ரிச்சர்ட் ஸ்டால்மன் என்பவர் சாஃப்ட்வேர் சுதந்திரத்திற்காக பலவருடம் போராடினார். அவர் GNU operating system மற்றும் EMACS சாப்ட்வேரை உருவாக்கினார்.
 
-Recently, there have been vile online attacks 
-looking to remove him from the FSF board of directors 
-for expressing his personal opinions. We have watched 
-this happen before in an organized fashion with other 
-prominent free software activists and programmers. 
-We will not stand idly this time, when an icon 
-of this community is attacked.
+கடந்த சில மாதங்களாக, அவர் தனது கருத்துக்களை பதிவு செய்ததற்காக அவரை நீக்க கோரி இணையதளங்களில் பலரும் போராடிக் கொண்டிருக்கின்றனர். இதேபோல் பல நபர்களை அவர்கள் தாக்கினர். ஆனால் இம்முறை நாம் அமைதியாக இருக்க மாட்டோம்.
 
-FSF is an autonomous body that is capable of treating 
-its members in a fair, unbiased fashion, and should not 
-give in to external social pressures. We urge the 
-FSF to consider the arguments against RMS objectively 
-and to truly understand the meaning of his words and actions.
+FSF அவர்கள் தனியாக முடிவு செய்யூம் தகுதியுள்ளவர்கள். அதனால் அவர்களின் தொண்டர்களை நீக்கவோ சேர்க்க உரிமை அவர்களுக்கு இருக்கிறது. 
+மட்டும் வெளிய அழுத்தத்துக்கு அவர்கள் கட்டுப்படக் கூடாது. ரிச்சர்ட் ஸ்டால்மன் அவர் தொடர்பான கருத்துக்களை அவர்கள் ஆழ்ந்து பரிசீலிக்க வேண்டும்.
 
-Historically, RMS has been expressing his views in ways 
-that upset many people. He is usually more focused on the 
-philosophical underpinnings, and pursuing the objective 
-truth and linguistic purism, while underemphasising people's 
-feelings on matters he's commenting on. This makes his arguments 
-vulnerable to misunderstanding and misrepresentation, something 
-which we feel is happening in the open letter calling for his removal. 
-His words need to be interpreted in this context and 
-taking into account that more often than not, 
-he is not looking to put things diplomatically.
+கடந்த காலங்களை பார்க்கையில், ரிச்சர்ட் ஸ்டால்மனின் கருத்துக்கள் பலரையும் அசவுகரியம் உண்டாக்கியுள்ளது. பொதுவாக அவர் சுதந்திரத்திற்காகப் போராடுவது மற்றும் சில நேரம் மக்களின் கருத்துக்களுக்கு மதிப்பு அதிகமாகக் கொடுக்க மாட்டார். ஆதலால் அவர் எந்த கருத்து சொன்னாலும் அவரை மக்கள் தாக்குகின்றனர் அவரைப் புரிந்து கொள்ளமாட்டார்கள்.
 
-Regardless, Stallman's opinions on the matters 
-he is being persecuted over are not relevant to 
-his ability to lead a community such as the FSF. 
-Furthermore, he is entitled to his opinions just 
-as much as anyone else. Members and supporters do not 
-have to agree with his opinions, but should respect 
-his right to freedom of thought and speech.
+என்ன இருந்தாலும் அவருக்கு அவர் கருத்து சொல்ல உரிமை இருக்கின்றது. அவரின் கருத்துக்கும் அவரு சமூகத்தை வழிநடத்தும் திறமைக்கும் சம்பந்தமில்லை. ஆதரவாளர்கள் அவர் சொல்வதற்கு ஒத்துக் கொள்ளத் தேவை இல்லை ஆனால் நம்மைப்போல் அவர் என்ன வேண்டுமென்றாலும் சொல்லலாம்.
 
-**To the FSF:**
+**FSF குழுவே:**
 
-Removing RMS will hurt FSF's image and will deal 
-a significant blow to the momentum of the free software movement.
-We urge you to consider your actions carefully,
-as what you will decide will have a serious impact
-on the future of the software industry.
-
-
-**To the ambush mob who is ganging up on Richard Stallman over 
-reasonable arguments in debate and various opinions and beliefs
-voiced over decades as a public figure:**
+அவரை நீக்குவது உங்களது இயக்கத்தை பெரிதும் பாதிக்கும். ஆதலால் நீங்கள் எடுக்கும் முடிவுகளை ஆழ்ந்து பரிசீலிக்குமாறு நாங்கள் கேட்டுக் கொள்கிறோம். உங்கள் முடிவு சாப்ட்வேர் உலகையே பாதிக்கும். சிந்தியுங்கள்.
     
-You have no part in choosing the leadership of any communities. 
-Especially not via another mob attack which does not remotely 
-resemble a fairly conducted debate as exemplified 
-by better people such as Richard Stallman.
+**ரிச்சர்ட் ஸ்டால்மனின் கருத்துக்களை கூறியதற்காக அவரைத் தாக்க காத்திருக்கும் ரவுடி கும்பலுக்கு:**
+
+எந்த ஒரு சமூகத்திற்கும் தலைவரை தேர்ந்தெடுக்கும் உரிமை உங்களுக்கு இல்லை. ரவுடி கும்பல் மூலம் அவரின் நீக்க நினைக்காதீர். விவாதத்திற்கு வாரீர்!
 
 To sign, please [submit a pull
 request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
