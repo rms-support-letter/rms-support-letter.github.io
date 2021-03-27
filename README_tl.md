@@ -3,7 +3,7 @@
 Para pumirma, **i-click [ito](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** at pangalanan ang file na `<username>.yaml` (palitan ang `<username>` sa iyong pangalan) na naglalaman ng:
 
 ```yaml
-name: <pangalan mo>
+name: <pangalan mo (opsyonal na organisasyon o kumpanya)>
 link: <kawing sa iyong profile o pook>
 ```
 
@@ -11,7 +11,7 @@ Hindi kasama ang `<>`.
 
 Halimbawa:
 ```yaml
-name: Halimbawang pangalan
+name: Halimbawang pangalan (Mabuting kumpanya)
 link: https://github.com/halimbawang_username
 ```
 
