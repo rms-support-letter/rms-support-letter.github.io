@@ -1,6 +1,6 @@
 ---
 layout: signed
-title: Lettre ouverte en soutiens à Richard M. Stallman
+title: Lettre ouverte en soutien à Richard M. Stallman
 description: Une lettre ouverte en support de la réintégration de Richard Matthew Stallman par la Free Software Foundation
 image: /assets/social-media-preview_fr_FR.png
 locale: fr_FR
@@ -20,13 +20,13 @@ retrait du conseil d'administration de la FSF en raison de son expression
 d'opinions personnelles. Nous avons déjà vu cela se produire
 de façon organisée avec d'autres libristes, programmeurs et programmeuses de
 premier plan. Nous ne resterons pas les bras croisés cette fois-ci,
-alors qu'une icône de cette communauté est attaqué.
+alors qu'une icône de cette communauté est attaquée.
 
-La FSF est une entité autonome tout à fait capable de traiter ses
-membres d'une façon juste et non biaisée, et ne devrait pas céder aux
-pressions sociales externes. Nous incitons fortement la FSF à
-considérer les arguments contre RMS de façon objective et de chercher
-à réellement comprendre le sens de ses mots et actions.
+La Fondation pour le logiciel libre (ang. FSF) est une entité autonome
+tout à fait capable de traiter ses membres d'une façon juste et non
+biaisée, et ne devrait pas céder aux pressions sociales externes. Nous incitons
+fortement la FSF à considérer les arguments contre RMS de façon objective et de
+chercher à réellement comprendre le sens de ses mots et actions.
 
 Historiquement, RMS a toujours exprimé ses opinions d'une façon qui
 dérange beaucoup de personnes. Il est habituellement plus prompt à
@@ -57,10 +57,10 @@ futur de l'industrie du logiciel.
 **À l'attention de la foule agitée qui s'acoquine contre Richard
 Stallman à cause d'arguments raisonnables qu'il a eu dans des débats
 ou de ses opinions et prises de positions variées soutenues pendant des
-décennies en tant que figure publique :**
+décennies en tant que figure publique:**
 
 Vous n'avez aucune pertinence à choisir qui devrait être à la tête de
-quelconque communauté. Particulièrement pas par le biais d'une autre attaque en
+quelconque communauté. Particulièrement pas par le biais d'une attaque en
 meute qui ne ressemble en rien à un débat conduit de manière
 raisonnable et équitable tel qu'illustré par de meilleures personnes comme
 Richard Stallman.
