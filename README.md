@@ -36,7 +36,7 @@ If you still require help via visual instructions, use [this](https://invidious.
 
 ## Chatrooms
 
-- **Matrix:** [#free-rms:matrix.org](https://matrix.to/#/#free-rms:matrix.org)
+- **Matrix:** [#free-rms:matrix.org](https://matrix.to/#/#free-rms:matrix.org), Community: `+free-rms:matrix.org`
 - **IRC:** #free-rms on [freenode](https://freenode.net)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
