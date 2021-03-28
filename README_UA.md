@@ -1,4 +1,5 @@
 # Відкритий лист на підтримку RMS.
+ [![Add this badge to your repo!](assets/badge-64-w-border.png)](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)
 
 Для того щоб підписатися, створіть в директорії `_data/signed/` файл `<username>.yaml` з наступним змістом:
 
@@ -23,6 +24,10 @@ link: https://example.com/
 Будьмо рішучими, але професійними.
 
 Якщо ви можете, будь ласка, розповсюджуйте цей лист на ваших форумах і соціальних медіа, та пiдключайте журналістів якi можуть допомогти в нашій справі.
+
+Альтернативний спосіб: зробіть форк проету, створіть в ньому файл `_data/signed/<username>.yaml`, закоммітьте зміни та відправте пулл реквест.
+
+Підписати відкритого листа, без використання Github можна перейшовши за посиланням: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, або надіславши підписаний патч на [signrms@prog.cf](mailto:signrms@prog.cf) чи [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
 **Пулл-реквести будуть прийняті протягом 12 годин - через велику кількість PR, вони будуть прийматися групами**
 
