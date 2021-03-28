@@ -26,7 +26,7 @@ link: https://github.com/example_username
 
 如果可以的话，请考虑在您的论坛和社交媒体上转发这封信件，并告知我们那些可能对我们的目标有帮助的记者。
 
-另外你也可以选择 fork 并克隆该项目，手动创建文件 `_data/signed/<username>.yaml`，然后提交并发起一个 PR。
+你也可以选择 fork 并克隆该项目，手动创建文件 `_data/signed/<username>.yaml`，然后提交并发起一个 PR。
 
 如果你是非 GitHub 用户但是希望支持这封公开信，请访问：https://codeberg.org/rms-support-letter/rms-support-letter/issues/1 ，
 或发送一份签名的补丁到 [signrms@prog.cf](mailto:signrms@prog.cf) 或 [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht)。
