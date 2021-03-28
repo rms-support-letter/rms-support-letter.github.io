@@ -14,9 +14,7 @@ name: Emër shembull (Kompania)
 link: https://github.com/user_shembull
 ```
 
-Mos përdor `<>` në këtë file, gjithashtu nuk lejon karakteret jo-ASCII në emërtimin e filet.
-Nëse përdor këtë email si link, shtoji `mailto:`.
-Nëse ke mundësi, të lutem përdor emrin tënd të vërtetë dhe shto projektet dhe kompnitë e lidhura në thonjëza teke.
+Mos përdor `<>` në këtë file, gjithashtu nuk lejohen karakteret jo-ASCII në emërtimin e filet. Nëse përdor këtë email si link, shtoji `mailto:`. Nëse ke mundësi, të lutem përdor emrin tënd të vërtetë dhe shto projektet dhe kompanitë e lidhura në thonjëza teke.
 
 Pastaj **kliko "Propose new file"** dhe ndiq instruksionet për merge request.
 
@@ -26,14 +24,14 @@ Nëse keni mundësi, konsideroni shpërndarjen e kësaj letre në forumet tuaja 
 
 Gjithashtu, bëjini fork dhe clone repozitorin, krijoni manualisht file `_data\signed\<username>.yaml`, commit dhe kërkoni PR.
 
-Nesë doni mund të suportoni letrën jashtë Github, shkoni tek: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, ose dërgoni një patch të firmosur tek [signrms@prog.cf](mailto:signrms@prog.cf) ose [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+Nesë doni të suportoni letrën jashtë Github, shkoni tek: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, ose dërgoni një patch të firmosur tek [signrms@prog.cf](mailto:signrms@prog.cf) ose [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
 Nëse përsëri ju duhet ndihmë nga ana vizuale, shikoni [videon](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU).
 
 **Firmat proçesohen maksimalisht brenda 12 orëve -  për shkak të volumit të Pull Requesteve**
 ## Chatrooms
 
-- **Matrix.org:** #free-rms:matrix.org
-- **IRC:** #free-rms at chat.freenode.net
+- **Matrix:** [#free-rms:matrix.org](https://matrix.to/#/#free-rms:matrix.org)
+- **IRC:** #free-rms on [freenode](https://freenode.net)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
