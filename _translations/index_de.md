@@ -66,4 +66,4 @@ Vor allem nicht durch einen weiteren Mob-Angriff, welcher nicht im Ansatz
 einer fair geführten Debatte entspricht, wie sie Personen wie Richard 
 Stallmann beispielhaft vorgemacht haben. 
 
-Um zu unterschreiben, erstelle bitte [einen Pull-Request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Um zu unterschreiben, erstelle bitte [ein Pull-Request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
