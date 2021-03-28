@@ -2,7 +2,7 @@
 layout: signed
 title: نامه‌ای سرگشاده در حمایت از ریچارد استالمن
 description: نامه‌ای سرگشاده در حمایت از انتصاب دوبارهٔ ریچارد متیو استالمن در بنیاد نرم‌افزار آزاد
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_fa.png
 locale: fa_IR
 twitter:
   card: summary_large_image
