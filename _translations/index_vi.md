@@ -1,8 +1,8 @@
 ---
 layout: signed
-title: An open letter in support of Richard M. Stallman
-description: An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
-image: /assets/social-media-preview.png
+title: Thư ngỏ ủng hộ Richard M. Stallman
+description: Một bức thư ngỏ ủng hộ Richard Matthew Stallman được phục chức tại Quỹ Phần mềm Tự do (FSF)
+image: /assets/social-media-preview_vi_VN.png
 locale: vi_VN
 twitter:
   card: summary_large_image
@@ -52,11 +52,19 @@ phần mềm.
 trong cuộc tranh luận và nhiều ý kiến và niềm tin khác nhau đã lên tiếng
 trong nhiều thập kỷ với tư cách là người của công chúng:**
 
-Bạn không tham gia vào việc lựa chọn lãnh đạo của bất kỳ cộng đồng nào.
+Bạn không có quyền tham gia vào việc lựa chọn lãnh đạo của bất kỳ cộng đồng nào.
 Đặc biệt là không thông qua một cuộc tấn công bằng đám đông khác - không hề
 giống như một cuộc tranh luận công bằng được thực hiện bởi những người giỏi hơn,
 như là Richard Stallman.
 
-Để ký, vui lòng submit [Pull-Request][pr].
+Để ký, vui lòng
 
-[pr]: https://github.com/rms-support-letter/rms-support-letter.github.io/pulls
+- Tạo một [pull request trên GitHub][ghpr].
+- Hoặc gửi một bản vá đã kí tới [signrms@prog.cf][progcf]
+- Hoặc đến [~tyil/rms-support@lists.sr.ht][srht]
+- Hoặc thêm chữ kí trên [Codeberg][codeberg]
+
+[ghpr]: https://github.com/rms-support-letter/rms-support-letter.github.io/pulls
+[progcf]: mailto:signrms@prog.cf
+[srht]: mailto:~tyil/rms-support@lists.sr.ht
+[codeberg]: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1
