@@ -67,3 +67,6 @@ rzetelnie prowadzonej debaty, co zostało ukazane
 przez lepszych ludzi, takich jak Richard Stallman.
 
 Aby podpisać [złóż pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Aby podpisać bez używania GitHuba możesz:
+- Wysłać patch do [signrms@prog.cf](mailto:signrms@prog.cf) lub [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+- Albo oddać podpis tutaj: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
