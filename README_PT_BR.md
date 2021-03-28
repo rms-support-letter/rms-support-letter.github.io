@@ -1,19 +1,19 @@
 # Uma carta aberta de apoio a RMS.
 
-Para assinar, ** clique [aqui] (https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed) ** e escreva o nome do ficheiro como `<nomeutilizador> .yaml` (substitua` <nomeutilizador> `pelo seu nome) com o seguinte conteúdo:
+Para assinar, **clique [aqui] (https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** e escreva o nome do ficheiro como `<nomeutilizador> .yaml` (substitua` <nomeutilizador> `pelo seu nome) com o seguinte conteúdo:
 
-`` `yaml
+```yaml
 nome: <o seu nome aqui (opcionalmente o nome da organização ou empresa)>
 link: <o link para o seu perfil pessoal ou site>
-`` `
+```
 
 Sem os `<>`.
 
 Exemplo:
-`` `yaml
+```yaml
 nome: Nome Exemplo (Boa empresa)
 link: https://github.com/nome_exemplo
-`` `
+```
 
 Não use `<>` neste ficheiro, tais como quaisquer símbolos não-ascii no nome de ficheiro.
 Se está a usar um email como link coloque o prefixo `mailto:`.
@@ -25,7 +25,7 @@ Vamos manter um tom firma, mas profissional.
 
 Se puder, compartilhar esta carta em foruns, redes sociais assim como notificar os jornalistas que podem ser favoráveis ​​à nossa causa.
 
-** Os pedidos serão aceites dentro de 12 horas - devido a um volume elevado de PRs Os PRs serão unidos em lote **
+**Os pedidos serão aceites dentro de 12 horas - devido a um volume elevado de PRs Os PRs serão unidos em lote**
 
 Alternativamente, pode fazer fork ou clonar o repositório, criar o arquivo `_data / assinado / <nomeutilizador> .yaml` manualmente, e de seguida fazer o commit e submetro do PR.
 
@@ -34,7 +34,7 @@ ou enviar um patch assinado para [signrms@prog.cf] (mailto: signrms@prog.cf) ou 
 
 ## Salas de chat
 
-- ** Matrix.org: ** # free-rms: matrix.org
-- ** IRC: ** # free-rms em chat.freenode.net
-- ** Discord: ** https://discord.gg/7FWkxG4CsU
-- ** Telegrama: ** https://t.me/free_rms 
+- **Matrix.org:** # free-rms: matrix.org
+- **IRC:** # free-rms em chat.freenode.net
+- **Discord:** https://discord.gg/7FWkxG4CsU
+- **Telegrama:** https://t.me/free_rms 
