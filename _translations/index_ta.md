@@ -2,7 +2,7 @@
 layout: signed
 title: ரிச்சர்ட் ஸ்டால்மனுக்கு ஆதரவு கடிதம்
 description: ரிச்சர்ட் ஸ்டால்மன் FSF சேர்வதற்கு ஆதரவு கடிதம்
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_ta_IN.png
 locale: ta_IN
 twitter:
   card: summary_large_image
