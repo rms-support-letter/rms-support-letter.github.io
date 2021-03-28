@@ -32,6 +32,10 @@ Puwede rin i-fork at clone ang repo. Gumawa ng file na `_data/signed/<username>.
 Kung gusto mong suportahan ang liham nang hindi ginagamit ang Github, puntahan ito: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1,
 o magpadala ng nakapirmang tapal sa [signrms@prog.cf](mailto:signrms@prog.cf) o [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
+Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [bidyo](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) para rito.
+
+**Lahat ng mga pirma ay ipoproceso sa loob ng 12 oras - dahil sa napalaking dami ng mga PR**
+
 ## Mga silid pang-usap
 
 - **Matrix.org:** #free-rms:matrix.org
