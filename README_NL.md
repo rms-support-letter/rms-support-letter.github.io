@@ -30,6 +30,8 @@ U kunt ook de repo splitsen en klonen, het bestand `_data/signed/<gebruikersnaam
 Als je de brief wilt ondersteunen zonder Github te gebruiken, ga dan hier naartoe: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, 
 of stuur een ondertekende patch naar [signrms@prog.cf](mailto:signrms@prog.cf) of [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
+Als u nog steeds hulp nodig heeft via visuele instructies, gebruik [deze](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) video.
+
 **Alle handtekeningen worden binnen maximaal 12 uur verwerkt - vanwege een enorm aantal PR's**
 
 ## Chatrooms
