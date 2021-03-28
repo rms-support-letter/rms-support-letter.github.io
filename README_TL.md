@@ -39,6 +39,6 @@ Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [b
 ## Mga silid pang-usap
 
 - **Matrix.org:** #free-rms:matrix.org
-- **IRC:** #free-rms at chat.freenode.net
+- **IRC:** #free-rms sa chat.freenode.net
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
