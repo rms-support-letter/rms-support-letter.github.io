@@ -42,3 +42,10 @@ Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [b
 - **IRC:** #free-rms sa [freenode](https://freenode.net)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
+
+## Lisensiya
+Ang kodigo sa imbakan na ito ay nakalisensya lamang sa GPL-3.0.
+
+Ang mga larawan sa `assets` folder ay nakalisensiya sa ilalim ng CC BY-SA 3.0. Ang mga larawang preview para sa social media ay nakabatay sa https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg, na nasa ilalim ng CC BY-SA 3.0. Orihinal itong inilathala bilang pabalat larawan ng libro ni O'Reilly na `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`, noong Marso 1, 2002 sa ilalim ng GFDL.
+
+Walang kopirayt ang mga pirma.
