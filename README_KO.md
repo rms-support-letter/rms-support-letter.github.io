@@ -39,3 +39,10 @@ link: https://example.com/
 - **IRC:** chat.freenode.net 서버의 #free-rms 채널
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
+
+## 저작권
+이 저장소의 코드는 GPL-3.0-only 하에 사용 가능합니다.
+
+`assets` 폴더 내의 이미지들은 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode) 하에 사용 가능합니다.  SNS 미리보기 이미지는 CC BY-SA 3.0 하에 출판된 https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg 을 사용하였습니다.  참고로 이 이미지는 2002년 3월 1일에 GFDL 저작권 하에 출판된 O'Reilly 사의 책 `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`의 표지에 사용된 것입니다.
+
+서명들은 저작권의 대상 범위가 아닙니다.
