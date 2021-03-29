@@ -43,5 +43,7 @@ If you still require help via visual instructions, use [this](https://invidious.
 
 ## Licensing
 The code in the repository is licensed under GPL-3.0-only.
+
 Images in the `assets` folder are licensed under CC BY-SA 3.0.
+
 Signatures are not copyrightable.
