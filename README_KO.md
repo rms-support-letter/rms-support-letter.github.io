@@ -27,7 +27,7 @@ link: https://example.com/
 
 위 방법 대신에 이 저장소를 fork 하여 clone 한 후, `_data/signed/<username>.yaml` 를 직접 만들고 commit 한 후에 PR 을 제출하셔도 됩니다.
 
-Github 을 사용하지 않고 이 공개 서한을 지지하고 싶으시다면 다음을 참고하시기 바랍니다: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1  혹은 서명된 패치를 [signrms@prog.cf](mailto:signrms@prog.cf) 혹은 [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) 으로 주셔도 서명하실 수 있습니다.
+**Github 을 사용하지 않고** 이 공개 서한을 지지하고 싶으시다면 다음을 참고하시기 바랍니다: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1  혹은 서명된 패치를 [signrms@prog.cf](mailto:signrms@prog.cf) 혹은 [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) 으로 주셔도 서명하실 수 있습니다.
 
 서명하는 방법을 잘 모르시겠다면 [이 영상(영어)](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU)을 참고하시기 바랍니다.
 
