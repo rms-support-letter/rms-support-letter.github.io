@@ -17,7 +17,7 @@ name: Örnek isim (İyi şirket)
 link: https://github.com/örnekisim
 ```
 
-Bu dosyada '<>' ve dosya adında ascii olmayan semboller kullanmayınız.
+Bu dosyada `<>` ve dosya adında ascii olmayan semboller kullanmayınız.
 Link olarak bir mail kullanıyorsanız mailinizin önüne `mailto:` koyunuz.
 Eğer yapabilirseniz, gerçek adınızı kullanın ve parantez içine projelerinizi ve kuruluşunuzu yazınız.
 
@@ -27,7 +27,7 @@ Ses tonunu sağlam tutalım ama profesyonelce.
 
 Eğer yapabiliyorsanız, bu mektubu forumlarda ve sosyal medyada paylaşıp bize yardımcı olabiliecek gazetecilere haber veriniz.
 
-Alternatif olarak, bu depoyu klonlayın ve şu dosyayı manuel olarak oluşturun : `_data/signed/<username>.yaml`, daha sonra bir PR taahhüt edin ve gönderin.
+Alternatif olarak, bu depoyu klonlayın ve şu dosyayı manuel olarak oluşturun : `_data/signed/<username>.yaml`, daha sonra bir PR'a gönderin.
 
 Eğer mektuba **Github kullanmadan** destek vermek istiyorsanız, şuraya gidin: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1,
 ve ya imzalı bir yamayı şuraya [signrms@prog.cf](mailto:signrms@prog.cf) ya da şuraya [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) gönderin.
