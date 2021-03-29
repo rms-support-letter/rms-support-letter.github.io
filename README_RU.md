@@ -30,7 +30,7 @@ link: https://example.com/
 
 Подписать открытое письмо, без использования Github можно перейдя по ссылке: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, или пришлите патч с подписью на [signrms@prog.cf](mailto:signrms@prog.cf) или [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
-**Пулл ревесты будут приняты в течении 12 часов — из-за большого количества PR, они будут приниматься группами**
+**Пулл реквесты будут приняты в течении 12 часов — из-за большого количества PR, они будут приниматься группами**
 
 ## Чаты
 
