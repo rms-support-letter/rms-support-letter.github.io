@@ -67,4 +67,8 @@ soprattutto non attraverso un altro attacco "in massa" che non assomiglia
 neanche lontanamente ad essere un dibattito condotto in modo equo, come
 fatto notare da persone migliori come Richard Stallman.
 
-Per firmare, si prega di [inviare una pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Per firmare **utilizzando Github** [invia una pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+
+Per firmare **senza usare Github** puoi:
+- Inviare una email con la tua firma a [signrms@prog.cf](mailto:signrms@prog.cf) o a [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+- Aggiungere la tua firma qui: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
