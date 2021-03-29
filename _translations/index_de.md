@@ -66,4 +66,7 @@ Vor allem nicht durch einen weiteren Mob-Angriff, welcher nicht im Ansatz
 einer fair geführten Debatte entspricht, wie sie Personen wie Richard 
 Stallmann beispielhaft vorgemacht haben. 
 
-Um zu unterschreiben, erstelle bitte [ein Pull-Request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Um zu unterschreiben, erstelle bitte [ein Pull-Request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls). Wenn du nicht GitHub verwenden möchtest, kannst du auch:
+- Ein unterschriebenes Patch an [signrms@prog.cf](mailto:signrms@prog.cf) schicken.
+- Oder an [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht). 
+- Oder unterschreibe hier: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
