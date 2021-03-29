@@ -48,7 +48,7 @@ twitter:
 зависит будущее всей индустрии программного обеспечения.
 
 **Толпе недоброжелателей, ополчившейся на Ричарда Столлмана за обоснованные аргументы
-в дебатах и высказывания, приводимые им, на протяжении десятилетий, в качестве
+в дебатах и высказывания, приводимые им на протяжении десятилетий в качестве
 общественного деятеля:**
 
 Вы не имеете никакого отношения к выбору руководства какого бы то ни было сообщества.
@@ -57,7 +57,7 @@ twitter:
 
 Чтобы подписать это открытое письмо, [создайте пул-реквест](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
 
-Поставить подпись, без использования Github можно:
+Поставить подпись без использования Github можно:
 - Прислав патч с подписью на [signrms@prog.cf](mailto:signrms@prog.cf) 
 - Или на [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 - Или перейдя по ссылке: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
