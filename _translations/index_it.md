@@ -10,16 +10,16 @@ twitter:
 
 23-03-2021
 
-Richard M. Stallman,conosciuto come RMS,
+Richard M. Stallman, conosciuto come RMS,
 é sempre stato un punto di riferimento per
 il movimento del software libero per decenni,
 con contributi come il sistema operativo GNU
 ed Emacs.
 
 Di recente, ci sono stati dei vili attacchi online
-che cercano di rimuoverlo dal  della FSF 
-per aver espresso le sue opinioni personali. Abbiamo visto 
-questo accadere prima in modo organizzato con altri 
+per tentare di allontanarlo dalla FSF 
+per aver espresso le sue opinioni personali. Abbiamo già visto 
+accadere ciò precedentemente in modo organizzato con altri 
 importanti attivisti e programmatori di software libero. 
 Non resteremo a guardare questa volta, quando un'icona 
 di questa comunità viene attaccata.
@@ -53,7 +53,7 @@ il suo diritto alla libertà di pensiero e di parola.
 
 La rimozione di RMS danneggerà l'immagine della FSF e infliggerà 
 un duro colpo al movimento del software libero.
-Vi esortiamo a rivedere con attenzione le vostre azioni,
+Vi esortiamo a valutare con attenzione le vostre azioni,
 poiché ciò che deciderete avrà un serio impatto
 sul futuro dell'industria del software.
 
