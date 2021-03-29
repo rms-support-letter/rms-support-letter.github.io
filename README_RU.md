@@ -1,7 +1,7 @@
 # Открытое письмо в поддержку RMS
  [![Add this badge to your repo!](assets/badge-64-w-border.png)](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)
 
-Для того, чтобы подписать письмо, создайте в директории `_data/signed/` файл `<username>.yaml` со следующим содержимым:
+Для того, чтобы подписать письмо, создайте в директории [`_data/signed/`](./_data/signed/) файл `<username>.yaml` со следующим содержимым:
 
 ```yaml
 name: <укажите Ваше имя здесь (опционально, укажите проекты/организации)>
