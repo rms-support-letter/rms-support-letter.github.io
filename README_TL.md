@@ -34,7 +34,7 @@ o magpadala ng nakapirmang tapal sa [signrms@prog.cf](mailto:signrms@prog.cf) o 
 
 Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [bidyo](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) para rito.
 
-**Lahat ng mga pirma ay ipoproceso sa loob ng 12 oras - dahil sa napalaking dami ng mga PR**
+**Lahat ng mga pirma ay ipoproceso sa loob ng 12 oras - dahil sa napalaking bilang ng mga PR**
 
 ## Mga silid pang-usap
 
