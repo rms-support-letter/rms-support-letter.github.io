@@ -44,6 +44,6 @@ If you still require help via visual instructions, use [this](https://invidious.
 ## Licensing
 The code in the repository is licensed under GPL-3.0-only.
 
-Images in the `assets` folder are licensed under CC BY-SA 3.0. The social preview images are based off https://en.wikipedia.org/wiki/Richard_Stallman#/media/File:Richard_Matthew_Stallman.jpeg, published under CC BY-SA 3.0, originally published as the cover of the O'Reilly book `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`, published on March 1, 2002 under the GFDL.
+Images in the `assets` folder are licensed under CC BY-SA 3.0. The social preview images are based off https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg, published under CC BY-SA 3.0, originally published as the cover of the O'Reilly book `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`, published on March 1, 2002 under the GFDL.
 
 Signatures are not copyrightable.
