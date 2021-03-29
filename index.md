@@ -68,7 +68,7 @@ by better people such as Richard Stallman.
 
 To sign, please [submit a pull
 request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
-To sign without using Github, you can:
+To sign **without using Github**, you can:
 - Send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) 
 - Or to [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 - Or add your signature here: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
