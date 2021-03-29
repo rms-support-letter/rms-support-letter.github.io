@@ -31,7 +31,7 @@ Nëse përsëri ju duhet ndihmë nga ana vizuale, shikoni [videon](https://invid
 **Firmat proçesohen maksimalisht brenda 12 orëve -  për shkak të volumit të Pull Requesteve**
 ## Chatrooms
 
-- **Matrix:** [#free-rms:matrix.org](https://matrix.to/#/#free-rms:matrix.org)
+- **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
 - **IRC:** #free-rms on [freenode](https://freenode.net)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
