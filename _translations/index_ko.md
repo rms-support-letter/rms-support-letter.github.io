@@ -36,7 +36,7 @@ FSF는 그 회원들을 공정하고 편견 없는 방식으로 대할 수 있�
 해석되어야 하며, 그는 사물을 요령껏 처신하여 표현하고자 하지 않는다는
 것을 감안해야 합니다.
 
-그럼에도 불구하고, 지금 그가 박해받는 이유가 된 Stallman의 견해와,
+그럼에도 불구하고, 지금 그가 박해받는 이유가 된 스톨먼의 견해와,
 그가 FSF 와 같은 커뮤니티를 이끌고 나가는 능력은 서로 무관합니다.
 또한 그는 다른 모든 사람과 마찬가지로 자신의 의견을 가질 권리가
 있습니다.  회원들과 지지자들이 그의 견해에 동의해야 할 필요는 없지만
@@ -60,7 +60,7 @@ RMS를 퇴출하는 것은 FSF의 이미지에 상처를 낼 것이며, 자유 �
 한다면 더더욱 그 자격은 없다 할 것이다.
 
 서명을 하시려면 [풀 리퀘스트를 보내 주세요](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
-Github를 사용하지 않고 서명하시려면:
+**Github를 사용하지 않고** 서명하시려면:
 - 서명된 패치를 [signrms@prog.cf](mailto:signrms@prog.cf) 혹은
 - [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) 으로 보내주시거나,
 - [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1) 에 서명을 추가해주세요.
