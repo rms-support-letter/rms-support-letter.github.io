@@ -34,7 +34,7 @@ link: https://example.com/
 
 ## Чаты
 
-- **Matrix.org:** #free-rms:matrix.org
-- **IRC:** #free-rms at chat.freenode.net
+- **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
+- **IRC:** #free-rms на [freenode](https://freenode.net)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
