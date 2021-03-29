@@ -3,7 +3,7 @@ layout: signed
 title: Unha carta aberta en apoio a Richard M. Stallman
 description: Unha carta aberta en apoio a reincorporación de Richard M. Stallman á Free Software Foundation
 image: /assets/social-media-preview_gal_GAL.png
-locale: gal_GAL
+locale: GL
 twitter:
   card: summary_large_image
 ---
