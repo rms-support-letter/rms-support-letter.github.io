@@ -19,7 +19,7 @@ link: https://github.com/esimerkki
 Jos haluat lisätä sähköpostiosoitteesi linkkinä allekirjoitukseesi, aseta sähköpostiosoitteesi eteen `mailto:`, jotta sähköpostiosoite tunnistettaisiin linkkinä.
 Mikäli mahdollista, käytä allekirjoituksessasi oikeaa nimeäsi ja lisää projektejasi ja edustamiasi organisaatioita sulkumerkkien sisään.
 
-Kun olet saanut laitettua tiedot allekirjoitustiedostoon, paina ***Propose new file***-painiketta ja käy läpi painikkeen painasimen jälkeen avautuneet sivut lähettääksesi allekirjoituksen pull requestina.
+Kun olet saanut laitettua tiedot allekirjoitustiedostoon, paina ***Propose new file***-painiketta ja käy läpi painikkeen painamisen jälkeen avautuneet sivut lähettääksesi allekirjoituksen pull requestina.
 
 Pidä allekirjoituksesi sisältö ytimekkäänä mutta ammattimaisena.
 
