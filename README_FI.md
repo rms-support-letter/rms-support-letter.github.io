@@ -43,6 +43,6 @@ Jos tarvitset tukea allekirjoittamiseen videon avulla, katso ohjevideo osoittees
 
 Kaikki lähdekoodi kirjeen taustalla on yksinomaan GPL-3.0.-lisenssin alaisuudessa
 
-Kuvat `assets`-kansiossa ovat [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)-lisenssin alaisuudessa. Esikatselukuvat perustuvat kuvaan osoitteessa https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg, joka on julkaistu CC BY-SA 3.0-lisensillä. Esikatselukuva perustuu kuvaan, jota käytettiin O'Reilly Median julkaiseman `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`-kantena, joka on alun perin julkaistu 1. maaliskuuta vuonna 2002 GFDL-lisensillä
+Kuvat `assets`-kansiossa ovat [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)-lisenssin alaisuudessa. Esikatselukuvat perustuvat kuvaan osoitteessa https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg, joka on julkaistu CC BY-SA 3.0-lisensillä. Esikatselukuva perustuu kuvaan, jota käytettiin O'Reilly Median julkaiseman `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`-kirjan kantena, joka on alun perin julkaistu 1. maaliskuuta vuonna 2002 GFDL-lisensillä
 
 Allekirjoituksia ei voi suojata tekijänoikeuksilla.
