@@ -10,16 +10,16 @@ twitter:
 
 2021-03-23
 
-Richard M. Stallman, często zwany jako RMS,
+Richard M. Stallman, często zwany RMS,
 był siłą napędową ruchu wolnego oprogramowania
-od dziesięcioleci, z wkładem w między innymi
-system operacyjny GNU i Emacs.
+od dziesięcioleci i miał wkład między innymi
+w system operacyjny GNU i Emacs.
 
 Ostatnio w sieci pojawiły się nikczemne ataki
 zmierzające do usunięcia go z zarządu FSF (Fundacji Wolnego Oprogramowania)
-za wyrażanie osobistych opinii. Mogliśmy zauważyć
-to już wcześniej jak działo się to w zorganizowany sposób z innymi
-istotnymi działaczami na rzecz wolnego oprogramowania i programistami.
+za wyrażanie osobistych opinii. Widzieliśmy już
+wcześniej takie zorganizowane akcje przeciw innym
+istotnym działaczom na rzecz wolnego oprogramowania i programistom.
 Tym razem nie będziemy stać bezczynnie, gdy ikona
 tej społeczności jest atakowana.
 
@@ -29,8 +29,8 @@ poddawać się zewnętrznym naciskom społecznym. Wzywamy
 FSF do obiektywnego rozważenia argumentów przeciwko RMS
 i do prawdziwego zrozumienia znaczenia jego słów i działań.
 
-W przeszłości, RMS wyrażał swoje poglądy w sposoby
-które mogły zdenerwować wielu ludzi. Zazwyczaj jest on bardziej skupiony na
+W przeszłości RMS wyrażał swoje poglądy w sposób,
+który denerwował wielu ludzi. Zazwyczaj jest on bardziej skupiony na
 filozoficznych podstawach, dążeniu do obiektywnej
 prawdy i puryzmu językowego, kładąc mniejszy nacisk na emocje
 w sprawach, które komentuje. To sprawia, że jego argumenty
@@ -40,7 +40,7 @@ Jego słowa należy interpretować w tym kontekście oraz
 biorąc pod uwagę, że często
 nie stara się załatwiać spraw dyplomatycznie.
 
-Niezależnie od tego, opinie Stallmana na temat spraw
+Niezależnie od tego opinie Stallmana na temat spraw,
 za które jest prześladowany, nie są istotne dla
 jego zdolności do przewodzenia społeczności takiej jak FSF.
 Co więcej, ma on prawo do swoich opinii tak samo
@@ -63,8 +63,8 @@ wyrażane przez dziesięciolecia jako osoba publiczna:**
 
 Nie macie udziału w wybieraniu przywództwa żadnej społeczności.
 Szczególnie nie poprzez kolejny atak tłumu, który w najmniejszym stopniu nie przypomina
-rzetelnie prowadzonej debaty, co zostało ukazane
-przez lepszych ludzi, takich jak Richard Stallman.
+rzetelnie prowadzonej debaty, jakiej przykład dają
+lepsi ludzie, tacy jak Richard Stallman.
 
 Aby podpisać [złóż pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
 Aby podpisać bez używania GitHuba możesz:
