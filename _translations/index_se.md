@@ -30,8 +30,8 @@ ord och handlingar.
 Historiskt har RMS uttryckt sina åsikter på sätt som upprör
 många människor. Han är vanligtvis mer fokuserad på den
 filosofiska grunden, att sträva efter den objektiva sanningen
-och språklig purism, samtidigt som han understryker
-människors känslor i frågor som han uttalar sig om.
+och språklig purism, samtidigt som han inte tillräcklig tar hänsyn
+till människors känslor i frågor som han uttalar sig om.
 Detta gör hans argument sårbara för missförstånd och felaktig
 tolkning, något som vi anser händer i det öppna brev som
 kräver att han ska avsättas. Hans ord måste tolkas i sitt
