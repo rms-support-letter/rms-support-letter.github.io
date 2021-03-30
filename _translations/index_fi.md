@@ -1,7 +1,7 @@
 ---
 layout: signed
-title: An open letter in support of Richard M. Stallman
-description: An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
+title: Avoin kirje Richard M. Stallmanin tueksi
+description: Avoin kirje, joka tukee Richard Stallmanin uudelleenasettamista Free Software Foundationin johtokuntaan
 image: /assets/social-media-preview.png
 locale: fi_FI
 twitter:
