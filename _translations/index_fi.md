@@ -27,7 +27,7 @@ Teillä ei ole mitään sijaa päättää minkään yhteisön johtajaa, etenkä�
 
 Allekirjoittaakseen kirjeen, lähetä [pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls). Allekirjoittaakseen kirjeen käyttämättä Githubia, voit:
 
-    • lähettää allekirjoitetun pätchin osoitteeseen [signrms@prog.cf](mailto:signrms@prog.cf)
-    • tai osoitteeseen [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht)
-    • lisätä allekirjoituksesi tänne: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
+ - lähettää allekirjoitetun pätchin osoitteeseen [signrms@prog.cf](mailto:signrms@prog.cf)
+ - tai osoitteeseen [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht)
+ - lisätä allekirjoituksesi tänne: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
 
