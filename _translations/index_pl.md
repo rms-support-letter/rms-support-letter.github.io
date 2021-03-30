@@ -43,7 +43,7 @@ nie stara się załatwiać spraw dyplomatycznie.
 Niezależnie od tego opinie Stallmana na temat spraw,
 za które jest prześladowany, nie są istotne dla
 jego zdolności do przewodzenia społeczności takiej jak FSF.
-Co więcej, ma on prawo do swoich opinii tak samo
+Co więcej, ma on prawo do swoich opinii
 tak samo jak każdy inny. Członkowie i sympatycy nie
 muszą się zgadzać z jego opiniami, ale powinni szanować
 jego prawo do wolności myśli i słowa.
