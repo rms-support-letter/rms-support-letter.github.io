@@ -23,7 +23,7 @@ Clicke dann **"Propose new file"** (Neue Datei vorschlagen) und gehe die folgend
 
 Lass uns den Ton fest, aber professionell halten. 
 
-Wenn du kannst, teilen sie diesen Brief bitte in deinen Foren und sozialen Medien und benachrichtige Journalisten, die eventuell hilfreich für unsere Sache sein könnten.
+Wenn du kannst, teile diesen Brief bitte in deinen Foren und sozialen Medien und benachrichtige Journalisten, die eventuell hilfreich für unsere Sache sein könnten.
 
 Alternativ kannst du auch das Repo forken und clonen und die Datei `_data/signed/<Nutzername>.yaml` manuell erstellen, dann commiten und ein Pull Request einreichen.
 
@@ -33,7 +33,7 @@ Wenn du nicht GitHub verwenden möchtest, kannst du auch:
 - Oder unterschreibe hier: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
 
 
-Falls sie visuelle Hilfe benötigen, verwenden sie [dieses](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) Video (Englisch).
+Falls du visuelle Hilfe benötigst, verwende [dieses](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) Video (Englisch).
 
 **Alle Unterschriften werden - aufgrund der enormen Menge an Pull-Requests - innerhalb von maximal 12 Stunden verarbeitet.**
 
