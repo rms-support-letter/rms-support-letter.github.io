@@ -7,7 +7,7 @@ name: <Dein Name hier (optional Organisation oder Firma)>
 link: <Link zu deinem Profil oder deiner Website>
 ```
 
-Ohne Das`<>`.
+Ohne das`<>`.
 
 z.B.:
 ```yaml
@@ -40,6 +40,6 @@ Falls sie visuelle Hilfe benötigen, verwenden sie [dieses](https://invidious.sn
 ## Chaträume (Englisch)
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #free-rms on [freenode](https://freenode.net)
+- **IRC:** #free-rms auf [freenode](https://freenode.net)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
