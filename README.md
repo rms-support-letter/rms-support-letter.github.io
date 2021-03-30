@@ -3,8 +3,8 @@
 To sign, **click [here](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** and name the file `<username>.yaml` (replace `<username>` with your name) with the following content:
 
 ```yaml
-name: <your name here (optional organization or company)>
-link: <link to your profile or site>
+name: Badea Cristian
+link: https://github.com/cristiiy777
 ```
 
 Without the `<>`.
