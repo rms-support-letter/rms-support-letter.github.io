@@ -31,7 +31,8 @@ Jeśli możesz, prosimy, rozważ udostępnienie tego listu na swoich forach i w 
 
 Możesz także stworzyć forka tego repozytorium, stworzyć i zedytować `_data/signed/<username>.yaml` manualnie a następnie stworzyć commit i pull request.
 
-Jeśli chcesz wspomóc ten list beż logowania się do GitHuba przejdź tutaj: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1
+Jeśli chcesz wspomóc ten list **bez logowania się do GitHuba** przejdź tutaj: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1,
+lub wyślij podpisany email na adres [signrms@prog.cf](mailto:signrms@prog.cf) bądź [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
 ## Pokoje chatowe
 
