@@ -27,7 +27,7 @@ Ses tonunu sağlam tutalım ama profesyonelce.
 
 Eğer yapabiliyorsanız, bu mektubu forumlarda ve sosyal medyada paylaşıp bize yardımcı olabiliecek gazetecilere haber veriniz.
 
-Alternatif olarak, bu depoyu klonlayın ve şu dosyayı manuel olarak oluşturun : `_data/signed/<username>.yaml`, daha sonra bir PR'a gönderin.
+Alternatif olarak, bu depoyu klonlayın ve şu dosyayı manuel olarak oluşturun : `_data/signed/<username>.yaml`, daha sonra bir PR (pull request) gönderin.
 
 Eğer mektuba **Github kullanmadan** destek vermek istiyorsanız, şuraya gidin: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1,
 ve ya imzalı bir yamayı şuraya [signrms@prog.cf](mailto:signrms@prog.cf) ya da şuraya [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) gönderin.
@@ -45,7 +45,6 @@ Eğer hala görsel yardım istiyorsanız, [bu videoyu](https://invidious.snopyta
 ## Lisanslama
 Bu depodaki kod sadece GPL-3.0 ile lisanslıdır.
 
-
-"Assets" klasöründeki görseller [CC BY-SA 3.0] (https://creativecommons.org/licenses/by-sa/3.0/legalcode) altında lisanslanmıştır. Sosyal önizleme görüntüleri, orijinal olarak O'Reilly'nin `` Free as in Freedom '' kitabının kapağı olarak yayınlanan, CC BY-SA 3.0 altında yayınlanan https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg'e dayanmaktadır: Richard Stallman'ın Özgür Yazılım İçin Haçlı Seferi, 1 Mart 2002'de GFDL altında Sam Williams` tarafından yayınlandı.
+"Assets" klasöründeki görseller [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode) altında lisanslanmıştır. Sosyal önizleme görüntüleri, orijinal olarak O'Reilly'nin `Free as in Freedom` kitabının kapağı olarak yayınlanan, CC BY-SA 3.0 altında yayınlanan https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg 'e dayanmaktadır: Richard Stallman'ın `Özgür Yazılım İçin Haçlı Seferi`, 1 Mart 2002'de GFDL altında Sam Williams tarafından yayınlandı.
 
 İmzalar telif hakkına tabi değildir.
