@@ -16,7 +16,7 @@ name: Anders Svensson (God Företag AB)
 link: https://github.com/anders_svensson
 ```
 
-Använd inte `<>` eller icke-ASCI-symboler i filnamnet.
+Använd inte `<>` eller icke-ASCII-symboler i filnamnet.
 Om du använder din e-post som en länk, skriv `mailto:` framför din e-postadress.
 Om du kan, använd ditt riktiga namn och lägg till dina projekt eller anknutna organisationer inom parentes.
 
