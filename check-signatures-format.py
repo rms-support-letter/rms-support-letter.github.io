@@ -1,3 +1,4 @@
+import json
 import os
 import re
 
@@ -87,7 +88,17 @@ for file_name in sorted(os.listdir("_data/signed")):
                 report(f"{file_name} contains a colon followed by a space (': ') in the name on line {i + 1}. This will cause the parser to parse the file incorrectly. Please wrap the name in double quotes.")
             elif value.replace(" ", "").startswith("name"):
                 report(f"The name in {file_name} starts with 'name' on line {i + 1}. This may indicate a placeholder.")
+            if value[0] == "\"" and value[-1] == "\"":
+                try:
+                    value = json.loads(value)
+                except Exception:
+                    report(f"{file_name} contains an incorrectly encoded name on line {i + 1}. Please make sure the quoting is correct.")
         elif key == "link":
+            if value[0] == "\"" and value[-1] == "\"":
+                try:
+                    value = json.loads(value)
+                except Exception:
+                    report(f"{file_name} contains an incorrectly encoded link on line {i + 1}. Please make sure the quoting is correct.")
             if any(c.strip() == "" for c in value):
                 report(f"{file_name} contains unexpected whitespace on line {i + 1}. Please remove whitespace from the link.")
             if value.startswith("mailto:"):
