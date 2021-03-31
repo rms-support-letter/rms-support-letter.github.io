@@ -49,6 +49,6 @@ Si vous êtes un journaliste, un vidéaste ou un représentant d'un autre organi
 
 Le code de ce dépôt est uniquement sous la licence GPL-3.0.
 
-Les images du dossier `assets/` sont sous licence [CC BY-SA 3.0]. Les images de l'aperçu sont basées sur https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg, publié sous la licence CC BY-SA 3.0, originellement publié comme couverture du livre d'O'Reilly `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`, publié le 1er Mars 202 sous la licence GFDL.
+Les images du dossier `assets/` sont sous licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode). Les images de l'aperçu sont basées sur https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg, publié sous la licence CC BY-SA 3.0, originellement publié comme couverture du livre d'O'Reilly `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`, publié le 1er Mars 202 sous la licence GFDL.
 
 Les signatures ne sont pas sujettes au copyright.
