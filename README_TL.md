@@ -44,7 +44,7 @@ Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [b
 - **Telegram:** https://t.me/free_rms
 
 ## Makipag-ugnay
-Kung isa kang miyembro o kumakatawan ng isang pahayagan o isang youtuber, puwede kang makipag-ugnay sa amin sa pamamagitan ng e-liham:
+Kung isa kang miyembro o kumakatawan ng isang pahayagan, o isang youtuber, puwede kang makipag-ugnay sa amin sa pamamagitan ng e-liham:
 - rms-support-letter@protonmail.com
 
 ## Lisensiya
