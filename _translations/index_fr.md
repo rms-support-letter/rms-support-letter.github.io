@@ -69,3 +69,7 @@ Pour signer, merci de [faire une demande de fusion](https://github.com/rms-suppo
 
 * Envoyer un patch signé à [signrms@prog.cf](mailto:signrms@prog.cf) ou à [~tyil/rms-support@lists.sr.ht](~tyil/rms-support@lists.sr.ht).
 * Ou ajouter votre signature ici: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1.
+
+Partager sur:
+* [Reddit](https://www.reddit.com/submit?title=An%20open%20letter%20in%20support%20of%20RMS.&url=https%3A%2F%2Frms-support-letter.github.io)
+* [Twitter](https://twitter.com/home?status=An%20open%20letter%20in%20support%20of%20RMS.%0A%0Ahttps%3A%2F%2Frms-support-letter.github.io%0A%0A%23RMS)
