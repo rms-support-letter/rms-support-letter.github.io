@@ -121,7 +121,7 @@ for file_name in sorted(os.listdir("_data/signed")):
         report(f"{file_name} doesn't contain a name. Please specify your name or your alias.")
     if "link" not in existing_keys:
         report(f"{file_name} doesn't contain a link. Please specify a link to your online profile, e.g. on GitHub. If you really don't have a link, use /#")
-    if existing_keys["name"] != 0 or existing_keys["link"] != 1:
+    if "name" in existing_keys and "link" in existing_keys and (existing_keys["name"] != 0 or existing_keys["link"] != 1):
         report(f"{file_name} incorrectly orders name and link. Please put the name on the first line and the link on the second line.")
 
 
