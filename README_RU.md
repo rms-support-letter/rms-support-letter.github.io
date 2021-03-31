@@ -38,3 +38,7 @@ link: https://example.com/
 - **IRC:** #free-rms на [freenode](https://freenode.net)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
+
+## Связь
+Если вы представитель СМИ, блогер, или можете помочь с распространением информации каким-либо другим способом, вы можете связаться с нами по электронной почте:
+- rms-support-letter@protonmail.com
