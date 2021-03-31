@@ -7,7 +7,7 @@ name: <your name here (optional organization or company)>
 link: <link to your profile or site>
 ```
 
-Առանձ `<>`-երի:
+Առանց `<>`-երի:
 
 Օրինակ.
 ```yaml
@@ -25,7 +25,7 @@ link: https://github.com/example_username
 
 Եթե կարող եք, խնդրում ենք դիտարկել այս նամակի տարածումը ձեր ֆորումներում, սոցիալական կայքերում, եւ լրագրողական կազմակերպւթյուններում, որոնցից բոլորը կսատարեն այս գործը:
 
-Եթե դուք կամենում եք սատարել սույն նամակը **առանց GitHub-ի օգտագործման**, հարվիրում ենք այստեղ\`  https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, այլապես ուղարկեք GPG-ստորագրված patch հետեւյալ հասցեով\` [signrms@prog.cf](mailto:signrms@prog.cf) կամ  [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht):
+Եթե դուք կամենում եք սատարել սույն նամակը **առանց GitHub-ի օգտագործման**, հարվիրում ենք այստեղ\`  https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, այլապես ուղարկեք ստորագրված patch հետեւյալ հասցեով\` [signrms@prog.cf](mailto:signrms@prog.cf) կամ  [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht):
 
 Եթե ձեզ հարկավոր է օգնություն վիզւալ ուղղորդման միջոցով, ոգտագործեք [այս](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU** վիդեոն:
 
