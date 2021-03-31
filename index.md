@@ -72,3 +72,7 @@ To sign **without using Github**, you can:
 - Send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) 
 - Or to [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 - Or add your signature here: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
+
+Share this on:
+* [Reddit](https://www.reddit.com/submit?title=An%20open%20letter%20in%20support%20of%20RMS.&url=https%3A%2F%2Frms-support-letter.github.io)
+* [Twitter](https://twitter.com/home?status=An%20open%20letter%20in%20support%20of%20RMS.%0A%0Ahttps%3A%2F%2Frms-support-letter.github.io%0A%0A%23RMS)
