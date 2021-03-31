@@ -1,5 +1,14 @@
 # An open letter in support of RMS.
 
+This README is available in:
+
+[🇦🇱](README_AL.md)
+[🇦🇪](README_AR.md)
+[🇩🇪](README_DE.md)
+[🇪🇸](README_ES.md)
+[🇮🇷](README_FA.md)
+[🇫🇮](README_FI.md)
+
 To sign, **click [here](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** and name the file `<username>.yaml` (replace `<username>` with your name) with the following content:
 
 ```yaml
