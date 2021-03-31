@@ -41,6 +41,10 @@ If you still require help via visual instructions, use [this](https://invidious.
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 
+## Contact
+If you are a member of the press, a youtuber, or representing other news outlets, you can cotact us under this email:
+- rms-support-letter@protonmail.com
+
 ## Licensing
 The code in the repository is licensed under GPL-3.0-only.
 
