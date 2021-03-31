@@ -43,4 +43,4 @@ Nëse jeni gazetar, youtuber, ose përfaqësues të shtypit, mund të kontaktoni
 ## Licensing
 Kodi në këtë repozitor kanë liçensën GPL-3.0-only
 
-Imazhet tek folderi `assets` janë liçensuar sipas [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode). Imazhet janë bazuar tek https://commons.ëikimedia.org/ëiki/File:Richard_Mattheë_Stallman.jpeg, publikuar nën CC BY-SA 3.0, versioni i parë i së cilës ka qenë kopertinë e librit të botuar nga O'Reilly `Free as in Freedom: Richard Stallman's Crusade for Free Softëare by Sam Williams`, publikuar më 21 Mars 2002 nën GFDL.
+Imazhet tek folderi `assets` janë liçensuar sipas [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode). Imazhet janë bazuar tek https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg, publikuar nën CC BY-SA 3.0, versioni i parë i së cilës ka qenë kopertinë e librit të botuar nga O'Reilly `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`, publikuar më 21 Mars 2002 nën GFDL.
