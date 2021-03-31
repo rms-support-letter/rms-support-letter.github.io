@@ -42,7 +42,7 @@ If you still require help via visual instructions, use [this](https://invidious.
 - **Telegram:** https://t.me/free_rms
 
 ## Contact
-If you are a member of the press, a youtuber, or representing other news outlets, you can cotact us under this email:
+If you are a member of the press, a youtuber, or representing other news outlets, you can contact us under this email:
 - rms-support-letter@protonmail.com
 
 ## Licensing
