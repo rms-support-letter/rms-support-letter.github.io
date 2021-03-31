@@ -68,4 +68,4 @@ Richard Stallman.
 Pour signer, merci de [faire une demande de fusion](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls). Pour signer **sans utiliser GitHub**, vous pouvez:
 
 * Envoyer un patch signé à [signrms@prog.cf](mailto:signrms@prog.cf) ou à [~tyil/rms-support@lists.sr.ht](~tyil/rms-support@lists.sr.ht).
-* Ou ajouter votre signature ici: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1.
+* Ou ajouter votre signature ici: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1).
