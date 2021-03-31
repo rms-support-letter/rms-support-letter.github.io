@@ -43,6 +43,10 @@ Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [b
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 
+## Makipag-ugnay
+Kung isa kang miyembro o kumakatawan ng isang pahayagan o isang youtuber, puwede kang makipag-ugnay sa amin sa pamamagitan ng e-liham:
+- rms-support-letter@protonmail.com
+
 ## Lisensiya
 Ang kodigo sa imbakan na ito ay nakalisensya lamang sa GPL-3.0.
 
