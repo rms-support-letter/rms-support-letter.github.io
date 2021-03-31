@@ -28,7 +28,7 @@ This README is available in:
 [🇺🇦](README_UA.md)
 [🇻🇮](README_VI.md)
 [🇨🇳](README_ZH-CN.md)
-[🇨🇳](README_ZH-TW.md)
+[🇹🇼](README_ZH-TW.md)
 
 To sign, **click [here](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** and name the file `<username>.yaml` (replace `<username>` with your name) with the following content:
 
