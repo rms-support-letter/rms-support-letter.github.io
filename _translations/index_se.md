@@ -61,8 +61,7 @@ Ni har ingen rätt att välja ledarskap för några samfund.
 Särskilt inte via en pöbelattack som inte ens liknar en rättvist
 genomförd debatt vilken exemplifieras av bättre människor som Richard Stallman.
 
-För att signera, vänligen [skicka en pull request]
-(https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+För att signera, vänligen [skicka en pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
 För att signera **utan att använda Github**, kan du:
 
 - Skicka en signerad patch till [signrms@prog.cf](mailto:signrms@prog.cf) 
