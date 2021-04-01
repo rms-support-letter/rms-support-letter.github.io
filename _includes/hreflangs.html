@@ -1,28 +1,6 @@
 {% for translation in site.translations %}
-  {%- assign locale_tuple = translation.locale | split: "_" -%}
-  {%- assign lang = locale_tuple | first -%}
-  {%- assign region = locale_tuple | last -%}
-  {%- assign filename_prefix = 'index-' -%}
-  {%- assign filename_suffix = '.html' -%}
-  {%- if lang == 'zh' -%}
-    {%- if region == 'TW' -%}
-      {%- assign hreflang = 'zh-Hant' -%}
-      {%- assign downcase_hreflang = 'zh-Hant' | downcase -%}
-      <link rel="alternate" hreflang="{{hreflang}}" href="https://rms-support-letter.github.io/{{filename_prefix}}{{downcase_hreflang}}{{filename_suffix}}" />
-    {%- else -%}
-      {%- assign hreflang = 'zh-Hans' -%}
-      {%- assign downcase_hreflang = 'zh-Hans' | downcase -%}
-      <link rel="alternate" hreflang="{{hreflang}}" href="https://rms-support-letter.github.io/{{filename_prefix}}{{downcase_hreflang}}{{filename_suffix}}" />
-    {%- endif -%}
-  {%- elsif lang == 'pt' -%}
-    {%- assign downcase_region = region | downcase -%}
-    <link rel="alternate" hreflang="{{lang}}-{{region}}" href="https://rms-support-letter.github.io/{{filename_prefix}}{{lang}}-{{downcase_region}}{{filename_suffix}}" />
-  {%- elsif lang == 'gal' -%}
-    {%- assign lang = gl -%}
-    <link rel="alternate" hreflang="{{lang}}" href="https://rms-support-letter.github.io/{{filename_prefix}}{{lang}}{{filename_suffix}}" />
-  {%- else -%}
-    <link rel="alternate" hreflang="{{lang}}" href="https://rms-support-letter.github.io/{{filename_prefix}}{{lang}}{{filename_suffix}}" />
-  {%- endif -%}
+  {%- assign hreflang = translation.url | replace: '/index-', '' | replace: '.html', '' -%}
+  <link rel="alternate" hreflang="{{hreflang}}" href="https://rms-support-letter.github.io{{translation.url}}" />
 {%- endfor -%}
 <link rel="alternate" hreflang="en" href="https://rms-support-letter.github.io/" /><link rel="alternate" hreflang="x-defaul
 t" href="https://rms-support-letter.github.io/" />
