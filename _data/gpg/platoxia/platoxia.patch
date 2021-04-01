@@ -1,0 +1,9 @@
+diff --git a/rms-support-letter.github.io/_data/signed/platoxia.yaml b/rms-support-letter.github.io/_data/signed/platoxia.yaml
+new file mode 100644
+index 0000000..0211d60
+--- /dev/null
++++ b/rms-support-letter.github.io/_data/signed/platoxia.yaml
+@@ -0,0 +1,2 @@
++name: platoxia (FSF Member Since 2015)
++link: platoxia@member.fsf.org
+\ No newline at end of file
