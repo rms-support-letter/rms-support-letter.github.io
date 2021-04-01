@@ -28,4 +28,4 @@ Richard M. Stallman，常被稱為RMS，幾十年來以來一直是自由軟體�
 
 您無權決定任何社區的領導人，尤其是以網路攻擊的方式。這種攻擊與 Richard Stallman 等更好的人所展示的公平辯論相差甚遠。
 
-請通過提交 [pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls) 來提交簽名。 
+請通過提交 [pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls) 來提交簽名。
