@@ -45,9 +45,7 @@ name: Example name (Good company)
 link: https://github.com/example_username
 ```
 
-Don't use `<>` in this file, as well as non-ascii symbols in file name.
-If you're using your email as a link, prepend it with `mailto:`.
-If you are able to, please use your real name and add projects and affiliated organizations in parentheses.
+Don't use `<>` in this file, as well as non-ascii symbols in file name. If you're using your email as a link, prepend it with `mailto:`. If you are able to, please use your real name and add projects and affiliated organizations in parentheses.
 
 Then **click "Propose new file"** and go through the subsequent pages to create a merge request.
 
@@ -57,8 +55,7 @@ If you can, please consider sharing this letter on your forums and social media 
 
 Alternatively, fork and clone the repo, create the file `_data/signed/<username>.yaml` manually, then commit and submit a PR.
 
-If you want to support the letter **without using Github**, go here: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1,
-or send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) or [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+If you want to support the letter **without using Github**, go here: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, or send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) or [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
 If you still require help via visual instructions, use [this](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) video.
 
