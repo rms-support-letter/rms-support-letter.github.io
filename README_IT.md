@@ -2,8 +2,8 @@
 Per firmarla, crea un file nella cartella `_data/signed/` chiamato `<username>.yaml` con:
 
 ```yaml
-name: <il tuo nome>
-link: <link ad un tuo profilo o sito>
+name: Stefan Umit Uygur
+link: https://www.linkedin.com/in/ostendali/
 ```
 
 senza utilizzare `<>`.
