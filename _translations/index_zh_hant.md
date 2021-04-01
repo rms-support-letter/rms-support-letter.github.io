@@ -2,7 +2,7 @@
 layout: signed
 title: 一封支持 Richard Stallman 的公開信
 description: An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
-image: /assets/social-media-preview.png
+aimage: /assets/social-media-preview.png
 locale: zh_TW
 twitter:
   card: summary_large_image
