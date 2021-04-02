@@ -64,7 +64,7 @@ If you still require help via visual instructions, use [this](https://invidious.
 ## Chatrooms
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #free-rms on [freenode](https://freenode.net)
+- **IRC:** #free-rms on [freenode](https://freenode.net) ([webchat](http://kiwiirc.com/client/irc.freenode.net/#free-rms))
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 
