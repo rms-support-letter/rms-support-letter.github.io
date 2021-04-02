@@ -1,4 +1,4 @@
-# リチャード・ストールマンを支援する公開書簡
+# リチャード・ストールマン氏を支援する公開書簡
 
 署名する場合は、**[ここ](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)をクリックし**、ファイル名を `<ユーザ名>.yaml` (`<ユーザ名>`を自分の名前に置き換える) にした上で、以下の内容も入力して下さい:
 
@@ -15,8 +15,8 @@ name: 山田太郎 (良い会社)
 link: https://github.com/yamada_tarou
 ```
 
-このファイルに `<>` は記述しないようにしてください。また、ファイル名には非 ASCII 文字は入力しないようにしてください。  
-リンク先としてメールアドレスを使う場合は、先頭に `mailto:` を追加してください。  
+このファイルに `<>` は記述しないようにしてください。また、ファイル名には非 ASCII 文字は入力しないようにしてください。
+リンク先としてメールアドレスを使う場合は、先頭に `mailto:` を追加してください。
 可能であれば、ぜひ実名を使い、丸括弧内にプロジェクトや関係のある団体名を追加してください。
 
 その後、**"Propose new file" をクリックし**、次に表示されるページで Merge Request を作成してください。
@@ -27,7 +27,8 @@ link: https://github.com/yamada_tarou
 
 他の方法として、リポジトリをクローン、フォークした上で、`_data/signed/<ユーザ名>.yaml` というファイルを手動で作成し、コミットして、PR を出すこともできます。
 
-**Github を使わず**に署名したい場合、このサイトに来てください: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1 、もしくは署名されたパッチを [signrms@prog.cf](mailto:signrms@prog.cf)、または [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) まで送ってください。
+**Github を使わず**に署名したい場合、このサイトに来てください: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1、  
+もしくは署名されたパッチを [signrms@prog.cf](mailto:signrms@prog.cf)、または [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) まで送ってください。
 
 もし、視覚的な助けが必要な場合は、[動画](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) (ただし、英語) があります。
 
