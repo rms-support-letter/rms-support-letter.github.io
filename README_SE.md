@@ -9,7 +9,7 @@ link: <länk till din profil eller hemsida>
 
 Utan `<>` symbolerna.
 
-Exempel:
+Exämpel:
 
 ```yaml
 name: Anders Svensson (God Företag AB)
@@ -44,7 +44,7 @@ Om du fortfarande behöver hjälp via visuella instruktioner, använd [den här 
 
 
 ## Licensiering
-Koden i arkivet är licensierad under GPL-3.0.
+Köden i arkivet är licensierad under GPL-3.0.
 
 Bilderna i mappen `assets` är licensierade under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode). De sociala förhandsgranskningsbilderna är baserade på https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg, publicerad under CC BY-SA 3.0, som ursprungligen trycktes som omslag för O'Reillys bok `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`, publicerad den 1 mars 2002 under GFDL.
 
