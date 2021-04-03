@@ -1,3 +1,4 @@
+import json
 import os
 import re
 
@@ -29,7 +30,7 @@ for file_name in sorted(os.listdir("_data/signed")):
     if contents.endswith("\n\n\n"):
         report(f"{file_name} contains too many trailing empty lines. Please remove them.")
 
-    existing_keys = set()
+    existing_keys = {}
     for i, line in enumerate(contents.split("\n")):
         if not line:
             continue
@@ -74,16 +75,33 @@ for file_name in sorted(os.listdir("_data/signed")):
             report(f"{file_name} contains an empty '{key}:' on line {i + 1}, please fix this.")
             continue
 
-        if key in existing_keys:
+        if "*" in value:
+            report(f"{file_name} contains an asterisk on line {i + 1}. The signatures are not rendered as Markdown, so formatting won't work. Please remove the asterisk.")
+
+        if key.lower() in existing_keys:
             report(f"{file_name} contains duplicate key '{key}'.")
-        existing_keys.add(key.lower())
+        existing_keys[key.lower()] = i
 
         if key == "name":
             if any(c.strip() == "" and c != " " for c in value):
                 report(f"{file_name} contains an unexpected special whitespace character on line {i + 1}. Please replace it with a space.")
             if len(" ".join(value.split())) < len(value):
                 report(f"{file_name} contains double space on line {i + 1}. Please keep a single space.")
+            if ": " in value and (value[0] != "\"" or value[-1] != "\""):
+                report(f"{file_name} contains a colon followed by a space (': ') in the name on line {i + 1}. This will cause the parser to parse the file incorrectly. Please wrap the name in double quotes.")
+            elif value.replace(" ", "").startswith("name"):
+                report(f"The name in {file_name} starts with 'name' on line {i + 1}. This may indicate a placeholder.")
+            if value[0] == "\"" and value[-1] == "\"":
+                try:
+                    value = json.loads(value)
+                except Exception:
+                    report(f"{file_name} contains an incorrectly encoded name on line {i + 1}. Please make sure the quoting is correct.")
         elif key == "link":
+            if value[0] == "\"" and value[-1] == "\"":
+                try:
+                    value = json.loads(value)
+                except Exception:
+                    report(f"{file_name} contains an incorrectly encoded link on line {i + 1}. Please make sure the quoting is correct.")
             if any(c.strip() == "" for c in value):
                 report(f"{file_name} contains unexpected whitespace on line {i + 1}. Please remove whitespace from the link.")
             if value.startswith("mailto:"):
@@ -106,6 +124,8 @@ for file_name in sorted(os.listdir("_data/signed")):
         report(f"{file_name} doesn't contain a name. Please specify your name or your alias.")
     if "link" not in existing_keys:
         report(f"{file_name} doesn't contain a link. Please specify a link to your online profile, e.g. on GitHub. If you really don't have a link, use /#")
+    if "name" in existing_keys and "link" in existing_keys and (existing_keys["name"] != 0 or existing_keys["link"] != 1):
+        report(f"{file_name} incorrectly orders name and link. Please put the name on the first line and the link on the second line.")
 
 
 if not ok:

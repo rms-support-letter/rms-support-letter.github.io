@@ -1,0 +1,6 @@
+{% for translation in site.translations %}
+  {%- assign hreflang = translation.url | replace: '/index-', '' | replace: '.html', '' -%}
+  <link rel="alternate" hreflang="{{ hreflang }}" href="{{ translation.url | absolute_url }}" />
+{%- endfor -%}
+<link rel="alternate" hreflang="en" href="https://rms-support-letter.github.io/" />
+<link rel="alternate" hreflang="x-default" href="https://rms-support-letter.github.io/" />

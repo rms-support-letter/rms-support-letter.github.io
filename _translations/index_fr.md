@@ -65,4 +65,7 @@ meute qui ne ressemble en rien à un débat conduit de manière
 raisonnable et équitable tel qu'illustré par de meilleures personnes comme
 Richard Stallman.
 
-Pour signer, faîtes s'il vous plait [une pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Pour signer, merci de [faire une demande de fusion](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls). Pour signer **sans utiliser GitHub**, vous pouvez:
+
+* Envoyer un patch signé à [signrms@prog.cf](mailto:signrms@prog.cf) ou à [~tyil/rms-support@lists.sr.ht](~tyil/rms-support@lists.sr.ht).
+* Ou ajouter votre signature ici: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1).

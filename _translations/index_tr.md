@@ -1,8 +1,8 @@
 ---
 layout: signed
-title: An open letter in support of Richard M. Stallman
-description: An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
-image: /assets/social-media-preview.png
+title: Richard M. Stallman için Destek Metni
+description: Richard Matthew Stallman'ın Özgür Yazılım Vakfı'na geri dönüşü için destek metni
+image: /assets/social-media-preview_tr_TR.png
 locale: tr_TR
 twitter:
   card: summary_large_image

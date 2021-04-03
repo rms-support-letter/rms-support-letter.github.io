@@ -27,7 +27,7 @@ link: https://example.com/
 
 위 방법 대신에 이 저장소를 fork 하여 clone 한 후, `_data/signed/<username>.yaml` 를 직접 만들고 commit 한 후에 PR 을 제출하셔도 됩니다.
 
-Github 을 사용하지 않고 이 공개 서한을 지지하고 싶으시다면 다음을 참고하시기 바랍니다: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1  혹은 서명된 패치를 [signrms@prog.cf](mailto:signrms@prog.cf) 혹은 [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) 으로 주셔도 서명하실 수 있습니다.
+**Github 을 사용하지 않고** 이 공개 서한을 지지하고 싶으시다면 다음을 참고하시기 바랍니다: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1  혹은 서명된 패치를 [signrms@prog.cf](mailto:signrms@prog.cf) 혹은 [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht) 으로 주셔도 서명하실 수 있습니다.
 
 서명하는 방법을 잘 모르시겠다면 [이 영상(영어)](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU)을 참고하시기 바랍니다.
 
@@ -39,3 +39,10 @@ Github 을 사용하지 않고 이 공개 서한을 지지하고 싶으시다면
 - **IRC:** chat.freenode.net 서버의 #free-rms 채널
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
+
+## 저작권
+이 저장소의 코드는 GPL-3.0-only 하에 사용 가능합니다.
+
+`assets` 폴더 내의 이미지들은 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode) 하에 사용 가능합니다.  SNS 미리보기 이미지는 CC BY-SA 3.0 하에 출판된 https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg 을 사용하였습니다.  참고로 이 이미지는 2002년 3월 1일에 GFDL 저작권 하에 출판된 O'Reilly 사의 책 `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams`의 표지에 사용된 것입니다.
+
+서명들은 저작권의 대상 범위가 아닙니다.
