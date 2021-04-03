@@ -36,14 +36,14 @@ ogetiva e del purismo de la lenguò, che durante le so argomentasiù ga ria mia
 de iga atensiù ai sentemench de le persune.
 Chesto rent le so argomentasiù esposte a fraintendemench e interpretasiù sbagliade, argota
 che sentom l'è dré a suceder en de la letera deerta che pretent la so rimusiù.
-Le so parole gares bisogn de eser interpretade en chesto contesto e
-tegner da cont che pe dele olte
+Le so parole gares bisogn de eser interpretade en chésto contesto e
+tegner da cönt che pë délé olté
 el serca mia de poner le robe en de na manera diplomatica.
 
 Endipendentemente da le opiniù se le robe
-che l'è stat perseguitat Stallman, gliè mia rilevanti se
-la so capacità de portà aànti na comunità come la FSF.
-Per de pe, el ga dirit a le so opiniù
+che l'è stat perseguitat Stallman, gliè mia rilevanti së
+la so capacità de portà aànti na comunidà come la FSF.
+Per de pë, el ga dirìt a le sò opiniù
 tant quant tech gli oter. Member e sostinitur/e ga miò
 bisogn de eser dacorde con le sò opiniù, ma garés de respetà
 al so dirito à la libetà de penser e de parola.
@@ -51,24 +51,24 @@ al so dirito à la libetà de penser e de parola.
 **Ala FSF:**
 
 Scasà vià RMS farà dagn à la reputasù de la FSF e causarà
-na tremenda enciodada à lo slancio che ga al movimento del software liber.
-Va racomandom de valutà con atensiù le ostre asiù,
-dato che chel che decidarif garà profunde conseguense
+na tremenda enciodada à lo slancio che ga al moemént del software liber.
+Va racomandom de valütà con atensiù le ostre asiù,
+dato che chel che decidarìf garà profunde conseguense
 s'el futuro de l'industria del software.
 
 
 **Ai prevaricatur che opportunisticamente gliè dre a fa racket per saltà adòs a Richard Stallman
 se ragionevoli argomentasù in dibattito e verie opiniù e credense
-esprese per decenni come figura publica:**
+esprese per decenni come figüra püblica:**
 
-Ghif neént a che fa col decider la dirigensò de na comunità.
-Men che meno tramite anoter linciaggio che somea gna de visì
-an dibattito gest come demostrat
-da zent migliur coma per esemp Richard Stallman.
+Ghif neént a che fa col decider la dirigensò de na comunidà.
+Men che meno tramite anotér linciaggio che sömea gna de visì
+an dibattito gëst come demostràt
+da zént migliùr come per esemp Richard Stallman.
 
 Per firmà, per piaser [manda na pull
 request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
-Per firmà **sensa doprà Github**, ta pedet:
+Per firmà **sensa doprà Github**, ta pëdét:
 - Mandà na patch firmada a [signrms@prog.cf](mailto:signrms@prog.cf) 
 - Altrimenti a [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
-- Altrimenti met la tò firma che: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
+- Altrimenti mét la tò firma chë: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
