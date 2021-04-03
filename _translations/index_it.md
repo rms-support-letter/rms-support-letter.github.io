@@ -17,7 +17,7 @@ con contributi come il sistema operativo GNU
 ed Emacs.
 
 Di recente assistiamo a vergognosi attacchi online
-con l'obiettivo di scalzarlo dal direttivo della FSF
+con l'obiettivo di allontanarlo dal direttivo della FSF
 per aver espresso delle opinioni personali. Siamo già stati testimoni
 di simili attacchi organizzati, portati verso
 importanti attivisti e programmatori di software libero.
@@ -37,7 +37,7 @@ e rigore nel linguaggio, lasciando in secondo piano i
 sentimenti delle persone sugli argomenti che tratta.
 Questo atteggiamento rende le sue argomentazioni
 soggette a incomprensioni e travisamenti, che è quel che ci pare stia accadendo
-nella lettera aperta che chiede la sua cacciata.
+nella lettera aperta che chiede il suo allontanamento.
 Le sue parole vanno interpretate in questo contesto e
 tenendo conto che il più delle volte
 non si esprime in maniera diplomatica.
@@ -52,7 +52,7 @@ il suo diritto alla libertà di pensiero e di parola.
 
 **Alla FSF:**
 
-La cacciata di RMS danneggerà l'immagine della FSF e infliggerà
+L'allontanamento di RMS danneggerà l'immagine della FSF e infliggerà
 un duro colpo alla crescita del movimento del software libero.
 Facciamo un appello perché consideriate con attenzione le vostre azioni,
 poiché ciò che deciderete avrà un serio impatto
@@ -68,8 +68,8 @@ Certamente non attraverso un linciaggio che non assomiglia
 lontanamente a un equo dibattito come quelli di cui
 persone migliori di voi come Richard Stallman hanno dato esempio.
 
-Per firmare, [inviare una pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
-Per firmare senza usare Github si può:
+Per firmare **utilizzando Github** [inviare una pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Per firmare **senza usare Github** si può:
 - Mandare una patch firmata a [signrms@prog.cf](mailto:signrms@prog.cf)
 - Oppure a [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 - O aggiungere qui la propria firma: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
