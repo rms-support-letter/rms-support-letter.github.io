@@ -3,6 +3,7 @@ layout: signed
 title: Letera deérta per sostegner Richard M. Stallman
 description: Na letera deérta per sostegner Richard Matthew Stallman per eser reintegrat ndé la Free Software Foundation
 image: /assets/social-media-preview.png
+locale: lmo_IT
 twitter:
   card: summary_large_image
 ---
