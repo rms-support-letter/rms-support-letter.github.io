@@ -60,15 +60,16 @@ sul futuro dell'industria del software.
 
 
 **Alla folla inferocita che si è raccolta contro Richard Stallman
-puntando su alcuni ragionevoli argomenti di dibattito e su varie opinioni e sulle convinzioni
-espresse nel corso di decenni da figura pubblica:**
+puntando su alcuni ragionevoli argomenti di dibattito e su varie opinioni e convinzioni
+da lui espresse nel corso di decenni da figura pubblica:**
 
 Non avete alcun ruolo nella scelta della leadership di alcuna comunità.
-Certamente non attraverso un linciaggio che non assomiglia
-lontanamente a un equo dibattito come quelli di cui
+Certamente non attraverso un linciaggio che è ben lontano da
+un equo dibattito; dibattiti di cui
 persone migliori di voi come Richard Stallman hanno dato esempio.
 
 Per firmare **utilizzando Github** [inviare una pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+
 Per firmare **senza usare Github** si può:
 - Mandare una patch firmata a [signrms@prog.cf](mailto:signrms@prog.cf)
 - Oppure a [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
