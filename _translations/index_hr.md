@@ -3,7 +3,7 @@ layout: signed
 title: Otvoreno Pismo u Potporu Richardu M. Stallmanu
 description: Otvoreno pismo u potporu Richardu Matthew Stallmanu pri njegovom ponovnom izboru u Free Software Foundation-u.
 image: /assets/social-media-preview.png
-locale: hr
+locale: hr_HR
 twitter:
   card: summary_large_image
 ---
