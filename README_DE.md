@@ -16,7 +16,7 @@ link: https://github.com/Beispiel_nutzername
 ```
 
 Benutze in dieser Datei `<>` nicht, und verwende im Dateinamen keine nicht-ascii Symbole .
-Wenn Sie Ihre E-Mail als Link verwenden, stellen Sie sie `mailto`: voran. 
+Wenn du deine E-Mail als Link verwendest, stelle sie mit `mailto`: voran. 
 Wenn es dir möglich ist, nutze bitte deinen echten Namen und füge Projekte und verbundene Organisationen in Klammern hinzu.
 
 Clicke dann **"Propose new file"** (Neue Datei vorschlagen) und gehe die folgenden Seiten durch, um ein Merge-Request zu erstellen.
