@@ -1,7 +1,45 @@
+@font-face {
+	font-family: "Noto Color Emoji";
+	src: url("/assets/NotoColorEmojiFlags.woff");
+}
+
 .translations {
-  text-align: end;
+	text-align: end;
+	margin: 0 0 1em 0;
+}
+
+@media screen and (min-width: 800px) {
+	.translations {
+		width: 50%;
+		margin: 0 0 1em auto;
+	}
+}
+
+.translations p {
+	margin: 0 0 0.5em 0;
 }
 
 .translation {
-  font-size: 2em;
+	line-height: 0.8em;
+	font-family: "Noto Color Emoji", sans-serif;
+	font-size: 2em;
+}
+
+.footer-col-1, .footer-col-2 {
+	width: -webkit-calc(100% - (30px / 2));
+	width: calc(100% - (30px / 2));
+}
+
+// .footer-col-wrapper becomes "display: flex" on "min-width: 800px"
+@media screen and (min-width: 800px) {
+	.footer-col-1 {
+		width: -webkit-calc(70% - (30px / 2));
+		width: calc(70% - (30px / 2));
+	}
+	
+	.footer-col-2 {
+		text-align: right;
+		width: -webkit-calc(30% - (30px / 2));
+		width: calc(30% - (30px / 2));
+	}
 }

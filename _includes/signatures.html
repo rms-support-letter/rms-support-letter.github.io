@@ -1,0 +1,30 @@
+<p><b>Signed by {{ site.data.signed.size }} individuals:</b></p>
+<ol>
+  <!--<li><a href="https://github.com/[1-999][1-999][1-999][1-999]">Spider Trap</a></li>-->
+{%- capture signs -%}
+  {%- for sign_hash in site.data.signed -%}
+    {%- assign signature = sign_hash[1] -%}
+    {%- assign name = signature.name | strip -%}
+    {%- assign name_order = name | downcase -%}
+    {%- assign first_char = name_order | slice: 0 -%}
+    {%- assign first_number = first_char | plus: 0 | append: '' -%}
+    {%- if first_char == first_number -%}
+      {%- assign name_order = name_order | prepend: '~' -%}
+    {%- endif -%}
+    <array>{{ name_order | escape }}<field>
+    <field>{{ name | escape }}<field>
+    <field>{{ signature.link | strip | escape }}<field>
+  {%- endfor -%}
+{%- endcapture -%}
+{%- assign sorted_signs = signs | split: '<array>' | sort_natural -%}
+{%- for signature in sorted_signs -%}
+  {%- assign sign_items = signature | split: '<field>' -%}
+  {%- if sign_items[2] and sign_items[4] -%}
+  {%- assign name = sign_items[2] -%}
+  {%- assign link = sign_items[4] -%}
+  <li>
+  	<a href="{{ link }}">{{ name }}</a>
+  </li>
+  {%- endif -%}
+{%- endfor -%}
+</ol>

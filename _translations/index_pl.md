@@ -1,0 +1,72 @@
+---
+layout: signed
+title: List otwarty wspierający Richarda M. Stallmana
+description: List otwarty wspierający Richarda Matthew Stallmana w powrocie do Fundacji Wolnego Oprogramowania
+image: /assets/social-media-preview_pl_PL.png
+locale: pl_PL
+twitter:
+  card: summary_large_image
+---
+
+2021-03-23
+
+Richard M. Stallman, często zwany RMS,
+był siłą napędową ruchu wolnego oprogramowania
+od dziesięcioleci i miał wkład między innymi
+w system operacyjny GNU i Emacs.
+
+Ostatnio w sieci pojawiły się nikczemne ataki
+zmierzające do usunięcia go z zarządu FSF (Fundacji Wolnego Oprogramowania)
+za wyrażanie osobistych opinii. Widzieliśmy już
+wcześniej takie zorganizowane akcje przeciw innym
+istotnym działaczom na rzecz wolnego oprogramowania i programistom.
+Tym razem nie będziemy stać bezczynnie, gdy ikona
+tej społeczności jest atakowana.
+
+FSF jest autonomiczną organizacją, która jest w stanie traktować
+swoich członków w uczciwy, bezstronny sposób i nie powinna
+poddawać się zewnętrznym naciskom społecznym. Wzywamy
+FSF do obiektywnego rozważenia argumentów przeciwko RMS
+i do prawdziwego zrozumienia znaczenia jego słów i działań.
+
+W przeszłości RMS wyrażał swoje poglądy w sposób,
+który denerwował wielu ludzi. Zazwyczaj jest on bardziej skupiony na
+filozoficznych podstawach, dążeniu do obiektywnej
+prawdy i puryzmu językowego, kładąc mniejszy nacisk na emocje
+w sprawach, które komentuje. To sprawia, że jego argumenty
+podatne są na nieporozumienia i przeinaczenia,
+co naszym zdaniem ma miejsce w "otwartym" liście wzywającym do jego usunięcia.
+Jego słowa należy interpretować w tym kontekście oraz
+biorąc pod uwagę, że często
+nie stara się załatwiać spraw dyplomatycznie.
+
+Niezależnie od tego opinie Stallmana na temat spraw,
+za które jest prześladowany, nie są istotne dla
+jego zdolności do przewodzenia społeczności takiej jak FSF.
+Co więcej, ma on prawo do swoich opinii
+tak samo jak każdy inny. Członkowie i sympatycy nie
+muszą się zgadzać z jego opiniami, ale powinni szanować
+jego prawo do wolności myśli i słowa.
+
+**Do FSF:**
+
+Usunięcie RMS zaszkodzi wizerunkowi FSF i będzie
+to znaczący cios dla dynamiki ruchu wolnego oprogramowania.
+Nalegamy, byście uważnie rozważyli swoje działania,
+ponieważ to, za czym zadecydujecie, będzie miało poważny wpływ
+na przyszłość przemysłu programistycznego.
+
+
+**Do zasadzającego się tłumu, który atakuje Richarda Stallmana za
+rozsądne argumenty w debacie oraz różne opinie i przekonania
+wyrażane przez dziesięciolecia jako osoba publiczna:**
+
+Nie macie udziału w wybieraniu przywództwa żadnej społeczności.
+Szczególnie nie poprzez kolejny atak tłumu, który w najmniejszym stopniu nie przypomina
+rzetelnie prowadzonej debaty, jakiej przykład dają
+lepsi ludzie, tacy jak Richard Stallman.
+
+Aby podpisać [złóż pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Aby podpisać bez używania GitHuba możesz:
+- Wysłać patch do [signrms@prog.cf](mailto:signrms@prog.cf) lub [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+- Albo oddać podpis tutaj: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
