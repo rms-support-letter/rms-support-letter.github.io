@@ -66,7 +66,7 @@ If you still require help via visual instructions, use [this](https://invidious.
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
 - **IRC:** #free-rms on [freenode](https://freenode.net) ([webchat](https://kiwiirc.com/client/irc.freenode.net/#free-rms)) (Jabber gateway : `#free-rms%chat.freenode.net@biboumi.marc-o.win` )
 - **XMPP/jabber:** [support-rms@conf.marc-o.win](xmpp:support-rms@conf.marc-o.win?join)
-- **Discord:** https://discord.gg/7FWkxG4CsU - [Reasons not to use the Discord communications system](https://stallman.org/discord.html)
+- **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 
 ## Contact
