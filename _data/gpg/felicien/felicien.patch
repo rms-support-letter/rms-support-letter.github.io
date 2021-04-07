@@ -1,0 +1,9 @@
+diff --git a/_data/signed/felicien.yaml b/_data/signed/felicien.yaml
+new file mode 100644
+index 00000000..7a1b098c
+--- /dev/null
++++ b/_data/signed/felicien.yaml
+@@ -0,0 +1,2 @@
++name: Félicien Pillot (Informatique Libre)
++link: https://informatiquelibre.fr
+\ No newline at end of file

@@ -1,0 +1,8 @@
+diff --git a/_data/signed/cleger.yaml b/_data/signed/cleger.yaml
+new file mode 100644
+index 00000000..2060a691
+--- /dev/null
++++ b/_data/signed/cleger.yaml
+@@ -0,0 +1,2 @@
++name: Christian Leger
++link: mailto:me@cleger.me
