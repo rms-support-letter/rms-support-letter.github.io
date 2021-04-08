@@ -26,7 +26,7 @@ This README is available in:
 [🇵🇭](README_TL.md)
 [🇹🇷](README_TR.md)
 [🇺🇦](README_UA.md)
-[🇻🇮](README_VI.md)
+[🇻🇳](README_VI.md)
 [🇨🇳](README_ZH-CN.md)
 [🇹🇼](README_ZH-TW.md)
 
