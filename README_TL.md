@@ -25,8 +25,6 @@ Panatilihin nating matatag ang tono, pero propesyunal.
 
 Kung kaya mo, i-kunsidera mo ang pamamahagi ng liham na ito sa iyong mga forum at social media, at ipabatid sa mga manunulat na makakatulong sa ating pinaglalaban.
 
-**Pinagsasama-sama ang mga pull request sa loob ng 12 oras - dahil sa dami sila'y ipagsasama-sama sa mga magkakasamang pangkat.**
-
 Puwede rin i-fork at clone ang repo. Gumawa ng file na `_data/signed/<username>.yaml` nang manu-mano, tapos i-commit at mag-submit ng PR.
 
 Kung gusto mong suportahan ang liham nang **hindi ginagamit ang Github**, puntahan ito: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1,
@@ -40,6 +38,7 @@ Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [b
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
 - **IRC:** #free-rms sa [freenode](https://freenode.net)
+- **XMPP/jabber:** support-rms@conf.marc-o.win
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 
