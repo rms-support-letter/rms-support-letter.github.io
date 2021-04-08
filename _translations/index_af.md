@@ -1,7 +1,7 @@
 ---
 layout: signed
-title: 'n Ope brief in ondersteuning van Richard M. Stallman
-description: 'n Ope brief in ondersteuning van Richard Matthew Stallman se herinstelling aan die Free Software Foundation  
+title: 'n Ope brief ter ondersteuning van Richard M. Stallman
+description: 'n Ope brief ter ondersteuning van Richard Matthew Stallman se herinstelling aan die Free Software Foundation  
 image: /assets/social-media-preview.png
 locale: af_ZA
 twitter:
