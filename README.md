@@ -1,6 +1,7 @@
 # An open letter in support of RMS.
 
 This README is available in:
+[🇿🇦](README_AF.md)
 [🇦🇱](README_AL.md)
 [🇦🇪](README_AR.md)
 [🇩🇪](README_DE.md)
