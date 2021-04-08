@@ -1,4 +1,4 @@
-# Thư ngỏ ủng hộ
+# Thư ngỏ ủng hộ RMS
 
 Để ký, **nhấn vào [đây][ghpr]** và đặt tên tệp là `<tên tài khoản>.yaml`
 (thay `<tên tài khoản>` bằng tên tài khoản của bạn) với nội dung như sau:
