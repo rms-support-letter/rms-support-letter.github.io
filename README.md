@@ -60,8 +60,6 @@ If you want to support the letter **without using Github**, go here: https://cod
 
 If you still require help via visual instructions, use [this](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) video.
 
-**All signatures will be processed within 12 hours at max - due to a huge volume of PRs**
-
 ## Chatrooms
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
