@@ -50,8 +50,6 @@ Don't use `<>` in this file, as well as non-ascii symbols in file name. If you'r
 
 Then **click "Propose new file"** and go through the subsequent pages to create a merge request.
 
-Let's keep the tone firm, but professional.
-
 If you can, please consider sharing this letter on your forums and social media and notify journalists who might be helpful to our cause.
 
 Alternatively, fork and clone the repo, create the file `_data/signed/<username>.yaml` manually, then commit and submit a PR.
@@ -68,6 +66,9 @@ If you still require help via visual instructions, use [this](https://invidious.
 - **Discord:** <https://discord.gg/7FWkxG4CsU>
 - **Telegram:** <https://t.me/free_rms>
 - **Github Discussion:** <https://github.com/rms-support-letter/rms-support-letter.github.io/discussions>
+
+## Our friends
+https://stallmansupport.org/
 
 ## Contact
 If you are a member of the press, a youtuber, or representing other news outlets, you can contact us under this email:
