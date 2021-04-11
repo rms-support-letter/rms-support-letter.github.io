@@ -58,6 +58,9 @@ If you want to support the letter **without using Github**, go here: https://cod
 
 If you still require help via visual instructions, use [this](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) video.
 
+### Did you change your mind and would like to remove your signature from the letter against Richard Stallman?
+You can show your intention here: https://github.com/rms-support-letter/revoke-open-letter-signature
+
 ## Chatrooms
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
