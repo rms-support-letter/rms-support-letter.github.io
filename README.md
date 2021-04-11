@@ -72,7 +72,7 @@ https://stallmansupport.org/
 
 ## Contact
 If you are a member of the press, a youtuber, or representing other news outlets, you can contact us under this email:
-- rms-support-letter@protonmail.com
+- [rms-support-letter@protonmail.com](mailto:rms-support-letter@protonmail.com)
 
 ## Licensing
 The code in the repository is licensed under GPL-3.0-only.
