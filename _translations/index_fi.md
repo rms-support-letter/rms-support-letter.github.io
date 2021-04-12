@@ -10,7 +10,7 @@ twitter:
 
 2021-03-23
 
-Richard M. Stallman, joka myös tunnetaan nimimerkillä RMS on ollut vapaan ohjelmistoliikkeen vapaan ohjelmistoliikkeen johtava voima useamman vuosikymmenen ajan ja on tukenut liikettä työpanoksellaan, johon sisältyy GNU-käyttöjärjestelmä ja Emacs-tekstieditori.
+Richard M. Stallman, joka myös tunnetaan nimimerkillä RMS on ollut vapaan ohjelmistoliikkeen johtava voima useamman vuosikymmenen ajan ja on tukenut liikettä työpanoksellaan, johon sisältyy GNU-käyttöjärjestelmä ja Emacs-tekstieditori.
 Hiljattain Richard Stallman on joutunut katalan hyökkäyksen kohteeksi netissä, jonka tavoitteena on hänen erottaminen Free Software Foundationin johtokunnasta. Olemme nähneet samankaltaisen järjestäytyneen hyökkäyksen tapahtuneen muille merkittäville vapaan ohjelmiston aktivisteille ja ohjelmoijille. Emme tule katsomaan vierestä, kun liikkeemme johtohahmo joutuu hyökkäyksen kohteeksi.
 
 Free Software Foundation on itsenäinen järjestö, jolle on mahdollista kohdella jäseniään reilulla ja puolueettomalla tavalla eikä pitäisi sortua ulkoisiin paineisiin. Kehotamme Free Software Foundationia tarkastelemaan Stallmanin vastustajien perusteluja hänen erottamiselleen objektiivisesti ja ymmärtämään hänen sanojen ja tekojen todellista merkitystä.
