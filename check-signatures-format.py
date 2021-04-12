@@ -75,7 +75,7 @@ for file_name in sorted(os.listdir("_data/signed")):
             report(f"{file_name} contains an empty '{key}:' on line {i + 1}, please fix this.")
             continue
 
-        if "*" in value:
+        if value.count("*") >= 2:
             report(f"{file_name} contains an asterisk on line {i + 1}. The signatures are not rendered as Markdown, so formatting won't work. Please remove the asterisk.")
 
         if key.lower() in existing_keys:
