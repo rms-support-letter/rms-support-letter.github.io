@@ -32,7 +32,8 @@ o magpadala ng nakapirmang tapal sa [signrms@prog.cf](mailto:signrms@prog.cf) o 
 
 Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [bidyo](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) para rito.
 
-**Lahat ng mga pirma ay ipoproceso sa loob ng 12 oras - dahil sa napalaking bilang ng mga PR**
+### Nagbago ba ang isip mo at gusto mong ipatanggal ang iyong pirma mula sa liham laban kay Richard Stallman?
+Puwede mong ipakita ang iyong intensyon dito: https://github.com/rms-support-letter/revoke-open-letter-signature
 
 ## Mga silid pang-usap
 
@@ -42,9 +43,12 @@ Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [b
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 
+## Kaibigan namin
+https://stallmansupport.org/
+
 ## Makipag-ugnay
 Kung isa kang miyembro o kumakatawan ng isang pahayagan, o isang youtuber, puwede kang makipag-ugnay sa amin sa pamamagitan ng e-liham:
-- rms-support-letter@protonmail.com
+- [rms-support-letter@protonmail.com](mailto:rms-support-letter@protonmail.com)
 
 ## Lisensiya
 Ang kodigo sa imbakan na ito ay nakalisensya lamang sa GPL-3.0.
