@@ -27,14 +27,21 @@ link: https://github.com/example
 
 Підписати відкритого листа, без використання Github можна перейшовши за посиланням: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, або надіславши підписаний патч на [signrms@prog.cf](mailto:signrms@prog.cf) чи [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
-**Усі підписи будуть прийняті протягом 12 годин - через велику кількість запитів**
+### Ви змінили своє рішення і хотіли б видалити Ваш підпис з листа проти Річарда Столмена?
+Ви можете зробити це тут: https://github.com/rms-support-letter/revoke-open-letter-signature
 
 ## Чатруми
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #free-rms на [freenode](https://freenode.net) ([webchat](https://kiwiirc.com/client/irc.freenode.net/#free-rms))
+- **IRC:** #free-rms на [freenode](https://freenode.net) ([webchat](https://kiwiirc.com/client/irc.freenode.net/#free-rms)) (Jabber gateway : #free-rms%chat.freenode.net@biboumi.marc-o.win )
+- **XMPP/jabber:** support-rms@conf.marc-o.win
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
+- **Github Discussion:** <https://github.com/rms-support-letter/rms-support-letter.github.io/discussions>
+
+## Наші товариші
+
+https://stallmansupport.org/
 
 ## Зв'язок
 
