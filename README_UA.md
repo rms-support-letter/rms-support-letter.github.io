@@ -27,8 +27,6 @@ link: https://github.com/example
 
 Підписати відкритого листа, без використання Github можна перейшовши за посиланням: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, або надіславши підписаний патч на [signrms@prog.cf](mailto:signrms@prog.cf) чи [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
-**Усі підписи будуть прийняті протягом 12 годин - через велику кількість запитів**
-
 ### Ви змінили своє рішення і хотіли б видалити Ваш підпис з листа проти Річарда Столмена?
 Ви можете зробити це тут: https://github.com/rms-support-letter/revook-open-letter-signature
 
