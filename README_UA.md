@@ -33,6 +33,7 @@ link: https://github.com/example
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
 - **IRC:** #free-rms на [freenode](https://freenode.net) ([webchat](https://kiwiirc.com/client/irc.freenode.net/#free-rms))
+- **XMPP/jabber:** support-rms@conf.marc-o.win
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 - **Github Discussion:** <https://github.com/rms-support-letter/rms-support-letter.github.io/discussions>
