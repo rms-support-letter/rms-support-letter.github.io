@@ -35,6 +35,7 @@ link: https://github.com/example
 - **IRC:** #free-rms на [freenode](https://freenode.net) ([webchat](https://kiwiirc.com/client/irc.freenode.net/#free-rms))
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
+- **Github Discussion:** <https://github.com/rms-support-letter/rms-support-letter.github.io/discussions>
 
 ## Зв'язок
 
