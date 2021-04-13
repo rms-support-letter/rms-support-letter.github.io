@@ -37,6 +37,10 @@ link: https://github.com/example
 - **Telegram:** https://t.me/free_rms
 - **Github Discussion:** <https://github.com/rms-support-letter/rms-support-letter.github.io/discussions>
 
+## Наші товариші
+
+https://stallmansupport.org/
+
 ## Зв'язок
 
 Якщо Ви можете допомогти з поширенням інформації будь-яким іншим чином, ви можете зв'язатися з нами по електронній пошті:
