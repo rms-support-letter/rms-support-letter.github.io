@@ -29,6 +29,9 @@ link: https://github.com/example
 
 **Усі підписи будуть прийняті протягом 12 годин - через велику кількість запитів**
 
+### Ви змінили своє рішення і хотіли б видалити Ваш підпис з листа проти Річарда Столмена?
+Ви можете зробити це тут: https://github.com/rms-support-letter/revook-open-letter-signature
+
 ## Чатруми
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
