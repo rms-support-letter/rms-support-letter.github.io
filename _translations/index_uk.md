@@ -2,7 +2,7 @@
 layout: signed
 title: Відкритий лист у підтримку Річарда Столмена
 description: Відкритий лист у підтримку поновлення Річарда Метью Столмена у Фонді вільного програмного забезпечення
-image: /assets/social-media-preview.png
+image: /assets/social-media-preview_uk_UA.png
 locale: uk_UA
 twitter:
   card: summary_large_image
