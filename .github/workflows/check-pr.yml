@@ -6,10 +6,6 @@ on:
     paths:
       - _data/signed/*
   workflow_dispatch:
-    inputs:
-      names:
-        description: 'Check signatures'
-        required: false
 jobs:
   deploy:
     runs-on: ubuntu-latest
