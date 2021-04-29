@@ -12,6 +12,7 @@ This README is available in:
 [🇪🇸](README_GL.md)
 [🇬🇷](README_GR.md)
 [🇭🇺](README_HU.md)
+[🇦🇲](README_HY.md)
 [🇮🇹](README_IT.md)
 [🇯🇵](README_JP.md)
 [🇰🇷](README_KO.md)
