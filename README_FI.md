@@ -7,7 +7,6 @@ README-tiedosto on myös saatavilla seuraavilla kielillä:
 [🇩🇪](README_DE.md)
 [🇪🇸](README_ES.md)
 [🇮🇷](README_FA.md)
-[🇫🇮](README_FI.md)
 [🇫🇷](README_FR.md)
 [🇪🇸](README_GL.md)
 [🇬🇷](README_GR.md)
