@@ -1,5 +1,37 @@
 # Avoin kirje Richard Stallmanin tueksi
 
+README-tiedosto on myös saatavilla seuraavilla kielillä:
+[🇿🇦](README_AF.md)
+[🇦🇱](README_AL.md)
+[🇦🇪](README_AR.md)
+[🇩🇪](README_DE.md)
+[🇪🇸](README_ES.md)
+[🇮🇷](README_FA.md)
+[🇫🇮](README_FI.md)
+[🇫🇷](README_FR.md)
+[🇪🇸](README_GL.md)
+[🇬🇷](README_GR.md)
+[🇭🇺](README_HU.md)
+[🇮🇹](README_IT.md)
+[🇯🇵](README_JP.md)
+[🇰🇷](README_KO.md)
+[🇱🇻](README_LV.md)
+[🇳🇴](README_NB_NO.md)
+[🇳🇱](README_NL.md)
+[🇵🇱](README_PL.md)
+[🇧🇷](README_PT_BR.md)
+[🇵🇹](README_PT_PT.md)
+[🇷🇴](README_RO.md)
+[🇷🇸](README_RS.md)
+[🇷🇺](README_RU.md)
+[🇸🇪](README_SE.md)
+[🇵🇭](README_TL.md)
+[🇹🇷](README_TR.md)
+[🇺🇦](README_UA.md)
+[🇻🇳](README_VI.md)
+[🇨🇳](README_ZH-CN.md)
+[🇹🇼](README_ZH-TW.md)
+
 Allekirjoittaakseen avoimen kirjeen, paina **[tätä](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** painiketta ja nimeä tiedosto `<username>.yaml`(korvaa `<username>` käyttäjänimelläsi). Lisää seuraavat tiedot tiedostoon:
 
 ```yaml
