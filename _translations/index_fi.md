@@ -17,7 +17,7 @@ Free Software Foundation on itsenäinen järjestö, jolle on mahdollista kohdell
 
 Richard Stallmanin tapa ilmaista mielipiteensä on menneisyydessä suututtanut useita ihmisiä. Hän puheissaan yleensä keskittyy enemmän filosofiseen, objektiivisen totuuden tavoitteluun ja kielelliseen purismiin samalla kuin hän jättää puheissaan korostamatta niiden ihmisten tunteita, joita hän kommentoi. Tämä jättää hänen perustelut erottamatta jättämisestä alttiiksi väärinymmärrykselle ja hämäykselle, jota avoin kirje hänen erottamiseksi tavoittelee. Hänen sanojaan tulee tulkita kontekstin kanssa ja ottaen huomioon, että hän ei aina hoida asioita diplomatian kautta.
 
-Puheistaan huolimatta, joista häntä vainotaan ei vaikuta hänen kykyyn johtaa yhteisöä, johon kuuluu Free Software Foundation. Lisäksi, hänellä on oikeus omiin mielipiteisiin samalla tavalla kuin jokaisella muulla. Free Software Foundationin jäsenet ja tukijat eivät saata olla samaa mieltä hänen kanssaan, mutta hiedän tulee kunnioittaa hänen sanan- ja ajatuksenvapautta.
+Puheistaan huolimatta, joista häntä vainotaan ei vaikuta hänen kykyyn johtaa yhteisöä, johon kuuluu Free Software Foundation. Lisäksi, hänellä on oikeus omiin mielipiteisiin samalla tavalla kuin jokaisella muulla. Free Software Foundationin jäsenet ja tukijat eivät saata olla samaa mieltä hänen kanssaan, mutta heidän tulee kunnioittaa hänen sanan- ja ajatuksenvapautta.
 
 **Free Software Foundationille:**
 Richard Stallmanin erottaminen johtokunnasta tulee vaurioittamaan merkittävästi Free Software Foundationin mainetta ja tulee vähentämään vapaan ohjelmistoliikkeen vaikuttavuutta. Kehotamme teitä harkitsemaan tekojanne varovaisesti, sillä tekonne tulee vaikuttamaan merkittävästi ohjelmistoalaan.
