@@ -35,7 +35,7 @@ link: https://example.com/
 ## Чаты
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #freerms на libera ([webchat](https://kiwiirc.com/client/irc.libera.chat/#freerms))
+- **IRC:** #freerms на [libera](https://libera.chat) ([webchat](https://kiwiirc.com/client/irc.libera.chat/#freerms))
 - **IRC:** #free-rms на [freenode](https://freenode.net) ([webchat](https://kiwiirc.com/client/irc.freenode.net/#free-rms), мост на Jabber: `#free-rms%chat.freenode.net@biboumi.marc-o.win`)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
