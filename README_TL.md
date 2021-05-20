@@ -38,7 +38,7 @@ Puwede mong ipakita ang iyong intensyon dito: https://github.com/rms-support-let
 ## Mga silid pang-usap
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #free-rms sa [freenode](https://freenode.net)
+- **IRC:** #free-rms sa [freenode](https://freenode.net) ([usap-sapot](http://kiwiirc.com/client/irc.freenode.net/#free-rms), gateway pang-Jabber: `#free-rms%chat.freenode.net@biboumi.marc-o.win` at #freerms sa [libera](http://libera.chat/) ([usap-sapot](http://kiwiirc.com/client/irc.libera.chat/#freerms))
 - **XMPP/jabber:** support-rms@conf.marc-o.win
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
