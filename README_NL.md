@@ -37,6 +37,6 @@ Als u nog steeds hulp nodig heeft via visuele instructies, gebruik [deze](https:
 ## Chatrooms
 
 - **Matrix.org:** #free-rms:matrix.org
-- **IRC:** #free-rms at chat.freenode.net
+- **IRC:** #freerms at irc.libera.chat
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms

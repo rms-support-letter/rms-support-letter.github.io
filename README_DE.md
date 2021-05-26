@@ -40,6 +40,6 @@ Falls du visuelle Hilfe benötigst, verwende [dieses](https://invidious.snopyta.
 ## Chaträume (Englisch)
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #free-rms auf [freenode](https://freenode.net)
+- **IRC:** #freerms auf [libera](https://libera.chat)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms

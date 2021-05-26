@@ -37,6 +37,6 @@ lub wyślij podpisany email na adres [signrms@prog.cf](mailto:signrms@prog.cf) b
 ## Pokoje chatowe
 
 - **Matrix.org:** #free-rms:matrix.org
-- **IRC:** #free-rms at chat.freenode.net
+- **IRC:** #freerms at irc.libera.chat
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms

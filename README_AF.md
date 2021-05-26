@@ -34,7 +34,7 @@ As jy kan, oorweeg dit om díe brief in jou forums en sosiale media te versprei.
 ## Kletskamers
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #free-rms on [freenode](https://freenode.net) ([webchat](https://kiwiirc.com/client/irc.freenode.net/#free-rms)) (Jabber gateway : `#free-rms%chat.freenode.net@biboumi.marc-o.win` )
+- **IRC:** #freerms on [libera](https://libera.chat) ([webchat](https://kiwiirc.com/client/irc.libera.chat/#freerms))
 - **XMPP/jabber:** [support-rms@conf.marc-o.win](xmpp:support-rms@conf.marc-o.win?join)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
