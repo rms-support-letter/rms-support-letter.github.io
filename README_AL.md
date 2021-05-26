@@ -32,7 +32,7 @@ Nëse përsëri ju duhet ndihmë nga ana vizuale, shikoni [videon](https://invid
 ## Chatrooms
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #free-rms on [freenode](https://freenode.net)
+- **IRC:** #freerms on [libera](https://libera.chat)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 

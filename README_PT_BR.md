@@ -35,6 +35,6 @@ ou enviar um patch assinado para [signrms@prog.cf] (mailto: signrms@prog.cf) ou 
 ## Salas de chat
 
 - **Matrix.org:** # free-rms: matrix.org
-- **IRC:** # free-rms em chat.freenode.net
+- **IRC:** # freerms em irc.libera.chat
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms 

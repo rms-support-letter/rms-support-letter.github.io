@@ -36,7 +36,7 @@ link: https://example.com/
 ## 채팅방
 
 - **Matrix.org:** #free-rms:matrix.org
-- **IRC:** chat.freenode.net 서버의 #free-rms 채널
+- **IRC:** irc.libera.chat 서버의 #freerms 채널
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 
