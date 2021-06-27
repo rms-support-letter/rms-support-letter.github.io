@@ -28,4 +28,9 @@ Richard M. Stallman，通常被称为 RMS，几十年来以来一直是自由软
 
 您没有参与选举任何社区领导人的权利。特别是不能通过网络攻击来进行。这种攻击与 Richard Stallman 等更好的人所展示的公平辩论完全不同。
 
-请通过提交 [pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls) 来提交签名。 
+请通过提交 [pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls) 来提交签名。
+
+你也可以**不使用 Github**提交签名：
+- 发送一个签名的补丁至 [signrms@prog.cf](mailto:signrms@prog.cf)
+- 或者发送至 [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+- 或者在这里添加你的签名：[https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
