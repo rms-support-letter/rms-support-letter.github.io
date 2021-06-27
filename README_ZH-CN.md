@@ -33,7 +33,7 @@ link: https://github.com/example_username
 
 如果你需要可视化的操作帮助，可观看[此视频](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU)。
 
-### 你是否改变了想法并且希望从这封支持公开信中删除你的签名？
+### 你是否改变了想法并且希望从这封支持 RMS 的公开信中删除你的签名？
 请访问这里获得更多帮助：https://github.com/rms-support-letter/revoke-open-letter-signature
 
 ## 聊天室
