@@ -46,10 +46,6 @@ link: https://github.com/example_username
 ## 我们的朋友
 https://stallmansupport.org/
 
-## 联系方式
-如果你是新闻界从业者、youtuber 或其他新闻媒体可使用下面的电子邮件与我们联系：
-- [rms-support-letter@protonmail.com](mailto:rms-support-letter@protonmail.com)
-
 ## Licensing
 本仓库中的代码仅基于 GPL-3.0 发布。
 
