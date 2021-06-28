@@ -33,7 +33,8 @@ link: https://github.com/example_username
 
 如果你需要可视化的操作帮助，可观看[此视频](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU)。
 
-**所有的签名 PR 最慢会在 12 小时内合并，毕竟 PR 的数量庞大**
+### 你是否改变了想法并且希望从这封支持 RMS 的公开信中删除你的签名？
+请访问这里获得更多帮助：https://github.com/rms-support-letter/revoke-open-letter-signature
 
 ## 聊天室
 
@@ -41,3 +42,13 @@ link: https://github.com/example_username
 - **IRC:** #freerms at irc.libera.chat
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
+
+## 我们的朋友
+https://stallmansupport.org/
+
+## Licensing
+本仓库中的代码仅基于 GPL-3.0 发布。
+
+`assets` 文件夹中的图片基于 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode) 发布。 社交预览图 https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg，基于 CC BY-SA 3.0 发布，最初作为 O'Reilly 的书籍 `Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams` 的封面基于 GFDL 发布于 2002年 3 月 1日。
+
+签名不受版权保护。
